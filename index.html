@@ -44,6 +44,12 @@
         background-color: #fff;
         border-left: none;
       }
+      /* Visually indicate disabled inputs */
+      .form-control:disabled {
+        opacity: 0.6;
+        cursor: not-allowed;
+        background-color: #e9ecef;
+      }
     </style>
   </head>
   <body class="bg-light">
@@ -78,6 +84,7 @@
               class="form-control"
               accept=".json"
               title="Import existing alignment JSON"
+              disabled
             />
           </div>
         </div>
@@ -154,14 +161,19 @@
     <!-- Application Script: insert your existing JS below -->
     <script>
       let standards = [];
+      function updateImportInput() {
+        const importInput = document.getElementById("importJsonFile");
+        importInput.disabled = !(stateValue && standards.length > 0);
+      }
       let projects = [];
       let stateValue = "";
       let importedAlignments = new Map();
       // Track current user selections (seeded from importedAlignments)
       let selectedAlignments = new Map(importedAlignments);
-      document
-        .getElementById("stateInput")
-        .addEventListener("input", (e) => (stateValue = e.target.value.trim()));
+      document.getElementById("stateInput").addEventListener("input", (e) => {
+        stateValue = e.target.value.trim();
+        updateImportInput();
+      });
 
       const standardsAccordion = document.getElementById("standardsAccordion");
       const detailHeader = document.getElementById("detailHeader");
@@ -185,6 +197,7 @@
                 standardText: row["Standard Text"],
               }));
               console.log("✅ Standards loaded:", standards);
+              updateImportInput();
               tryRender();
             },
           });
@@ -194,6 +207,14 @@
       document
         .getElementById("importJsonFile")
         .addEventListener("change", (e) => {
+          const importInput = document.getElementById("importJsonFile");
+          if (importInput.disabled) {
+            alert(
+              "Please enter a state and upload standards before importing JSON."
+            );
+            importInput.value = "";
+            return;
+          }
           const file = e.target.files[0];
           if (!file) return;
           const reader = new FileReader();
@@ -267,7 +288,7 @@
         "Intro to Python"
       );
       addMapping(
-        ["6-8", "9-10", "9-12", "7", "8", "9", "10", "11", "12", "MS", "HS"],
+        ["6-8", "9-10", "9-12", "8", "9", "10", "11", "12", "MS", "HS"],
         "Data Science & AI"
       );
 
