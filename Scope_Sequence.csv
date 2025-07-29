@@ -1,0 +1,1049 @@
+Course,Level,ID,Project Name,Project Type,Project Theme,Learning Objectives,Vocabulary,CSTA Standards
+CS Adventures with VR,0,0.1,Technology Then and Now,Unplugged,,"Students will:
+- Understand the importance of technology and how it has impacted our lives
+- Compare how people have utilized technology in the past and present
+- Identify and analyze how technology impacts different communities
+- Evaluate the impacts of technology in a community
+- Apply their knowledge by matching past and present items of technology","Technology, Community",1A-IC-16
+CS Adventures with VR,0,0.2,Exploring the World of CS,Unplugged,,"Students will:
+- Use appropriate terminology in identifying and describing the function of common physical components of computing systems.
+- Identify and describe basic computer hardware, including a variety of input and output devices, and software using accurate terminology.
+- Apply computational thinking by engaging in activities that involve identifying objects that contain computers and assembling a paper keyboard.","Computer Science, Computer, Computer Hardware",1A-CS-02
+CS Adventures with VR,0,0.3,Step-by-Step Superstars,Unplugged,,"Students will:
+- Understand the importance of giving directions in a specific order, step-by-step, to complete tasks, recognizing that these directions can be represented using symbols, such as arrows.
+- Model daily processes by creating and following algorithms to complete tasks.
+- Decompose the steps needed to solve a problem into precise sequential steps.",Algorithm,"1A-AP-08, 1A-AP-09, 1A-AP-11"
+CS Adventures with VR,0,0.4,Screen Smarties,Unplugged,,"Students will:
+- Identify and demonstrate examples of how to be safe with computers, such as handling devices carefully and using approved websites and apps.
+- Recognize and practice being respectful with computers, including asking permission to take pictures and using only their own accounts.
+- Describe and apply responsible computer behaviors, such as keeping personal information private and properly storing devices after use.
+- Demonstrate how to be a learner when using computers by staying on task during activities and following directions, such as putting their screens down immediately when asked.","Responsible, Respectful","1A-NI-04, 1A-IC-17, 1A-IC-18
+"
+CS Adventures with VR,0,0.5,Click Clever,Unplugged,,"Students will:
+- Understand the importance of online safety and explain how to identify safe websites using the ""traffic light"" system.
+- Identify and discuss what information is safe or not safe to share online.
+- Distinguish between personal and public information.
+- Explain why it’s important to keep personal information like passwords private.","Password, Personal Information, Public Information, Login","1A-NI-04, 1A-IC-18"
+CS Adventures with VR,0,0.6,Digital Citizenship,Unplugged,,"Students will:
+- Identify and practice ways to show kindness both online and in person, reinforcing respectful digital interactions.
+- Participate in activities that promote kindness
+- Create and commit to an Online Kindness Pledge, making a personal promise to practice kindness in all their online interactions.","Digital Citizenship, Pledge",1A-IC-17
+CS Adventures with VR,0,0.7,Respecting Others' Work,Activity,,"Students will:
+- Understand and explain the importance of respecting others' work and ideas, including why it's important to ask for permission and give credit to creators.
+- Practice identifying sources and giving proper credit.","Credit, Source, Permission, Remix","1A-CS-02, 1A-AP-08, 1A-AP-09, 1A-AP-13, 1A-IC-16, 1A-IC-17, 1A-IC-18
+"
+CS Adventures with VR,0,0.8,Data Discovery,Activity,,"Students will:
+- Collect and present the same data in various visual formats.
+- Identify and describe patterns in data using visualizations such as charts or graphs.","Data, Graph, Bar Graph, Pie Chart","1A-DA-06, 1A-DA-07"
+CS Adventures with VR,0,0.9,Google Slides Playground,Activity,,"Students will:
+- Navigate the online workbook in Google Slides to perform basic tasks such as typing, inserting images, and resizing objects.
+- Search, store, retrieve and modify information using a computer device and recognize that this information is stored as data.
+- Identify basic hardware and software issues and troubleshoot them using accurate terminology.","Application, Google Slide, Cursor, Rotate, Copy/paste, Crop, Upload, Right-click","1A-CS-01,
+1A-CS-03, 1A-DA-05"
+CS Adventures with VR,0,0.10,Scavenger Hunt,Activity,,"Students will:
+- Log into a website using provided credentials and navigate through an activity.
+- Use multimedia features (audio, pop-ups) to support their understanding of online content.
+- Practice correct keyboarding techniques by using appropriate hand and body positions.","Navigate, Tutorial, Login, GIF, Scroll, Pop-up, Window, Audio, Project Rubric","1A-CS-01, 1A-DA-05"
+CS Adventures with VR,1,1.1,Dinosaur Hero,Guided Project,"In this project, students help a dinosaur mother find her missing eggs!","Students will:
+- Understand the different types of projects they’ll be completing, how rubrics are used, and what it means for a project to be sent back
+- Successfully login to their Hello World CS account
+Identify the parts and functions of the computer and keyboard
+- Practice keyboarding with both hands
+- Use their knowledge of the keyboard and trackpad/mouse to successfully complete the first project, Dinosaur Hero","computer science, virtual reality, computer, computer screen, keyboard, trackpad, mouse, enter key, spacebar, teamwork","1A-CS-02, 1A-CS-03, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,1,1.2,Find the Fish,Team Project,"In this project, students help their teacher find a missing fish!","Student teams will:
+- Successfully work together
+- Practice keyboarding with both hands
+- Use their knowledge of the keyboard and trackpad/mouse to successfully complete the project","computer science, virtual reality, computer, computer screen, keyboard, trackpad, mouse, enter key, spacebar, teamwork","1A-CS-02, 1A-CS-03, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,1,1.3,Mail Grab!,Independent Project,"In this project, students collect all of the missing mail before the mail truck finishes the route!","Student will:
+- Practice keyboarding with both hands
+- Use their knowledge of the keyboard and trackpad/mouse to successfully complete the project","computer science, virtual reality, computer, computer screen, keyboard, trackpad, mouse, enter key, spacebar, teamwork","1A-CS-02, 1A-CS-03, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,2,2.1,Animal Rescue,Guided Project,"In this project, students build an animal rescue filled with their favorite animals.","Students will:
+- Build a VR scene with a unique environment
+- Add groups of objects to the VR scene
+- Add animations to objects in the scene
+- Practice keyboarding with both hands","algorithm, animation, binary code, code, environment, group, object inspector, scene, virtual reality","1A-CS-02, 1A-CS-03, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,2,2.2,Halloween Parade,Team Project,"In this project, student teams build a parade with Halloween characters!","Student teams will:
+- Successfully work together
+- Build a scene with a unique environment and object
+- Change the materials and animations of objects in the scene","algorithm, animation, binary code, code, environment, group, object inspector, scene, virtual reality","1A-CS-02, 1A-CS-03, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,2,2.3,Backyard Dance Party,Independent Project,"In this project, students are having a dance party in their backyard!","Students will:
+- Build a scene with a unique environment and object
+- Change the materials and animations of objects in the scene","algorithm, animation, binary code, code, environment, group, object inspector, scene, virtual reality","1A-CS-02, 1A-CS-03, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,3,3.1,Alien Planet,Guided Project,"In this project, students are talking to aliens on a different planet!","Students will:
+- Change the material of an object
+- Add speech to an object
+- Add buildings that feature in the scene","material, speech, building, decorated","1A-CS-02, 1A-CS-03, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,3,3.2,Alphabet Town,Team Project,"In this project, student teams build a town based on a letter that they choose!","Student teams will:
+- Change the material of an object
+- Add speech to an object
+- Add buildings that feature in the scene","material, speech, building, decorated","1A-CS-02, 1A-CS-03, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,3,3.3,I Spy,Independent Project,"In this project, students create an I Spy game!","Students will:
+- Change the material of an object
+- Add speech to an object
+- Add buildings that feature in the scene","material, speech, building, decorated","1A-CS-02, 1A-CS-03, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,4,4.1,The Magic Forest,Guided Project,"In this project, students create a magic forest where magical animals live.","Students will:
+- Add code so that objects can be clicked on
+- Add code so that the animation changes when an object is clicked on
+- Change the size of objects","code, event, when object is clicked, set animation of object","1A-CS-02, 1A-CS-03, 1A-AP-08, 1A-AP-09, 1A-AP-10, 1A-AP-11, 1A-AP-12, 1A-AP-13, 1A-AP-14, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,4,4.2,Holiday Fun,Team Project,"In this project, student teams will create a holiday celebration. Some examples of holidays are New Year’s Eve, Valentine’s Day, 4th of July, Thanksgiving, Mother’s Day, and Father’s Day.","Students will:
+- Add code so that objects can be clicked on
+- Add code so that the animation changes when an object is clicked on
+- Change the size of objects","code, event, when object is clicked, set animation of object","1A-CS-02, 1A-CS-03, 1A-AP-08, 1A-AP-09, 1A-AP-10, 1A-AP-11, 1A-AP-12, 1A-AP-13, 1A-AP-14, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,4,4.3,Passion Project,Independent Project,"In this project, students create a CoSpace of their choice! They will use the skills they’ve learned in this level, and follow any guidance given by their teacher.","Students will:
+- Add code so that objects can be clicked on
+- Add code so that the animation changes when an object is clicked on
+- Change the size of objects","code, event, when object is clicked, set animation of object","1A-CS-02, 1A-CS-03, 1A-AP-08, 1A-AP-09, 1A-AP-10, 1A-AP-11, 1A-AP-12, 1A-AP-13, 1A-AP-14, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,5,5.1,Picnic Party,Guided Project,"In this project, students create a picnic where people and animals are enjoying a party!","Students will:
+- Add a show info panel with text for the user
+- Add code so that text appears when an object is clicked on
+- Add code so that the animation changes when an object is clicked on","loops, show info panel, animate when clicked on, say text when clicked on","1A-CS-02, 1A-CS-03, 1A-AP-08, 1A-AP-09, 1A-AP-10, 1A-AP-11, 1A-AP-12, 1A-AP-13, 1A-AP-14, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,5,5.2,Dinosaur Safari,Team Project,"In this project, student teams will create a dinosaur safari.","Student teams will:
+- Add a show info panel with text for the user
+- Add code so that text appears when an object is clicked on
+- Add code so that the animation changes when an object is clicked on","loops, show info panel, animate when clicked on, say text when clicked on","1A-CS-02, 1A-CS-03, 1A-AP-08, 1A-AP-09, 1A-AP-10, 1A-AP-11, 1A-AP-12, 1A-AP-13, 1A-AP-14, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Adventures with VR,5,5.3,Passion Project,Independent Project,"In this project, students create a CoSpace of their choice! They will use the skills they’ve learned in this level, and follow any guidance given by their teacher.","Students will:
+- Add a show info panel with text for the user
+- Add code so that text appears when an object is clicked on
+- Add code so that the animation changes when an object is clicked on","loops, show info panel, animate when clicked on, say text when clicked on","1A-CS-02, 1A-CS-03, 1A-AP-08, 1A-AP-09, 1A-AP-10, 1A-AP-11, 1A-AP-12, 1A-AP-13, 1A-AP-14, 1A-AP-15, 1A-IC-17, 1A-IC-18"
+CS Breakthroughs with VR,0,0.1,Cyber Smart Explorers,Unplugged,,"Students will:
+- Understand cybersecurity basics.
+- Compare and contrast private and public information.
+- Identify ways to be safe, respectful, responsible and a learner with computers as a part of digital citizenship
+- Demonstrate account safety by creating strong passwords, logging off devices, and keeping information private.","Digital Citizenship, Cybersecurity, Personal Information, Public Information, Phishing, Password",1B-NI-05
+CS Breakthroughs with VR,0,0.2,Digital Footprints,Unplugged,,"Students will:
+- Define digital footprint and digital etiquette.
+- Describe how information retained online creates a permanent digital footprint.
+- Create a representation of how they can leave a positive digital footprint, including strategies for protecting personal information and respecting others online.","Digital Footprint, Digital Etiquette, Upstander",1B-NI-05
+CS Breakthroughs with VR,0,0.3,Journey Through Computer Systems,Unplugged,,"Students will:
+- Model how hardware and software components work together to complete tasks within a computer system.
+- Demonstrate how data is transmitted as packets across a network and reassembled at the destination.
+- Evaluate whether specific components in a system are hardware or software.","Hardware, Software, Components, Computer System, Data Packets","1B-CS-01, 1B-CS-02, 1B-NI-04"
+CS Breakthroughs with VR,0,0.4,Technology Transformations,Unplugged,,"Students will:
+- Discuss computing technologies that have changed the world and how they have influenced our cultural practices.
+- Redesign an item at their school with features that will make it more inclusive.
+- Explain how accessibility features in technology improve usability for diverse users.","Accessible, Diverse, Inclusive","1B-IC-18, 1B-IC-19"
+CS Breakthroughs with VR,0,0.5,Copyright: Protecting Creativity,Unplugged,,"Students will:
+- What is Copyright and why is it important?
+- What are the differences between copyright, public domain, and fair use?
+- How can we use someone else’s work legally and respectfully?","Copyright, Fair Use, Public Domain, Creative Commons, Remix, Copyright Infringement",1B-IC-21
+CS Breakthroughs with VR,0,0.6,Data Detectives,Unplugged,,"Students will:
+- Use data to highlight or propose cause and effect relationships, predict outcomes, or communicate an idea.
+- Organize and present collected data visually to highlight relationships and support a claim.","Data, Predict, Analyze","1B-DA-06, 1B-DA-07"
+CS Breakthroughs with VR,0,0.7,Slide Smarts with Digital Workbooks,Activity,,"Students will:
+- Navigate the online workbook.
+- Practice keyboarding skills and how to use a trackpad.
+- Learn how to move, flip and rotate objects.
+- Use features like typing, resizing images, and inserting pictures into Google Slides.","Application, Google Slide, Cursor, Rotate, Copy/paste, Crop, Upload, Right-click","1B-NI-05, 1B-IC-21"
+CS Breakthroughs with VR,0,0.8,Scavenger Hunt,Activity,,"Students will:
+- Identify and apply basic troubleshooting techniques.
+- Navigate the Hello World CS website.
+- Practice correct keyboarding techniques by using appropriate hand and body positions.","Troubleshoot, Tutorial, Navigate, Login, Audio, Scroll, Window, Pop-up, Project Rubric","1B-CS-03, 1B-NI-05"
+CS Breakthroughs with VR,0,0.9,VR Tutorial,Guided Project,,"Students will:
+- Identify environments and objects in virtual scenes.
+- Successfully navigate through the Dinosaur Hero activity.
+- Add and manipulate objects in a scene in the Desert Camp activity.","CoSpace, Library, Object, Scene",
+CS Breakthroughs with VR,1,1.1,Our Class Pet,Guided Project,"In this project, students choose and train a class pet for their virtual reality classroom.","Students will:
+- Add objects from the Library into a scene
+- Change the look of the scene by updating the environment
+- Change the animation of objects using the Object Inspector","Animation, Scene, Environment, Library, Object","1B-CS-03, 1B-AP-11, 1B-AP-12, 1B-AP-14"
+CS Breakthroughs with VR,1,1.2,Team Battle,Team Project,"In this project, student teams will create an epic battle between two teams of characters or animals!","Student teams will:
+- Add objects from the Library to create two teams
+- Change the animation of objects using the Object Inspector
+- Change the look of the teams using the Material property","Animation, Scene, Environment, Library, Object","1B-CS-03, 1B-AP-11, 1B-AP-12, 1B-AP-13, 1B-AP-14, 1B-AP-16, 1B-AP-17, 1B-IC-20"
+CS Breakthroughs with VR,1,1.3,Future Me,Independent Project,"In this project, students create a scene about who they want to be in the future!","Student will:
+- Add objects from the Library to design a scene
+- Change the animations of objects using the Object Inspector","Animation, Scene, Environment, Library, Object","1B-CS-03, 1B-AP-11, 1B-AP-12, 1B-AP-14"
+CS Breakthroughs with VR,1,1.4,Passion Project,Independent Project,"In this project, students create and design a CoSpace of their choice. Students use the skills they’ve learned in this level, and follow any guidance given by their teacher.","Students will be able to:
+- Add objects from the Library into a scene
+- Change the look of the scene by updating the environment
+- Change the animation of characters using the Object Inspector","Animation, Scene, Environment, Library, Object","1B-CS-03, 1B-AP-11, 1B-AP-12, 1B-AP-14"
+CS Breakthroughs with VR,2,2.1,Hide and Seek,Guided Project,"In this project, students are playing hide and seek! They look around the scene to find all three characters that are hiding from them!","Students will:
+- Build a scene with a unique environment and object
+- Change the materials and animations of objects in the scene
+- Add code to make objects in the scene clickable
+- Add text to the scene for the user to read","Code, CoBlock, Input, Material, Object Inspector, Output, Sequence","1B-CS-03, 1B-AP-08, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-14, 1B-AP-15"
+CS Breakthroughs with VR,2,2.2,Animal Whisperer,Team Project,"In this project, students are animal whisperers! An animal whisperer is someone who can understand how animals are feeling. Students help three animals feel better.","Student teams will:
+- Build a scene with a unique environment and object
+- Change the materials and animations of objects in the scene
+- Add code to make objects in the scene clickable
+- Add text to the scene for the user to read","Code, CoBlock, Input, Material, Object Inspector, Output, Sequence","1B-CS-03, 1B-AP-08, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-13, 1B-AP-14, 1B-AP-15, 1B-AP-16, 1B-AP-17, 1B-IC-20"
+CS Breakthroughs with VR,2,2.3,Alien Invasion!,Independent Project,"In this project, aliens are invading Earth! Students talk to the aliens to learn why they came to Earth.","Students will:
+- Build a scene with a unique environment and object
+- Change the materials and animations of objects in the scene
+- Add code to make objects in the scene clickable
+- Add text to the scene for the user to read","Code, CoBlock, Input, Material, Object Inspector, Output, Sequence","1B-CS-03, 1B-AP-08, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-14, 1B-AP-15"
+CS Breakthroughs with VR,2,2.4,Passion Project,Independent Project,"In this project, students create and design a CoSpace of their choice. Students use the skills they’ve learned in this level, and follow any guidance given by their teacher.","Students will:
+- Build a scene with a unique environment and object
+- Change the materials and animations of objects in the scene
+- Add code to make objects in the scene clickable
+- Add text to the scene for the user to read","Code, CoBlock, Input, Material, Object Inspector, Output, Sequence","1B-CS-03, 1B-AP-08, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-14, 1B-AP-15"
+CS Breakthroughs with VR,3,3.1,Obstacle Course,Guided Project,"In this project, students are building an obstacle course! They’ll create a path with jumps, moving obstacles, and a prize for the Player at the end.","Students will:
+- Build a scene with obstacles for Players to overcome
+- Detect when two objects collide
+- Add code to create moving obstacles
+- Use loops to make obstacles repeat movement","Loop, Collide","1B-CS-03, 1B-AP-08, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-14, 1B-AP-15"
+CS Breakthroughs with VR,3,3.2,Carnival Rides,Team Project,"In this project, students are building rides for a carnival! They will choose what each ride looks like and how each ride moves.","Student teams will:
+- Build a scene with carnival rides
+- Add code to start moving the rides
+- Use loops to make the rides repeat movement","Loop, Collide","1B-CS-03, 1B-AP-08, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-13, 1B-AP-14, 1B-AP-15, 1B-AP-16, 1B-AP-17, 1B-IC-20"
+CS Breakthroughs with VR,3,3.3,Escape the Maze,Independent Project,"In this project, students are lost in a maze! Students move through the maze and click on walls and other objects to move them out of the way to help find the exit.","Students will:
+- Add a path with a start and end
+- Add objects that move when clicked on
+- Use loops to move walls and other objects","Loop, Collide","1B-CS-03, 1B-AP-08, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-14, 1B-AP-15"
+CS Breakthroughs with VR,3,3.4,Passion Project,Independent Project,"In this project, students create and design a CoSpace of their choice. Students use the skills they’ve learned in this level, and follow any guidance given by their teacher.","Students will:
+- Create objects that can be clicked on
+- Detect when two objects collide
+- Move and turn objects
+- Use loops to repeat CoBlocks","Loop, Collide","1B-CS-03, 1B-AP-08, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-14, 1B-AP-15"
+CS Breakthroughs with VR,4,4.1,Spy Mission,Guided Project,"In this project, students are spies on a mission! Students choose a codename and search for a passcode hidden in the scene to complete their mission!","Students will:
+- Add a string variable to their program
+- Program an object to move on a path
+- Add run parallel code to objects in their scene","Data Type, String, Variable, Run Parallel","1B-CS-03, 1B-AP-08, 1B-AP-09, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-14, 1B-AP-15"
+CS Breakthroughs with VR,4,4.2,Tiny Town,Team Project,"In this project, students are the new Co-Mayor of Tiny Town! Students help choose a new name for the town and interact with characters and objects in the town","Student teams will:
+- Add a string variable to their program
+- Program objects to move on a path when clicked on
+- Program characters to use a string variable to say text","Data Type, String, Variable, Run Parallel","1B-CS-03, 1B-AP-08, , 1B-AP-09, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-13, 1B-AP-14, 1B-AP-15, 1B-AP-16, 1B-AP-17, 1B-IC-20"
+CS Breakthroughs with VR,4,4.3,Passion Project,Independent Project,"In this project, students create and design a CoSpace of their choice. Students use the skills they’ve learned in this level, and follow any guidance given by their teacher.","Students will:
+- Use variables to store and update information
+- Move objects on paths, when clicked on
+- Run multiple scripts simultaneously","Data Type, String, Variable, Run Parallel","1B-CS-03, 1B-AP-08, 1B-AP-09, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-14, 1B-AP-15"
+CS Breakthroughs with VR,5,5.1,Clicker Garden,Guided Project,"In this project, students help a friend grow things in their garden. Students build a machine that makes gardens grow faster by clicking a button.","Students will:
+- Add a number variable that stores the number of button clicks
+- Add a button that makes objects grow when clicked on
+- Add string variables that store data
+- Add conditional statements to change the project dialogue","Conditional, Data Type, Operator","1B-CS-03, 1B-AP-08, 1B-AP-09, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-14, 1B-AP-15"
+CS Breakthroughs with VR,5,5.2,Team Exploration,Team Project,"In this project, student teams build a scene about something they are all interested in or want to learn more about.","Students will:
+- Add string variables that store data
+- Add conditional statements to change the project dialogue","Conditional, Data Type, Operator","1B-CS-03, 1B-AP-08, , 1B-AP-09, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-13, 1B-AP-14, 1B-AP-15, 1B-AP-16, 1B-AP-17, 1B-IC-20"
+CS Breakthroughs with VR,5,5.3,Hidden Objects,Independent Project,"In this project, students build a scene and hide at least three objects somewhere in the scene. The player's goal will be to find and click on all of the hidden objects.","Students will:
+- Create number variables
+- Change the value of variables
+- Create conditionals to check the value of variables","Conditional, Data Type, Operator","1B-CS-03, 1B-AP-08, 1B-AP-09, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-14, 1B-AP-15"
+CS Breakthroughs with VR,5,5.4,Passion Project,Independent Project,"In this project, students create and design a CoSpace of their choice. Students use the skills they’ve learned in this level, and follow any guidance given by their teacher.","Students will:
+- Build a scene with a unique environment and object
+- Change the materials and animations of objects in the scene
+- Add code to make objects in the scene clickable
+- Add text to the scene for the user to read","Conditional, Data Type, Operator","1B-CS-03, 1B-AP-08, 1B-AP-09, 1B-AP-10, 1B-AP-11, 1B-AP-12, 1B-AP-14, 1B-AP-15"
+CS Connections with VR,0,0.1,Fantastic Features,Unplugged,,"Students will:
+- Recommend improvements to the design of computing devices, based on an analysis of how users interact with the devices.","Accessibility, Feature, Computer Science, Virtual Reality","2-CS-01, 2-IC-22"
+CS Connections with VR,0,0.2,Data on the Move!,Unplugged,,"Students will:
+- Explain the key components that make a computer
+- Represent data using multiple encoding schemes","Data, Input, Output, Storage, Process",2-DA-07
+CS Connections with VR,0,0.3,The Internet & You,Unplugged,,"Students will:
+- Model the role of protocols in transmitting data across networks and the Internet
+- Explain how physical and digital security measures protect electronic information
+- Apply multiple methods of encryption to model the secure transmission of information","Internet, Server, Internet Protocol, Router, Transmission Control Protocol","2-NI-04, 2-NI-05, 2-NI-06, 2-IC-23"
+CS Connections with VR,0,0.4,Digital Device Design,Unplugged,,"Students will:
+- Identify and describe the functions of various hardware and software components, including input, output, storage, and processing.
+- Design projects that effectively integrate selected hardware and software components to collect and exchange data.","Algorithm, Code, Debut","2-CS-01, 2-CS-02"
+CS Connections with VR,0,0.5,Coding Superheroes,Unplugged,,"Students will:
+- Use pseudocode to develop algorithms that solve problems","Algorithm, Code, Program, Sequence","2-AP-10, 2-IC-20"
+CS Connections with VR,0,0.6,Data Comes to Life,Workbook Activity,,"Students will:
+- Collect data using computational tools and transform the data to make it more useful and reliable
+- Refine computational models based on the data they have generated",Data Visualization,"2-DA-08, 2-DA-09, 2-IC-22"
+CS Connections with VR,0,0.7,VR Tutorial,Tutorial,,"Students will:
+- Identify environments and objects in virtual scenes.
+- Successfully navigate through the VR Tutorial: Dinosaur Hero.","CoSpace, Library, Object, Scene",2-CS-03
+CS Connections with VR,0,0.8,Underwater,Guided Project,,"Students will:
+- Utilize a growth mindset in order to troubleshoot.
+- Find and talk about examples where technology might not be fair to everyone.
+- Add objects to a scene in CoSpaces.","Troubleshoot, Scene, Environment, Object, Object Library","2-AP-13, 2-AP-15, 2-AP-17, 2-AP-18, 2-IC-21"
+CS Connections with VR,1,1.1,Giants on the Loose!,Guided Project,"In this project, students create a scene where a science experiment has gone terribly wrong and giant animals are on the loose!","Students will:
+- Add objects from the Library
+- Rotate objects using the ""Rotate Mode"" tool
+- Make objects big or small using the ""Drag to Scale"" tool
+- Change the animations of animals and characters","Library, Object, Scene, Animation, CoSpace, Environment, Object Inspector, Scene, Snapping, CoBlock, Material",2-AP-13
+CS Connections with VR,1,1.2,Robot Kids,Guided Project,"In this project, students are programming robot kids! The robots will live in a secret place that students create. Students will decide what each of the robots learn and then program them to act it out.","Students will:
+- Turn on CoBlocks so that objects can use code
+- Use CoBlocks to click on objects
+- Use CoBlocks to change animations
+- Add speech to characters","Library, Object, Scene, Animation, CoSpace, Environment, Object Inspector, Scene, Snapping, CoBlock, Material",2-AP-13
+CS Connections with VR,1,1.3,Let's Party!,Team Project,"In this project, student teams are having a party! Teams can choose to build a holiday party, birthday party, a sleepover with your friends, or something else. ","Student teams will:
+- Add characters, animals, and objects from the Library
+- Change the animation of characters and animals using CoBlocks
+- Add speech to characters","Library, Object, Scene, Animation, CoSpace, Environment, Object Inspector, Scene, Snapping, CoBlock, Material","2-CS-01, 2-AP-13, 2-AP-15, 2-AP-18"
+CS Connections with VR,1,1.4,Animal Life,Independent Project,"In this project, students will view the world through the eyes of an animal. Students will use objects from the Library to build a scene and then explore it from an animal's point of view. ","Students will:
+- Add objects from the Library
+- Change the animation of animals
+- Change the material of animals
+- Use CoBlocks to change animal animations","Library, Object, Scene, Animation, CoSpace, Environment, Object Inspector, Scene, Snapping, CoBlock, Material",2-AP-13
+CS Connections with VR,1,1.5,Costume Shop,Independent Project,"In this project, students build their own costume shop. Students will design the shop and decide what costumes and objects to sell. ","Students will:
+- Add objects from the Library
+- Add speech to characters
+- Change the animation of characters","Library, Object, Scene, Animation, CoSpace, Environment, Object Inspector, Scene, Snapping, CoBlock, Material",2-AP-13
+CS Connections with VR,1,1.6,Passion Project,Independent Project,"In this project, students create and design a CoSpace of their choice. ","Student teams will:
+- Add characters, animals, and objects from the Library
+- Change the animation of characters and animals using CoBlocks
+- Add speech to characters","Library, Object, Scene, Animation, CoSpace, Environment, Object Inspector, Scene, Snapping, CoBlock, Material",2-AP-13
+CS Connections with VR,2,2.1,Show and Tell Room,Guided Project,"In this project, students design a show and tell room. The room will have four walls, and each wall will show something about the student that they want to share. Students will design a wall for their family, hobbies, favorite place, and favorite animal or pets.","Students will:
+- Use CoBlocks to add speech to objects
+- Search for images in the Uploads tab
+- Add Text objects","Sequence, Lock, Upload, Call, Concatenate, Data Type, Sequence, String, Variable, Path","2-AP-13, 2-AP-17"
+CS Connections with VR,2,2.2,Animal Trainer,Guided Project,"In this project, students are an animal trainer on a movie set. Students have been tasked with training three animals to perform tricks for different scenes in the movie.","Students will:
+- Create variables to store strings
+- Use CoBlocks to move objects in a direction
+- Use CoBlocks to move objects on a path
+- Use CoBlocks to rotate an object","Sequence, Lock, Upload, Call, Concatenate, Data Type, Sequence, String, Variable, Path","2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19"
+CS Connections with VR,2,2.3,Island Survivors,Team Project,"In this project, student teams are lost on a deserted island! Teams must explore the island, talk to other survivors, and search for any objects that may help to survive.","Student teams will:
+- Use CoBlocks to animate objects when clicked on
+- Use CoBlocks to add speech to objects
+- Use CoBlocks to move objects
+- Use string variables to display text","Sequence, Lock, Upload, Call, Concatenate, Data Type, Sequence, String, Variable, Path","2-CS-01, 2-AP-11, 2-AP-13, 2-AP-15, 2-AP-17, 2-AP-18, 2-AP-19"
+CS Connections with VR,2,2.4,Dream Hosue,Independent Project,"In this project, students design and build their very own dream house. The house will have at least three rooms and each room will have something different inside.","Students will:
+- Use CoBlocks to animate objects when clicked on
+- Use CoBlocks to add speech to objects when clicked on
+- Create string variables to display text","Sequence, Lock, Upload, Call, Concatenate, Data Type, Sequence, String, Variable, Path","2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19"
+CS Connections with VR,2,2.5,Scavenger Hunt,Independent Project,"In this project, students build a scene and hide at least five objects somewhere in the scene. The player's goal will be to find and click on all of the hidden objects.","Students will:
+- Use CoBlocks to animate objects when clicked on
+- Use CoBlocks to add speech to objects when clicked on
+- Use CoBlocks to move objects","Sequence, Lock, Upload, Call, Concatenate, Data Type, Sequence, String, Variable, Path","2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19"
+CS Connections with VR,2,2.6,Passion Project,Independent Project,"In this project, students create and design a CoSpace of their choice. ","Student will:
+- Use CoBlocks to animate objects when clicked on
+- Use CoBlocks to add speech to objects
+- Use CoBlocks to move objects
+- Use string variables to display text","Sequence, Lock, Upload, Call, Concatenate, Data Type, Sequence, String, Variable, Path","2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19"
+CS Connections with VR,Capstone,1,A Symbiotic World,Team Challenge,"In this project, student teams show the different types of symbiotic relationships that exist in nature. Students will respond to the question: How do symbiotic relationships help animals to survive?","Students will:
+Use CoBlocks to make objects clickable
+Use CoBlocks to animate objects
+Use CoBlocks to move objects
+Use variables to store information
+Add text to the scene",,"2-CS-01, 2-AP-11, 2-AP-13, 2-AP-15, 2-AP-17, 2-AP-18, 2-AP-19"
+CS Connections with VR,3,3.1,Into the TV,Guided Project,"In this project, students travel through a TV and into a new scene to help someone in need.","Students will:
+- Create number and boolean variables
+- Use conditionals to check the value of a variable
+- Use conditionals to create unique character responses
+- Link scenes together using code","Boolean Value, Boolean Expression, Conditional, Comparison Operator","2-AP-11, 2-AP-12, 2-AP-13, 2-AP-17, 2-AP-19"
+CS Connections with VR,3,3.2,Time Traveler,Guided Project,"In this project, students will travel to different time periods using a time machine. As they time travel, they'll collect artifacts that will help the professor to complete important research.","Students will:
+- Create new scenes and use code to travel between them
+- Use CoSpace properties to pass information between scenes
+- Use if else conditionals to create branching code","Boolean Value, Boolean Expression, Conditional, Comparison Operator","2-AP-11, 2-AP-12, 2-AP-13, 2-AP-17, 2-AP-19"
+CS Connections with VR,3,3.3,Clubhouse,Team Project,"In this project, student teams will build a secret clubhouse. The clubhouse will have new scenes for each room of the club. Players will need to collect objects and pay a fee in order to enter all rooms of the clubhouse.","Student team will:
+- Create new scenes and transition between them using code
+- Create CoSpace properties to store information across scenes
+- Use conditionals to check the value of CoSpace properties","Boolean Value, Boolean Expression, Conditional, Comparison Operator","2-CS-01, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-15, 2-AP-17, 2-AP-18, 2-AP-19"
+CS Connections with VR,3,3.4,Spot the Bot,Independent Project,"In this project, students are searching for a robot! The robot has been designed to look and act like a normal character or animal. Students will explore the scene and use the clues that are provided to find the robot.","Students will:
+- Create variables to store information
+- Use conditionals to create branching code
+- Use animations and speech to provide the player with clues","Boolean Value, Boolean Expression, Conditional, Comparison Operator","2-AP-11, 2-AP-12, 2-AP-13, 2-AP-17, 2-AP-19"
+CS Connections with VR,3,3.5,Sunken Treasure,Independent Project,"In this project, students are searching for sunken treasure deep underwater. Students will gather equipment and dive into the ocean to collect objects that will open a lost treasure chest.","Students will:
+- Create number and boolean variables to store information
+- Use conditionals to require the player to complete a task
+- Changes scenes when a condition has been met.","Boolean Value, Boolean Expression, Conditional, Comparison Operator","2-AP-11, 2-AP-12, 2-AP-13, 2-AP-17, 2-AP-19"
+CS Connections with VR,3,3.6,Passion Project,Independent Project,"In this project, students create and design a CoSpace of their choice. ","Students will:
+- Create number and boolean variables to store information
+- Use conditionals to require the player to complete a task
+- Changes scenes when a condition has been met.","Boolean Value, Boolean Expression, Conditional, Comparison Operator","2-AP-11, 2-AP-12, 2-AP-13, 2-AP-17, 2-AP-19"
+CS Connections with VR,4,4.1,Dream Machine,Guided Project,"In this project, students have discovered a mysterious machine that contains anything they can dream up!","Students will:
+- Use variables to store selections made by the user
+- Use a repeat loop to create copies of objects
+- Use physics to push objects
+- Create else if and nested conditionals","Break, Comment, Forever Loop, If, Else If, Else Conditional, Iteration, Loop, Nest, Null, Physics, Run Seperately","2-CS-01, 2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19"
+CS Connections with VR,4,4.2,Time Loop,Guided Project,"In this project, students are visiting Infinity Park! Something strange is causing visitors of the park to repeat things over and over again. Students investigate the park and help the visitors break out of their loops!","Students will:
+- Use forever loops to repeat code forever
+- Use break out of loop CoBlocks to stop loops from repeating
+- Use Operator CoBlocks to perform math operations with variables
+- Run blocks of code independently from other blocks of code using run separately CoBlocks","Break, Comment, Forever Loop, If, Else If, Else Conditional, Iteration, Loop, Nest, Null, Physics, Run Seperately","2-CS-01, 2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19"
+CS Connections with VR,4,4.3,Portal Puzzle,Team Project,"In this project, students create a puzzle for players to solve! Players will use portals to teleport between different areas of students’ scenes while trying to collect hidden objects.","Student teams will:
+- Use loops to move obstacles for the player
+- Create if, else if, else conditionals to check multiple conditions
+- Use run separately CoBlocks to run loops at the same time
+- Move the player to new positions using CoBlocks","Break, Comment, Forever Loop, If, Else If, Else Conditional, Iteration, Loop, Nest, Null, Physics, Run Seperately","2-CS-01, 2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-15, 2-AP-16, 2-AP-17, 2-AP-18, 2-AP-19"
+CS Connections with VR,4,4.4,Feeding Frenzy,Independent Project,"In this project, students are delivering food to frenzied animals! One scene will contain the food for the animals and the other scenes will have the animals. Players will collect the food from one scene and take it to the other scene so that they can feed the animals and stop the frenzy.","Students will:
+- Use forever loops to make animals repeat actions
+- Create if, else if, else conditionals to check multiple conditions
+- Use run separately CoBlocks to run loops at the same time
+- Use CoSpace properties to store information across scenes","Break, Comment, Forever Loop, If, Else If, Else Conditional, Iteration, Loop, Nest, Null, Physics, Run Seperately","2-CS-01, 2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19"
+CS Connections with VR,4,4.5,Target Practice,Independent Project,"In this project, students are practicing their aim by knocking down targets! They’ll try to hit all of the targets to get the high score!","Students will:
+- Use forever loops to make targets move back and forth
+- Create if, else if, else conditionals to check multiple conditions
+- Use run separately CoBlocks to run loops at the same time
+- Use physics to throw objects","Break, Comment, Forever Loop, If, Else If, Else Conditional, Iteration, Loop, Nest, Null, Physics, Run Seperately","2-CS-01, 2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19"
+CS Connections with VR,4,4.6,Passion Project,Independent Project,"In this project, students create and design a CoSpace of their choice.","Students will:
+- Use forever loops
+- Create nested if, else if, else conditionals to check multiple conditions
+- Use physics","Break, Comment, Forever Loop, If, Else If, Else Conditional, Iteration, Loop, Nest, Null, Physics, Run Seperately","2-CS-01, 2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19"
+CS Connections with VR,Capstone,2,Interview an Innovator,Case Study,"In this project, students will use VR to model two interview scenes with an innovator that they’ve selected.","Students will:
+- Create new scenes and transition between them using code
+- Use variables and CoSpace properties to store information
+- Use conditionals to check the value of variables",,"2-CS-01, 2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-15, 2-AP-16, 2-AP-17, 2-AP-18, 2-AP-19"
+CS Connections with VR,5,5.1,Virtual Pet,Guided Project,"In this project, students are taking care of their very own virtual pet! They’ll teach their pet commands that allow them to eat, drink, play, and do tricks.","Students will:
+- Create functions that make their pet eat, drink, play, and do a trick
+- Create a function that updates their pet's stats
+- Call their created functions in their code","And Operator, Argument, Call, Comment, Compound Conditional, Function, Parameter","2-CS-01, 2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-14, 2-AP-16, 2-AP-17, 2-AP-19"
+CS Connections with VR,5,5.2,Pinball Champion,Guided Project,"In this project, students are building a pinball machine! They’ll design the machine and then challenge their friends to see who can get the top score.","Students will:
+- Use parameters to activate the flippers and bumpers
+- Use parameters to update the score
+- Pass arguments into functions when they are called","And Operator, Argument, Call, Comment, Compound Conditional, Function, Parameter","2-CS-01, 2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-14, 2-AP-16, 2-AP-17, 2-AP-19"
+CS Connections with VR,5,5.3,Search and Rescue,Team Project,"In this project, students are following clues to rescue someone in need! Use your compass to guide you around the world and search for the missing character (or animal!)","Students will:
+- Create a function to guide the user around the world
+- Use parameters to update the direction of the next clue
+- Store user progress in variables","And Operator, Argument, Call, Comment, Compound Conditional, Function, Parameter","2-CS-01, 2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-14, 2-AP-15, 2-AP-16, 2-AP-17, 2-AP-18, 2-AP-19"
+CS Connections with VR,5,5.4,Photo Shoot,Independent Project,"In this project, students are a photographer at a photo shoot! Choose the perfect prop, pose, floor, and backdrop and then snap a photo to capture the moment.","Students will:
+- Create functions to change the look of the scene
+- Use parameters to pass in different objects for the photo shoot
+- Switch between camera objects using a function","And Operator, Argument, Call, Comment, Compound Conditional, Function, Parameter","2-CS-01, 2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-14, 2-AP-16, 2-AP-17, 2-AP-19"
+CS Connections with VR,5,5.5,Final Lap,Independent Project,"In this project, students are watching a race and guessing who is going to win! You'll build the racetrack, choose the racers, and keep track of how many laps each racer has completed.","Students will:
+- Create a function to start the race
+- Create a function to count the laps for each racer
+- Create a function to check who won the race
+- Use parameters to pass different racers into functions","And Operator, Argument, Call, Comment, Compound Conditional, Function, Parameter","2-CS-01, 2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-14, 2-AP-16, 2-AP-17, 2-AP-19"
+CS Connections with VR,5,5.6,Passion Project,Independent Project,"In this project, students create and design a CoSpace of their choice.","Students will:
+- Create functions with and without parameters
+- Call their created functions in their code
+- Create compound conditionals","And Operator, Argument, Call, Comment, Compound Conditional, Function, Parameter","2-CS-01, 2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-14, 2-AP-16, 2-AP-17, 2-AP-19"
+CS Dimensions with VR,0,0.1,Prototyping Our Future,Unplugged,,"Students will:
+- Understand the importance of learning computing.
+- Articulate the scope and goals of the CS Dimensions with VR course.
+- Evaluate the impacts of computing on various aspects of society.
+- Apply creative thinking to solve problems using technology.",Prototype,"3A-CS-01, 3A-IC-24"
+CS Dimensions with VR,0,0.2,Inside Your Computer,Unplugged,,"Students will:
+- Differentiate between inputs and outputs.
+- Define levels of abstraction in computing, describing interactions between application software, system software, and hardware, and compare their roles and functions.
+- Identify major operating systems, discuss their key features, and compare their strengths and weaknesses in various computing environments.
+- Identify and describe the functions of primary memory (RAM), the CPU, and peripheral devices within a computer system.","Computer, CPU, GPU, Hardware, Input, Motherboard, Output, RAM, Software, Storage","3A-CS-01, 3A-CS-02"
+CS Dimensions with VR,0,0.3,Coded Messages,Unplugged,,"Students will:
+- Explain how computers use binary numbers (0s and 1s) to represent all types of data.
+- Students will identify and describe how characters are encoded using ASCII and Unicode.
+- Students will convert a string of text to its binary representation using ASCII and decode binary back to text.","Binary, Bit, Byte",3A-DA-09
+CS Dimensions with VR,0,0.4,Code Quest,Unplugged,,"Students will:
+- Define the term ""code"" and describe its role in computer science.
+- Create algorithms to solve simple problems and describe the steps involved.
+- Write programs that follow a logical sequence of steps to achieve a desired outcome.
+- Problem-solve and explain how they used algorithms and debugging to overcome challenges.","Algorithm, Code, Debugging, Sequence",3A-AP-17
+CS Dimensions with VR,0,0.5,Computer Networks,Unplugged,,"Students will:
+- Understand and describe what a network is and how it enables computers to share resources and communicate.
+- Explain how malware can harm computers and networks and how to protect against it.
+- Identify common cybersecurity threats and explain basic strategies for preventing them.","Cybersecurity, Malwawre, Network, Phishing Attacks, Router, Switch, Server, Topology","3A-NI-04, 3A-NI-05, 3A-NI-06, 3A-NI-07, 3A-NI-08"
+CS Dimensions with VR,0,0.6,Data Story,Workbook Activity,,"Students will:
+- Develop, implement, and refine processes that utilize computational tools to collect and transform data, enhancing its usefulness and reliability.
+- Illustrate and explain relationships between collected data elements using computational models.
+- Evaluate the trade-offs in how data is organized and stored digitally, considering various factors such as accessibility, security, and efficiency.
+- Create interactive data visualizations using software tools to transform data, analyze trends, make inferences, and publish data that considers accessibility.",Data,"3A-DA-10, 3A-DA-11, 3A-DA-12"
+CS Dimensions with VR,0,0.7,VR Tutorial,Tutorial,,"Students will:
+- Identify environments and objects in virtual scenes.
+- Successfully navigate through the VR Tutorial: Dinosaur Hero.
+- Add objects to a scene in VR Tutorial: Bus Stop. ","CoBlock, CoSpace, Environment, Library, Object, Scene",3A-AP-21
+CS Dimensions with VR,0,0.8,Leaders in Technology,Guided Project,,"Students will:
+- Utilize a growth mindset in order to troubleshoot.
+- Create a CoSpace scene that depicts a technology entrepreneur of their choosing.
+- Assign speech and animation to objects.","Animation, Object Inspector, Snapping","3A-CS-03, 3A-IC-27, 3A-IC-28, 3A-IC-29, 3A-IC-30"
+CS Dimensions with VR,1,1.1,Animal Trainer,Guided Project,"In this project, students create a scene of an animal trainer on a movie set. The animal trainer has been tasked with training three animals to perform tricks for different scenes in the movie.","Students will:
+- Create variables to store strings
+- Use CoBlocks to move objects in a direction
+- Use CoBlocks to move objects on a path
+- Use CoBlocks to rotate an object","Attach, Animation, Call, camelCase, CoBlock, Comment, CoSpace, Concatenate, Data Type, Environment, Group, Library, Material, Math Operator, Object, Object Inspector, Path, Run Parallel, Scene, Sequence, String, Variable","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-16, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,1,1.2,City Builder,Guided Project,"In this project, students design and build their own city. After building the city, students will add cars, bikes, or other objects that move around the city.","Students will:
+- Use different variable data types
+- Create number variables that change the speed of objects
+- Create color variables to change the color of objects with code
+- Use run parallel CoBlocks to move multiple objects at the same time
+- Use math operators to change the value of variables","Attach, Animation, Call, camelCase, CoBlock, Comment, CoSpace, Concatenate, Data Type, Environment, Group, Library, Material, Math Operator, Object, Object Inspector, Path, Run Parallel, Scene, Sequence, String, Variable","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-16, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23, 3A-IC-25"
+CS Dimensions with VR,1,1.3,Island Survivors,Team Project,"In this project, student teams are lost on a deserted island! The team must explore the island, talk to other survivors, and search for any objects that may help to survive.","Student teams will:
+- Create variables to store and call information
+- Use data types to store different types of information
+- Sequence code to create characters that animate and speak
+- Use run parallel CoBlocks to move multiple objects at the same time","Attach, Animation, Call, camelCase, CoBlock, Comment, CoSpace, Concatenate, Data Type, Environment, Group, Library, Material, Math Operator, Object, Object Inspector, Path, Run Parallel, Scene, Sequence, String, Variable","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-16, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+CS Dimensions with VR,1,1.4,Scavenger Hunt,Independent Project,"In this project, students build a scene and hide at least five objects somewhere in the scene. The player's goal will be to find and click on all of the hidden objects.","Students will:
+- Animate objects using code
+- Add speech to objects using code
+- Move multiple objects at the same time using run parallel CoBlocks
+- Use variables to store numbers and colors","Attach, Animation, Call, camelCase, CoBlock, Comment, CoSpace, Concatenate, Data Type, Environment, Group, Library, Material, Math Operator, Object, Object Inspector, Path, Run Parallel, Scene, Sequence, String, Variable","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-16, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,1,1.5,Magic Show,Independent Project,"In this project, students are magicians performing at a magic show. Students will decide what magic tricks to perform and present them to a live audience.","Students will:
+- Animate objects using code
+- Add speech to objects using code
+- Move multiple objects at the same time using run parallel CoBlocks
+- Use variables to store numbers and colors","Attach, Animation, Call, camelCase, CoBlock, Comment, CoSpace, Concatenate, Data Type, Environment, Group, Library, Material, Math Operator, Object, Object Inspector, Path, Run Parallel, Scene, Sequence, String, Variable","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-16, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,1,1.6,Passion Project,Independent Project,"In this project, students create and design a CoSpace of their choice.","Students will:
+- Animate objects using code
+- Add speech to objects using code
+- Move multiple objects at the same time using run parallel CoBlocks
+- Use variables to store numbers and colors","Attach, Animation, Call, camelCase, CoBlock, Comment, CoSpace, Concatenate, Data Type, Environment, Group, Library, Material, Math Operator, Object, Object Inspector, Path, Run Parallel, Scene, Sequence, String, Variable","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-16, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,2,2.1,Time Traveler,Guided Project,"In this project, students create scenes of traveling to different time periods using a time machine. As the user time travels, they will collect artifacts that will help the professor to complete important research.","Students will:
+- Create new scenes and use code to travel between them
+- Use CoSpace properties to pass information between scenes
+- Use conditionals to create branching code","Argument, Boolean, Comparison Operator, Conditional Statement, CoSpace Property, Function, Function Call, Nest, Parameter, Physics, Set Static","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-15, 3A-AP-16, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,2,2.2,Physics Game,Guided Project,"In this project, students create a game with physics-enabled objects that move and fall realistically. The user can earn points and try to achieve the high score by dropping discs onto the game board.","Students will:
+- Create new functions with parameters
+- Pass arguments into functions
+- Use physics to make objects react realistically
+- Create a score system to track points","Argument, Boolean, Comparison Operator, Conditional Statement, CoSpace Property, Function, Function Call, Nest, Parameter, Physics, Set Static","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,2,2.3,Obstacle Course,Team Project,"In this project, student teams design and build an obstacle course.","Student teams will:
+- Create CoSpace properties to store and call information across scenes
+- Use conditionals to trigger game events
+- Use collision to detect the player's movements","Argument, Boolean, Comparison Operator, Conditional Statement, CoSpace Property, Function, Function Call, Nest, Parameter, Physics, Set Static","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+CS Dimensions with VR,2,2.4,Crack the Case,Independent Project,"In this project, students build a scene in which a detective has just been hired to take on a new case. The user will talk to witnesses around the scene and search for clues to help solve the crime.","Students will:
+- Create clues to be found by the player
+- Use boolean variables to store the state of clues
+- Create conditional statements to check if clues have been found","Argument, Boolean, Comparison Operator, Conditional Statement, CoSpace Property, Function, Function Call, Nest, Parameter, Physics, Set Static","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,2,2.5,Complex Contraption,Independent Project,"In this project, students build a scene with a Rube Goldberg machine.","Students will:
+- Create a function to start the contraption
+- Use physics to move an object through the contraption
+- Create collision events with objects in the contraption","Argument, Boolean, Comparison Operator, Conditional Statement, CoSpace Property, Function, Function Call, Nest, Parameter, Physics, Set Static","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,2,2.6,Passion Project,Independent Project,"In this project, students create and design a CoSpace of their choice.","Students will:
+- Create a function with parameter and CoBlocks inside
+- Use code to connect scenes
+- Use if else conditionals
+- Create collision events ","Argument, Boolean, Comparison Operator, Conditional Statement, CoSpace Property, Function, Function Call, Nest, Parameter, Physics, Set Static","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,Capstone,1,Solar System Landing,Team Challenge,"In this team challenge, student teams will be a part of the first human-led mission to land on another moon or planet in almost 50 years. Teams will choose a destination and create a multi-scene project that models four phases of the mission. When finished, teams will present their project to classmates in the form of a press conference.","Students will:
+- Use click events to add interactivity
+- Create variables to store information
+- Create functions to execute blocks of code
+- Add conditional statements to create branching code",,"3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-22, 3A-AP-23, 3A-IC-26"
+CS Dimensions with VR,3,3.1,Music Playlist,Guided Project,"In this project, students create a playlist of songs and then play the songs at an event.","Students will:
+- Add songs to a playlist
+- Remove songs from a playlist
+- Check if the playlist contains a specific song
+- Use the length of a list inside of a conditional
+- Use for each loops to iterate through the playlist","For Each Loop, Forever Loop, Global, Index, Iteration, List, Local, Loop, Scope, Script, While Loop","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,3,3.2,Dunk Tank Challenge,Guided Project,"In this project, students create a game that allows players to hit targets and dunk a character into water.","Students will:
+- Use a forever loop to move targets
+- Use a while loop to create a timer
+- Create new CoBlock scripts
+- Create global functions that can be called from any script","For Each Loop, Forever Loop, Global, Index, Iteration, List, Local, Loop, Scope, Script, While Loop","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,3,3.3,Tower Conquest,Team Project,"In this project, student teams create a tower for other players to escape from. The tower will contain three floors and each floor will require players to solve a riddle or puzzle in order to unlock the door to the next floor. The puzzle or riddle must be solved within a set time limit.","Student teams will:
+- Create a global function that is called in different scripts
+- Create a puzzle that requires a list
+- Create a puzzle that require multiple conditions to be met
+- Create a puzzle that uses a repeat while loop
+- Use timers to reset player progress","For Each Loop, Forever Loop, Global, Index, Iteration, List, Local, Loop, Scope, Script, While Loop","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+CS Dimensions with VR,3,3.4,Choose Your Destiny,Independent Project,"In this project, students build a ""choose your own adventure"" story for players to follow. Along the way, players will make choices that affect how the story is told.","Students will:
+- Create a branching story with player choices
+- Use conditionals to check multiple conditions
+- Check if a list includes a specific item
+- Use a forever loop to move an object on a path","For Each Loop, Forever Loop, Global, Index, Iteration, List, Local, Loop, Scope, Script, While Loop","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,3,3.5,Time Loop,Independent Project,"In this project, students create a scene that includes characters or animals that are stuck repeating the same actions in a loop. The characters or animals will continue repeating their actions until the player interacts with them and stops them from their looping behavior.","Students will:
+- Use loops to trap characters in repeated actions
+- Use conditionals and variables to free characters from their loops
+- Create scripts for each time loop
+- Call global functions in other scripts","For Each Loop, Forever Loop, Global, Index, Iteration, List, Local, Loop, Scope, Script, While Loop","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,3,3.6,Passion Project,Independent Project,"In this project, students will create and design a CoSpace of their choice.","Students will:
+- Use loops, lists, and conditionals
+- Create and call global functions","For Each Loop, Forever Loop, Global, Index, Iteration, List, Local, Loop, Scope, Script, While Loop","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,4,4.1,Infinite Runner,Guided Project,"In this project, students create an infinite runner game. The goal of the game is to survive as long as they can while avoiding procedurally generated obstacles. Students will also be trying to collect objects that increase their health and score.","Students will:
+- Procedurally generate obstacles and collectables
+- Create compound conditionals to check multiple conditions
+- Use lists to create objects at a random position
+- Use conditionals to compare the names of two objects","And Operator, Or Operator, Compound Conditional","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,4,4.2,Farm Life,Guided Project,"In this project, students grow crops on their very own farm. Plant seeds, add water, and watch your crops grow day by day!","Students will:
+- Use loops to update the names of all objects in a list
+- Create compound conditionals to check multiple conditions
+- Use conditionals to get the distance between two objects
+- Create multiple scripts and functions that are linked together","And Operator, Or Operator, Compound Conditional","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,4,4.3,Lights! Camera! Action!,Team Project,"In this project, student teams are creating and directing their own short film.","Student teams will:
+- Create new scenes
+- Use functions to direct the news stories
+- Add multiple cameras and switch between them using CoBlocks","And Operator, Or Operator, Compound Conditional","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+CS Dimensions with VR,4,4.4,World Generator,Independent Project,"In this project, students will create new worlds at the click of a button! One click can create an entire forest and another click can fill the forest with animals. Students will decide what is generated in the world.","Students will:
+- Create a function that generates random objects
+- Create an ""undo"" button that deletes generated objects
+- Use compound conditionals to affect the procedural generation
+- Use lists inside of loops and functions
+- Randomly select objects in a list","And Operator, Or Operator, Compound Conditional","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,4,4.5,Critter Catalog,Independent Project,"In this project, students will collect and catalog different animals in the wild! Students will sort the animals by their size, color, and other properties and display information about each group of animals.","Students will:
+- Create lists of animals based on their individual properties
+- Sort the lists to group similar animals together
+- Use compound conditionals to identify properties of animals
+- Use lists inside of loops and functions","And Operator, Or Operator, Compound Conditional","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,4,4.6,Passion Project,Independent Project,"In this project, students will create and design a CoSpace of their choice.","Students will:
+- Use collisions
+- Use lists
+- Use functions","And Operator, Or Operator, Compound Conditional","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,5,5.1,Museum Heist,Guided Project,"In this project, students have been hired to sneak into a museum and retrieve a set of artifacts. However, students are not alone in the museum and they need to be careful not to alert the guards! They’ll need to retrieve all of the artifacts to complete the mission.","Students will:
+- Return a boolean value from a function
+- Break out of a loop when a condition is met
+- Use a function to detect the distance between two objects","Break, Return","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,5,5.2,Order Up!,Guided Project,"In this project, students have opened their own restaurant! They’ll take orders, assemble ingredients, and send food out to customers as fast as they can to earn as many points as possible!","Students will:
+- Create a menu list that contains different lists of ingredients
+- Use loops to compare the contents of two lists
+- Call functions with multiple arguments
+- Assemble orders one ingredient at a time","Break, Return","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,5,5.3,Shopping Spree,Team Project,"In this project, student teams are creating a store for players to navigate through and collect items! Players will be given a list of objects to find in the store while racing against the clock for the fastest time.","Student teams will:
+- Create a list of items in the store
+- Choose random items from the list of store items
+- Use loops to compare two lists to check if all items have been collected
+- Prevent the Player from collecting items that are not on the list","Break, Return","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+CS Dimensions with VR,5,5.4,Guess the Animal,Independent Project,"In this project, students are answering questions to guess the correct animal! Keep track of the size, color, and other features of the correct animal to make a guess after answering all of the questions.","Students will:
+- Create a list of animals that contains a list of each animal's features
+- Store a random animal from the list of animals
+- Create nested conditionals with multiple questions for the Player
+- Use a loop to determine if the correct animal was chosen","Break, Return","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,5,5.5,Space Base,Independent Project,"In this project, students are working on a base in outer space! Students will be assigned a random list of objectives that need to be completed to help maintain the base.","Students will:
+- Create a list of mission objectives
+- Choose random objectives from the list of mission objectives
+- Use loops to compare two lists to check if all objectives have been completed
+- Prevent the Player from completing objectives that are not on the list","Break, Return","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+CS Dimensions with VR,5,5.6,Passion Project,Independent Project,"In this project, students will create and design a CoSpace of their choice.","Students will:
+- Use lists
+- Use functions","Break, Return","3A-CS-01, 3A-CS-03, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-23"
+Web Development,1,1.1,I'm Hungry,Guided Project,"In this project, students build a website about their favorite food.","Students will:
+- Create a <body> to hold everything on their page
+- Label words as headings or paragraphs using tags
+- Show a picture on a webpage using a tag and attributes
+- Make a list using nested elements","Debugging, Editor, HTML, Markup language, Nesting, Pixel, Web browser, Embed, Link, URL, Attribute, <body>, Element, Heading tags, <img>, <p>, Tag, Width, <a>, <footer>, <header>, <iframe>, <main>, <section>, Semantic tags, Style, Background, Color, Inheritance, Margin, Parent and child elements, Text-align","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,1,1.2,Fan Review,Guided Project,"In this project, students create a webpage for a review of a movie, show, book, or something else they like.","Students will:
+- Use grouping elements like <header> and <section> to organize your page
+- Include a video or other media using an <iframe>
+- Create clickable links to other websites using the <a> tag
+- Change the colors and spacing on your page using the style attribute","Debugging, Editor, HTML, Markup language, Nesting, Pixel, Web browser, Embed, Link, URL, Attribute, <body>, Element, Heading tags, <img>, <p>, Tag, Width, <a>, <footer>, <header>, <iframe>, <main>, <section>, Semantic tags, Style, Background, Color, Inheritance, Margin, Parent and child elements, Text-align","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,1,1.3,Optical Illusions,Team Project,"In this project, student teams create a gallery of at least two optical illusions.","Student team will:
+- Label words, lists, and images using tags
+- Use grouping elements like <header> and <section> to organize your page
+- Create links to other websites
+- Change the colors and spacing on your page using the style attribute","Debugging, Editor, HTML, Markup language, Nesting, Pixel, Web browser, Embed, Link, URL, Attribute, <body>, Element, Heading tags, <img>, <p>, Tag, Width, <a>, <footer>, <header>, <iframe>, <main>, <section>, Semantic tags, Style, Background, Color, Inheritance, Margin, Parent and child elements, Text-align","2-AP-13, 2-AP-15, 2-AP-17, 2-AP-18, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-22"
+Web Development,1,1.4,Two Truths One Lie,Independent Project,"In this project, students create a website with three facts about themselves. Students will choose two true facts and one ""fact"" that's actually a lie. Students will use images and links to tell the reader what's true and what's not.","Students will:
+- Label words and images using tags
+- Use grouping elements like <header> and <section> to organize your page
+- Create links to other websites, images, or videos
+- Change the colors and spacing on your page using the style attribute","Debugging, Editor, HTML, Markup language, Nesting, Pixel, Web browser, Embed, Link, URL, Attribute, <body>, Element, Heading tags, <img>, <p>, Tag, Width, <a>, <footer>, <header>, <iframe>, <main>, <section>, Semantic tags, Style, Background, Color, Inheritance, Margin, Parent and child elements, Text-align","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,1,1.5,Cheer Up!,Independent Project,"In this project, students create a website to help cheer someone up. Students will use pictures and videos that this person will find funny, and write a list of things that make this person happy.","Students will:
+- Label words, lists, and images using tags
+- Use grouping elements like <header> and <section> to organize your page
+- Create links to other websites, images, or videos
+- Change the colors and spacing on your page using the style attribute","Debugging, Editor, HTML, Markup language, Nesting, Pixel, Web browser, Embed, Link, URL, Attribute, <body>, Element, Heading tags, <img>, <p>, Tag, Width, <a>, <footer>, <header>, <iframe>, <main>, <section>, Semantic tags, Style, Background, Color, Inheritance, Margin, Parent and child elements, Text-align","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,1,1.6,Passion Project,Independent Project,"In this project, students create and design a website of their choice.","Students will:
+- Label words, lists, and images using tags
+- Use grouping elements like <header> and <section> to organize your page
+- Create links to other websites, images, or videos
+- Change the colors and spacing on your page using the style attribute","Debugging, Editor, HTML, Markup language, Nesting, Pixel, Web browser, Embed, Link, URL, Attribute, <body>, Element, Heading tags, <img>, <p>, Tag, Width, <a>, <footer>, <header>, <iframe>, <main>, <section>, Semantic tags, Style, Background, Color, Inheritance, Margin, Parent and child elements, Text-align","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,2,2.1,Shopping Spree,Guided Project,"In this project, students build a website for their ultimate shopping list.","Students will:
+- Use head, title, and link elements
+- Use hr elements to separate sections
+- Add styling with a style.css file
+- Add styling with font changes, borders, and hover","CSS, Formatted text, Syntax, Title bar, User agent, Boilerplate, Hex color code, <head>, <hr>, <link>, Stylesheet, <title>, Doctype, <html>, <meta>, <span>, <table>, Border, Declaration, Font-family,  Font-size, :hover, Property,  Selector, Value, Box model, Linear-gradient, Padding","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,2,2.2,Restaurant Menu,Guided Project,"In this project, students will create a website to advertise a restaurant.","Students will:
+- Create a table with tr, th, and td elements
+- Use the span element to change styles
+- Change the background with a linear-gradient
+- Add styling with padding, margin, and font changes ","CSS, Formatted text, Syntax, Title bar, User agent, Boilerplate, Hex color code, <head>, <hr>, <link>, Stylesheet, <title>, Doctype, <html>, <meta>, <span>, <table>, Border, Declaration, Font-family,  Font-size, :hover, Property,  Selector, Value, Box model, Linear-gradient, Padding","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,2,2.3,Playlist Creator,Team Project,"In this project, student teams will create a table with a playlist of links.","Student teams will:
+- Create a styled table with playlist information
+- Use text styling in the playlist
+- Center the playlist on the page","CSS, Formatted text, Syntax, Title bar, User agent, Boilerplate, Hex color code, <head>, <hr>, <link>, Stylesheet, <title>, Doctype, <html>, <meta>, <span>, <table>, Border, Declaration, Font-family,  Font-size, :hover, Property,  Selector, Value, Box model, Linear-gradient, Padding","2-AP-13, 2-AP-15, 2-AP-17, 2-AP-18, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-22"
+Web Development,2,2.4,Endangered Species,Independent Project,"In this project, students build a website that teaches people about one endangered species. ","Students will:
+- Create a styled table with information about the endangered species
+- Use text styling in the table
+- Use the hover effect to change text
+- Style the table with borders and font changes
+- Center selected elements on the webpage ","CSS, Formatted text, Syntax, Title bar, User agent, Boilerplate, Hex color code, <head>, <hr>, <link>, Stylesheet, <title>, Doctype, <html>, <meta>, <span>, <table>, Border, Declaration, Font-family,  Font-size, :hover, Property,  Selector, Value, Box model, Linear-gradient, Padding","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,2,2.5,This or That,Independent Project,"In this project, students create a table of choices between two options. ","Students will:
+- Create a styled table with information about the two options
+- Use text styling in the table
+- Use the hover effect to change text
+- Style the table with borders and font changes
+- Center selected elements on the webpage","CSS, Formatted text, Syntax, Title bar, User agent, Boilerplate, Hex color code, <head>, <hr>, <link>, Stylesheet, <title>, Doctype, <html>, <meta>, <span>, <table>, Border, Declaration, Font-family,  Font-size, :hover, Property,  Selector, Value, Box model, Linear-gradient, Padding","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,2,2.6,Passion Project,Independent Project,"In this project, students will create and design a website of their choice.","Students will:
+- Create a styled table
+- Use text styling in the table
+- Use the hover effect to change text
+- Style the table with borders and font changes
+- Center selected elements on the webpage ","CSS, Formatted text, Syntax, Title bar, User agent, Boilerplate, Hex color code, <head>, <hr>, <link>, Stylesheet, <title>, Doctype, <html>, <meta>, <span>, <table>, Border, Declaration, Font-family,  Font-size, :hover, Property,  Selector, Value, Box model, Linear-gradient, Padding","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,3,3.1,Awards Show,Guided Project,"In this project, students build a website that announces three award winners.","Students will:
+- Change the design of the parts of a webpage by giving each one a class
+- Animate parts of a website using transform
+- Create a directory to store images for a website
+- Load web fonts and backgrounds before the rest of the webpage","Multiple HTML pages, Google Fonts, Background images and background-blend, Preconnect & Preload, Navbar, CSS classes, Multiple CSS classes, Image alt text, Universal * CSS selector,  display: block, display: inline-block, display: flex, flexbox, align-items, justify-content, flex-flow, position: fixed, line-height, object-position and object-fit, border-radius, negative margins, Multiple CSS selectors, BEM (class naming), Unsplash/public domain, images/img directory, folder, Parameter, Return Value, src (source)","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,3,3.2,Festival Planner,Guided Project,"In this project, students will create a webpage for a festival with different events or performers.","Students will:
+- Build a website that navigates to different HTML files, each one for part of a festival
+- Fix the position of a navigation menu so it doesn't move during scrolling
+- Use display to change the layout of elements on a page
+- Use flexbox to create a layout that moves when the browser size changes","Multiple HTML pages, Google Fonts, Background images and background-blend, Preconnect & Preload, Navbar, CSS classes, Multiple CSS classes, Image alt text, Universal * CSS selector,  display: block, display: inline-block, display: flex, flexbox, align-items, justify-content, flex-flow, position: fixed, line-height, object-position and object-fit, border-radius, negative margins, Multiple CSS selectors, BEM (class naming), Unsplash/public domain, images/img directory, folder, Parameter, Return Value, src (source)","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,3,3.3,Epic Mission,Team Project,"In this project, student teams will create an epic mission for the user to go on.","Student teams will:
+- Change the design of the parts of a webpage by giving each one a class
+- Animate parts of a website using transform
+- Create a directory to store images for a website
+- Load web fonts and backgrounds before the rest of the webpage
+- Build a website that navigates to different HTML files
+- Fix the position of a navigation menu so it doesn't move during scrolling
+- Use display to change the layout of elements on a page
+- Use flexbox to create a layout that moves when the browser size changes","Multiple HTML pages, Google Fonts, Background images and background-blend, Preconnect & Preload, Navbar, CSS classes, Multiple CSS classes, Image alt text, Universal * CSS selector,  display: block, display: inline-block, display: flex, flexbox, align-items, justify-content, flex-flow, position: fixed, line-height, object-position and object-fit, border-radius, negative margins, Multiple CSS selectors, BEM (class naming), Unsplash/public domain, images/img directory, folder, Parameter, Return Value, src (source)","2-AP-13, 2-AP-15, 2-AP-17, 2-AP-18, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-22"
+Web Development,3,3.4,Choose Your Fighter,Independent Project,"In this project, students create a website where the user gets to simulate different battles.","Students will:
+- Change the design of the parts of a webpage by giving each one a class
+- Animate parts of a website using transform
+- Create a directory to store images for a website
+- Load web fonts and backgrounds before the rest of the webpage
+- Build a website that navigates to different HTML files
+- Fix the position of a navigation menu so it doesn't move during scrolling
+- Use display to change the layout of elements on a page
+- Use flexbox to create a layout that moves when the browser size changes","Multiple HTML pages, Google Fonts, Background images and background-blend, Preconnect & Preload, Navbar, CSS classes, Multiple CSS classes, Image alt text, Universal * CSS selector,  display: block, display: inline-block, display: flex, flexbox, align-items, justify-content, flex-flow, position: fixed, line-height, object-position and object-fit, border-radius, negative margins, Multiple CSS selectors, BEM (class naming), Unsplash/public domain, images/img directory, folder, Parameter, Return Value, src (source)","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,3,3.5,Meme Museum,Independent Project,"In this project, students build a website that catalogs their favorite memes.","Students will:
+- Change the design of the parts of a webpage by giving each one a class
+- Animate parts of a website using transform
+- Create a directory to store images for a website
+- Load web fonts and backgrounds before the rest of the webpage
+- Build a website that navigates to different HTML files
+- Fix the position of a navigation menu so it doesn't move during scrolling
+- Use display to change the layout of elements on a page
+- Use flexbox to create a layout that moves when the browser size changes","Multiple HTML pages, Google Fonts, Background images and background-blend, Preconnect & Preload, Navbar, CSS classes, Multiple CSS classes, Image alt text, Universal * CSS selector,  display: block, display: inline-block, display: flex, flexbox, align-items, justify-content, flex-flow, position: fixed, line-height, object-position and object-fit, border-radius, negative margins, Multiple CSS selectors, BEM (class naming), Unsplash/public domain, images/img directory, folder, Parameter, Return Value, src (source)","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,3,3.6,Passion Project,Independent Project,"In this project, students will create and design a website of their choice.","Students will:
+- Change the design of the parts of a webpage by giving each one a class
+- Animate parts of a website using transform
+- Create a directory to store images for a website
+- Load web fonts and backgrounds before the rest of the webpage
+- Build a website that navigates to different HTML files
+- Fix the position of a navigation menu so it doesn't move during scrolling
+- Use display to change the layout of elements on a page
+- Use flexbox to create a layout that moves when the browser size changes","Multiple HTML pages, Google Fonts, Background images and background-blend, Preconnect & Preload, Navbar, CSS classes, Multiple CSS classes, Image alt text, Universal * CSS selector,  display: block, display: inline-block, display: flex, flexbox, align-items, justify-content, flex-flow, position: fixed, line-height, object-position and object-fit, border-radius, negative margins, Multiple CSS selectors, BEM (class naming), Unsplash/public domain, images/img directory, folder, Parameter, Return Value, src (source)","2-AP-13, 2-AP-17, 3A-AP-19, 3A-AP-21"
+Web Development,4,4.1,Digital Pet,Guided Project,"In this project, students will create their own digital pet that they can name and interact with.","Students will:
+- Learn how to write JavaScript code and connect it to their HTML webpage
+- Use <form> and <button> to create an HTML form that allows users to input data
+- Use Document Object Methods such as getElementById and addEventListener to handle form submission
+- Use the HTML onclick attribute to trigger an event when a button is clicked
+- Write a JavaScript function that can dynamically change the content of the webpage","function, <form>, <button>, type, <label>, <input>, onclick, cursor, after, JavaScript, document.getElementbyId, innerHTML,  addEventListener, variables, createElement, innerText, classList, appendChild, Increment (++)","2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-16, 3A-AP-17, 3A-AP-19, 3A-AP-21, 3A-AP-23"
+Web Development,4,4.2,Postify,Guided Project,"In this project, students will create their own social media platform that allows users to post to the webpage.","Students will:
+- Use <form> and <button> to create an HTML form that allows users to input data
+- Use Document Object Methods such as createElement and appendChild to dynamically add text and images to the webpage
+- Use event listeners to keep track of the number of likes","function, <form>, <button>, type, <label>, <input>, onclick, cursor, after, JavaScript, document.getElementbyId, innerHTML,  addEventListener, variables, createElement, innerText, classList, appendChild, Increment (++)","2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-16, 3A-AP-17, 3A-AP-19, 3A-AP-21, 3A-AP-23"
+Web Development,4,4.3,Mystery Mansion,Team Project,"In this project, student teams will create a “choose your own adventure”, multi-page interactive website where users will navigate through the pages by making choices at each stage that lead to different outcomes.","Students will:
+- Create interactive elements using functions, Document Object Methods, and event listeners.
+- Map out multiple webpages and create a README document","function, <form>, <button>, type, <label>, <input>, onclick, cursor, after, JavaScript, document.getElementbyId, innerHTML,  addEventListener, variables, createElement, innerText, classList, appendChild, Increment (++)","2-AP-10, 2-AP-11, 2-AP-13, 2-AP-15, 2-AP-17, 2-AP-18, 2-AP-19, 3A-AP-13, 3A-AP-16, 3A-AP-17, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+Web Development,4,4.4,Personality Quizmaker,Independent Project,"In this project, students will create a multiple-choice personality quiz on a theme of their choosing.","Students will:
+- Use Document Object methods to provide feedback to the user on their answer.
+- Use Document Object methods to keep count of the user’s answers.
+- Use the onclick attribute to call functions.
+- Write JavaScript functions that perform tasks.","function, <form>, <button>, type, <label>, <input>, onclick, cursor, after, JavaScript, document.getElementbyId, innerHTML,  addEventListener, variables, createElement, innerText, classList, appendChild, Increment (++)","2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-16, 3A-AP-17, 3A-AP-19, 3A-AP-21, 3A-AP-23"
+Web Development,4,4.5,Passion Project,Independent Project,"In this project, students will create and design a website of their choice.","Students will:
+- Create a table with borders, margins, and padding
+- Decorate the text on your page using font-family and other CSS properties
+- Change the look of your page when you hover over certain elements
+- Use a <span> to add style to one part a larger whole","function, <form>, <button>, type, <label>, <input>, onclick, cursor, after, JavaScript, document.getElementbyId, innerHTML,  addEventListener, variables, createElement, innerText, classList, appendChild, Increment (++)","2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-16, 3A-AP-17, 3A-AP-19, 3A-AP-21, 3A-AP-23"
+Web Development,5,5.1,Product Insights,Guided Project,"In this project, students will create a webpage that compares and provides information on three different consumer products. After visiting this webpage, the user will know the different pros and cons, tips and tricks, and recommendations to make a purchase!","Students will:
+- Gain familiarity with Web Design and how User Experience is an essential part of creating webpages
+- Gain familiarity with commonly used Web Design patterns and conventions
+- Create a wireframe to layout content and functionality of their web page
+- Create a review form with radio inputs for users to add ratings to their review
+- Use Javascript Methods to dynamically add User Reviews to their product pages","Web Design, User interface, User experience, Wireframe, querySelector, Bootstrap, Radio, Usability, Design Patterns, Design Conventions, F-shaped Pattern, Grid Layout, Color Palette (analogous, monochromatic, triad, complementary, split complementary), Responsive Web Design, Modal Button","2-AP-11, 2-AP-13, 2-AP-14, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-16, 3A-AP-17, 3A-AP-19, 3A-AP-21, 3A-AP-23"
+Web Development,5,5.2,Personal Portfolio,Guided Project,"In this project, students will create a personal portfolio webpage that highlights four websites they’ve created in this course so far.","Students will:
+- Choose a color palette based on the five main types of color palettes
+- Gain familiarity with Bootstrap’s grid system to layout content
+- Utilize Bootstrap’s Modal Plugin to provide information in a popup window
+- Reflect on the technical skills used in each webpage they have created","Web Design, User interface, User experience, Wireframe, querySelector, Bootstrap, Radio, Usability, Design Patterns, Design Conventions, F-shaped Pattern, Grid Layout, Color Palette (analogous, monochromatic, triad, complementary, split complementary), Responsive Web Design, Modal Button","2-AP-11, 2-AP-13, 2-AP-14, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-16, 3A-AP-17, 3A-AP-19, 3A-AP-21, 3A-AP-23"
+Web Development,5,5.3,Code Corporation,Team Project,"In this project, you will work together as a team to create a well-designed website for your very own fictional company.","Students will:
+- Adapt a Bootstrap theme to create a well-designed, responsive website
+- Organize content to make your website easy to navigate
+- Use JavaScript to add interactivity to your website","Web Design, User interface, User experience, Wireframe, querySelector, Bootstrap, Radio, Usability, Design Patterns, Design Conventions, F-shaped Pattern, Grid Layout, Color Palette (analogous, monochromatic, triad, complementary, split complementary), Responsive Web Design, Modal Button","2-AP-11, 2-AP-13, 2-AP-14, 2-AP-15, 2-AP-17, 2-AP-18, 2-AP-19, 3A-AP-13, 3A-AP-16, 3A-AP-17, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+Web Development,5,5.4,Life Frame,Independent Project,"In this project, students will create a personal website all about themselves! This independent project allows students to design a site with multiple pages showcasing their hobbies, interests, family, and anything else they’re passionate about.","Students will:
+- Create multiple pages that organize information efficiently
+- Create engaging and interactive elements that showcase their personality ","Web Design, User interface, User experience, Wireframe, querySelector, Bootstrap, Radio, Usability, Design Patterns, Design Conventions, F-shaped Pattern, Grid Layout, Color Palette (analogous, monochromatic, triad, complementary, split complementary), Responsive Web Design, Modal Button","2-AP-11, 2-AP-13, 2-AP-14, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-16, 3A-AP-17, 3A-AP-19, 3A-AP-21, 3A-AP-23"
+Web Development,5,5.5,Passion Project,Independent Project,"In this project, students will create and design a website of their choice.","Students will:
+- Create a website keeping in mind the overall User Experience
+- Utilize various web design principles to design webpages that have a visually appealing User Interface","Web Design, User interface, User experience, Wireframe, querySelector, Bootstrap, Radio, Usability, Design Patterns, Design Conventions, F-shaped Pattern, Grid Layout, Color Palette (analogous, monochromatic, triad, complementary, split complementary), Responsive Web Design, Modal Button","2-AP-11, 2-AP-13, 2-AP-14, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-16, 3A-AP-17, 3A-AP-19, 3A-AP-21, 3A-AP-23"
+Intro to Python,1,1.1,Fortune Teller,Guided Project,"In this project, students build a fortune teller program that answers yes-or-no questions.","Students will:
+- Use print() to print words on the screen
+- Use input() to get questions from the user
+- Store words inside strings
+- Use Python syntax to avoid errors in their code","Argument, Call, Console, Debugging, Assign, Comment, Operator, Pseudocode, Variable, Editor, Error, Function, Input, Output, Program, Assign, Run, String, Syntax, User, input(), print(), f-string, multiline string","2-AP-10, 2-AP-13, 2-AP-17, 3A-AP-13"
+Intro to Python,1,1.2,Interactive Story,Guided Project,"In this project, students build a program that allows users to write a story with fill-in-the-blanks. Another student will type words into the blanks without seeing the story. At the end, a funny or strange story will print on the screen.","Students will:
+- Follow a plan for a program using pseudocode
+- Store words inside variables
+- Print blank lines to add space in the console
+- Add words to the story using f-strings","Argument, Call, Console, Debugging, Assign, Comment, Operator, Pseudocode, Variable, Editor, Error, Function, Input, Output, Program, Assign, Run, String, Syntax, User, input(), print(), f-string, multiline string","2-AP-10, 2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13"
+Intro to Python,1,1.3,User Namer,Team Project,"In this project, student teams build a program that creates usernames for social media or email accounts.","Student teams will:
+- Follow a plan for a program using pseudocode
+- Store information and input using variables
+- Call functions in their code
+- Add code to strings using f-strings","Argument, Call, Console, Debugging, Assign, Comment, Operator, Pseudocode, Variable, Editor, Error, Function, Input, Output, Program, Assign, Run, String, Syntax, User, input(), print(), f-string, multiline string","2-AP-10, 2-AP-11, 2-AP-13, 2-AP-15, 2-AP-17, 2-AP-18, 2-AP-19, 3A-AP-13, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+Intro to Python,1,1.4,Movie Trailer,Independent Project,"In this project, students create a program that writes a movie trailer. The program will ask the user about things they like, and turn their answers into a movie they'll love!","Students will:
+- Follow a plan for a program using pseudocode
+- Store input using variables
+- Call functions in their code
+- Add code to strings using f-strings","Argument, Call, Console, Debugging, Assign, Comment, Operator, Pseudocode, Variable, Editor, Error, Function, Input, Output, Program, Assign, Run, String, Syntax, User, input(), print(), f-string, multiline string","2-AP-10, 2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13"
+Intro to Python,1,1.5,Big Debut,Independent Project,"In this project, students build a program that introduces the members of a group or a team.","Students will:
+- Follow a plan for a program using pseudocode
+- Store names and adjectives using variables
+- Call functions in their code
+- Add code to strings using f-strings","Argument, Call, Console, Debugging, Assign, Comment, Operator, Pseudocode, Variable, Editor, Error, Function, Input, Output, Program, Assign, Run, String, Syntax, User, input(), print(), f-string, multiline string","2-AP-10, 2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13"
+Intro to Python,1,1.6,Speaking Style,Independent Project,"In this project, students build a program that uses slang in a story or conversation.","Students will:
+- Follow a plan for a program using pseudocode
+- Store slang words using variables
+- Call functions in their code
+- Add code to strings using f-strings","Argument, Call, Console, Debugging, Assign, Comment, Operator, Pseudocode, Variable, Editor, Error, Function, Input, Output, Program, Assign, Run, String, Syntax, User, input(), print(), f-string, multiline string","2-AP-10, 2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13"
+Intro to Python,2,2.1,Can I Take Your Order?,Guided Project,"In this project, students build a program to take a user's restaurant order, calculate the total price, and print a receipt.","Students will:
+- Store numbers and prices as float data types
+- Cast user orders to floats for calculating
+- Use operators to calculate cost amounts
+- Round amounts to dollars and cents","Cast, Data Type, Expression, Float, Integer, Algorithm, Escape Character, Newline, Arithmetic Operator, float(), round(), Augmented Operator, int()","2-AP-10, 2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13"
+Intro to Python,2,2.2,The G.O.A.T.,Guided Project,"In this project, students build a program to rate two people, two objects, two places, or something else, and decide which one is the best. ","Students will:
+- Write comments to help plan the scoring algorithm
+- Store scores as integer data types
+- Use augmented operators to update score variables
+- Add line breaks to strings using the \n character","Cast, Data Type, Expression, Float, Integer, Algorithm, Escape Character, Newline, Arithmetic Operator, float(), round(), Augmented Operator, int()","2-AP-10, 2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13"
+Intro to Python,2,2.3,The Great Race,Team Project,"In this project, student teams build a program that simulates a race between five or more racers.","Student teams will:
+- Store speeds and distances as integer or float data types
+- Cast input to floats or integers for calculating
+- Use operators to calculate each racer's speed or time
+- Round amounts to a number of decimal places","Cast, Data Type, Expression, Float, Integer, Algorithm, Escape Character, Newline, Arithmetic Operator, float(), round(), Augmented Operator, int()","2-AP-10, 2-AP-11, 2-AP-13, 2-AP-15, 2-AP-17, 2-AP-18, 2-AP-19, 3A-AP-13, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+Intro to Python,2,2.4,"I Want It, I Bought It",Independent Project,"In this project, students build a program that uses a shopping list to calculate out how long they'll have to work to buy everything on it.","Students will:
+- Store numbers and prices as float data types
+- Cast input to floats for calculating
+- Round amounts to dollars and cents
+- Add line breaks to strings using the \n character","Cast, Data Type, Expression, Float, Integer, Algorithm, Escape Character, Newline, Arithmetic Operator, float(), round(), Augmented Operator, int()","2-AP-10, 2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13"
+Intro to Python,2,2.5,Sports Reporter,Independent Project,"In this project, students build a program to help a sports reporter take notes on facts and numbers from a game. The program will use that information to calculate player statistics and print out a short sports story about the game.","Students will:
+- Write comments to help plan the statistical formulas
+- Cast input to floats or integers for calculating
+- Use operators to calculate statistics
+- Round amounts and percentages","Cast, Data Type, Expression, Float, Integer, Algorithm, Escape Character, Newline, Arithmetic Operator, float(), round(), Augmented Operator, int()","2-AP-10, 2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13"
+Intro to Python,2,2.6,Number Trick,Independent Project,"In this project, students demonstrate an understanding of how to use numbers and equations in Python.","Students will:
+- Write comments to help plan the number trick algorithm
+- Cast input to floats or integers for calculating
+- Use operators to calculate each step of the number trick
+- Add line breaks to strings using the \n character","Cast, Data Type, Expression, Float, Integer, Algorithm, Escape Character, Newline, Arithmetic Operator, float(), round(), Augmented Operator, int()","2-AP-10, 2-AP-11, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13"
+Intro to Python,Capstone,1,Business Founder,Case Study,"A case study is an opportunity to reflect on important issues at the intersection of computer science and other fields of study. Students will read about a complex topic, form their own opinion, and build a Python program that incorporates what they learned. Finally, students will develop a response that demonstrates their latest thinking on the topic and how it was reflected in their project. The focus of this case study is on turning an idea into a business plan. For this case study, students will respond to the following question: What would it take to start a worthwhile business?","Students will:
+- Use number variables to store details about their proposed business
+- Ask the user to enter the number of units expected to be sold
+- Use math operators to simulate their business, calculating revenue and net profit/loss
+- Use f-strings to print a report on their proposed business",,"2-AP-10, 2-AP-11, 2-AP-13, 2-AP-15, 2-AP-17, 2-AP-18, 2-AP-19, 3A-AP-13, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+Intro to Python,3,3.1,Snack Shack,Guided Project,"In this project, you'll imagine a food stand that sells donuts, pizza, ice cream, or another snack of your choice. Your program will show pictures of the food in your console based on user input.","Students will:
+- Use if, elif, and else statements to choose which snack will print
+- Run different code based on user input
+- Check if a number is equal to or greater than another number
+- Use the repetition operator to print multiple strings ","Boolean Expression, Branch, Code Block, Conditional Statement, Comparison Operator, If-elif-else, Repetition Operator, Nest, Comparison Operator, Logical Operator","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-15"
+Intro to Python,3,3.2,Text Adventure,Guided Project,"In this project, you'll create a ""choose your own adventure""-style story. Each decision the user makes will lead to a different ending.","Students will:
+- Write a story with multiple decisions, creating several branches of code
+- Run code when one of two options are true, using or
+- Run code when something is not equal, using !=
+- Check if a word is anywhere in user input, using in statements","Boolean Expression, Branch, Code Block, Conditional Statement, Comparison Operator, If-elif-else, Repetition Operator, Nest, Comparison Operator, Logical Operator","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-15"
+Intro to Python,3,3.3,Trivia Countdown,Team Project,"In this project, student teams will create a trivia game using number answers. Each team will use a life bar to see just how wrong the answers are.","Student teams will:
+- Use if statements to check for right answers
+- Use else and nested if statements to let users try each question a second time
+- Use multiple layers of nested code to let the user progress if they answer correctly
+- Compare user guesses to answers using operators","Boolean Expression, Branch, Code Block, Conditional Statement, Comparison Operator, If-elif-else, Repetition Operator, Nest, Comparison Operator, Logical Operator","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-15, 2-AP-17, 2-AP-18, 2-AP-19, 3A-AP-13, 3A-AP-15, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+Intro to Python,3,3.4,Ask the Expert,Independent Project,"In this project, students build a program that gives customized advice to the user.","Students will:
+- Use if, elif, and else statements to offer advice based on user input
+- Use layers of nested code to ask the user follow-up questions
+- Use the == operator and the in operator to test user input in different ways
+- Design a selection algorithm to allow at least five different recommendations to the user","Boolean Expression, Branch, Code Block, Conditional Statement, Comparison Operator, If-elif-else, Repetition Operator, Nest, Comparison Operator, Logical Operator","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-15"
+Intro to Python,3,3.5,Riddle Keeper,Independent Project,"In this project, students build a program that challenges the user to answer a series of riddles or other difficult questions.","Students will:
+- Use if, elif, and else statements to offer advice based on user input
+- Use layers of nested code to ask the user follow-up questions
+- Use the == operator and the in operator to test user input in different ways
+- Design a selection algorithm to allow at least five different recommendations to the user","Boolean Expression, Branch, Code Block, Conditional Statement, Comparison Operator, If-elif-else, Repetition Operator, Nest, Comparison Operator, Logical Operator","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-15"
+Intro to Python,3,3.6,Superfan,Independent Project,"In this project, students build a trivia quiz program to measure the user's level of fandom for a celebrity, icon, or cultural topic of your choice.","Students will:
+- Use if, elif, and else statements to offer advice based on user input
+- Use layers of nested code to ask the user follow-up questions
+- Use the == operator and the in operator to test user input in different ways
+- Design a selection algorithm to allow at least five different recommendations to the user","Boolean Expression, Branch, Code Block, Conditional Statement, Comparison Operator, If-elif-else, Repetition Operator, Nest, Comparison Operator, Logical Operator","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-15"
+Intro to Python,4,4.1,Special Request,Guided Project,"In this project, you'll create a program that writes different emails depending on who you're sending it to.","Students will:
+- Organize information into categories using lists
+- Choose the words you want for your letter using the index
+- Check if two things are true using the and operator
+- Use the title() method to make sure that user input is capitalized","Index, List, Method, Concatenation Operator, title(), Import, Module, Substring, lower(), random.choice(), random.randint(), Slide Notation","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15"
+Intro to Python,4,4.2,Gabby the Chatbot,Guided Project,"In this project, you'll create a chatbot, which is a program that talks to you like a real person.","Students will:
+- Import the random module to choose random answers for the chatbot
+- Use the index operator to lookup and change letters in a string to fit the conversation
+- Use a negative index to lookup the last item in a string or list
+- Use membership operators to check user input and answer correctly","Index, List, Method, Concatenation Operator, title(), Import, Module, Substring, lower(), random.choice(), random.randint(), Slide Notation","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15"
+Intro to Python,4,4.3,Horoscope,Team Project,"In this project, student teams will write a program that prints a horoscope based on the user's birthday.","Students will:
+- Store words and phrases in a list
+- Choose funny horoscope adjectives using random methods
+- Use conditional statements to choose the right horoscope based on a birthday
+- Use logical operators to test multiple birthday conditions","Index, List, Method, Concatenation Operator, title(), Import, Module, Substring, lower(), random.choice(), random.randint(), Slide Notation","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-15, 2-AP-16, 2-AP-17, 2-AP-18, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+Intro to Python,4,4.4,Collaborative Sentence,Independent Project,"In this project, students build a game program that combines input from different players to create an unusual sentence.","Students will:
+- Store writing topics in a list
+- Choose funny categories using random methods
+- Use a negative index to print the last part of a string
+- Use conditional statements to set a rule in the game","Index, List, Method, Concatenation Operator, title(), Import, Module, Substring, lower(), random.choice(), random.randint(), Slide Notation","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15"
+Intro to Python,4,4.5,Wizard Battle,Independent Project,"In this project, students build a game program that pits the user against the computer in a one-on-one battle. Each turn takes health points away from each player, and the last player with health points remaining is the winner.","Students will:
+- Set the result of each turn using random methods
+- Provide game story details in a list
+- Use logical operators to check both players for a losing result
+- Use conditional statements to set the game's difficulty level","Index, List, Method, Concatenation Operator, title(), Import, Module, Substring, lower(), random.choice(), random.randint(), Slide Notation","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15"
+Intro to Python,4,4.6,Rock Paper Scissors,Independent Project,"In this project, students build a trivia quiz program to measure the user's level of fandom for a celebrity, icon, or cultural topic of your choice.","Students will:
+- Set the result of each move using random methods
+- Provide game choices in a list
+- Use the in operator to check if a user move is valid
+- Use conditional statements to check who wins each round","Index, List, Method, Concatenation Operator, title(), Import, Module, Substring, lower(), random.choice(), random.randint(), Slide Notation","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15"
+Intro to Python,Capstone,2,Media Recommender,Case Study,"A case study is an opportunity to reflect on important issues at the intersection of computer science and other fields of study. Students will read about a complex topic, form their own opinion, and build a Python program that incorporates what you learned. Finally, students will develop a response that demonstrates their latest thinking on the topic and how it was reflected in their project. The focus of this case study is on media recommender systems. For this case study, students will respond to the following question: How should we design software to make media recommendations?","Students will:
+- Ask for the user’s movie preferences in three categories
+- Cast the user’s input values to numbers
+- Use comparison operators and conditional statements to evaluate the user’s input and recommend a movie",,"2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-15, 2-AP-16, 2-AP-17, 2-AP-18, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+Intro to Python,5,5.1,Video Prompter,Guided Project,"In this project, students create a ""teleprompter"", which is a video that tells someone what to say or sing.","Students will:
+- Loop through a list to print each teleprompter string
+- Loop through each index in a list using range() and len()
+- Use the time module to pause a program","Iteration, Loop, For, len(), range(), time.sleep(), append(), Break","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16"
+Intro to Python,5,5.2,Color Challenge,Guided Project,"In this project, students build a game where the user must correctly name the color of a word before their time is up.","Students will:
+- Add items to a list using the append() method
+- Use the time module to set a timer for a game
+- Use the break keyword to exit a loop when the user has lost
+- Use random.shuffle() to randomize the order of a list","Iteration, Loop, For, len(), range(), time.sleep(), append(), Break","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16"
+Intro to Python,5,5.3,Trick Challenge,Team Project,"In this project, student teams will write a game program based on a real trick, like a skateboard trick, gymnastics trick, bottle flipping, juggling, or something else.","Students will:
+- Add multiple players to a list using append()
+- Use for...in to loop through every item in a list
+- Use the random module to add game elements
+- Loop through each index in a list using range","Iteration, Loop, For, len(), range(), time.sleep(), append(), Break","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-15, 2-AP-16, 2-AP-17, 2-AP-18, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+Intro to Python,5,5.4,Lightning Round,Independent Project,"In this project, students invent a timed, multiplayer game where the players must think of items in a category before the timer runs out.","Students will:
+- Add multiple players to a list using append()
+- Use for...in to loop through every item in a list
+- Use range() to loop a number of times based on user input
+- Use the time, random, and os modules to add game elements","Iteration, Loop, For, len(), range(), time.sleep(), append(), Break","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16"
+Intro to Python,5,5.5,Dance Creator,Independent Project,"In this project, students write a program that creates a new dance by combining random moves that you invent.","Students will:
+- Add dance moves to a list using append()
+- Use for...in to loop through every item in a list
+- Use range() to loop a number of times based on user input
+- Use random.shuffle() to randomize the order of dance moves","Iteration, Loop, For, len(), range(), time.sleep(), append(), Break","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16"
+Intro to Python,5,5.6,Detective,Independent Project,"In this project, students create a mystery game where the user plays a detective. The player must guess the right suspect and other facts about the mystery. They must get all the facts right in order to win the game.","Students will:
+- Add mystery solving information to a list using append()
+- Use for...in to loop through every item in each list of clues
+- Use range() to loop through a number of turns in the game
+- Use random.choice() to select the answers to the mystery","Iteration, Loop, For, len(), range(), time.sleep(), append(), Break","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16"
+Intro to Python,6,6.1,Emoji Quilts,Guided Project,"Students are experienced quilt designers, creating masterful quilts from patterns of emoji! They'll be tasked with using their skills to improve both the pattern of a quilt and the design of their quilt-making program.","Students will:
+- Use functions to improve the design of a quilt-making program
+- Create their own functions to represent rows in a quilt
+- Write a program to create their own emoji quilt","def, Design, Function, Parameter, Refactor, Return, Return Value, Side Effect","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-14, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-21, 3A-AP-23"
+Intro to Python,6,6.2,Super Emoji Quilts,Guided Project,"Students build on their work from Emoji Quilts to improve the design of their quilt-making program and make even more customizable quilts! Along the way, they’ll learn more about parameters, which allow them to change how their functions behave.","Students will:
+- Use functions with parameters to improve the design of a quilt-making program
+- Use parameters to allow a user to customize their own emoji quilt","def, Design, Function, Parameter, Refactor, Return, Return Value, Side Effect","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-14, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-21, 3A-AP-23"
+Intro to Python,6,6.3,Disco Dancer,Team Project,"With their team, students will write a program to allow dancers to build their very own dance floor!","Student teams will:
+- Write their own functions to create a custom dance floor
+- Validate user input to prevent users from using your program incorrectly
+- Customize their dance floor to create interesting patterns","def, Design, Function, Parameter, Refactor, Return, Return Value, Side Effect","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-14, 2-AP-15, 2-AP-16, 2-AP-17, 2-AP-18, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23"
+Intro to Python,6,6.4,ASCII Pets,Independent Project,Students will draw and customize their own digital pet using characters they can find on their keyboard!,"Students will:
+- Use functions with parameters to design their own ASCII pets
+- Use functions to validate user input","def, Design, Function, Parameter, Refactor, Return, Return Value, Side Effect","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-14, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-21, 3A-AP-23"
+Intro to Python,6,6.5,Passion Project,Independent Project,"In this project, students will create and design a program of their choice. They will use the skills they've reviewed in this level, and follow any guidance given by their teacher.","Students will:
+- Write functions to implement a program of their choice
+- Use parameters to make their functions more flexible and reusable","def, Design, Function, Parameter, Refactor, Return, Return Value, Side Effect","2-AP-10, 2-AP-11, 2-AP-12, 2-AP-13, 2-AP-14, 2-AP-16, 2-AP-17, 2-AP-19, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-16, 3A-AP-17, 3A-AP-18, 3A-AP-21, 3A-AP-23"
+Data Science & AI,1,1.1,Autocorrect,Guided Project,"In this project, students will review the basics of programming in Python and create a simplified version of autocorrect. They’ll build a program that corrects a misspelled word by searching for the word with the most characters in common.","Students will:
+- Write functions to solve smaller pieces of a larger problem
+- Use loops to repeat code
+- Use conditional statements to run some lines of code and not others
+- Use Boolean expressions to ask true or false questions
+- Use variables, lists, and more to store information
+- In their workbooks, students will also learn about search algorithms commonly used in the field of data science and artificial intelligence, such as linear search.","Algorithm, Argument, Boolean Expression, Call, Conditional Statement, Function, List, Loop, Parameter, Program, Return, String Method, Variable, for, if-elif-else, input(), lowe(), print(), split(), while","3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-AP-08, 3B-AP-14, 3B-AP-21"
+Data Science & AI,1,1.2,Obstacle Course,Team Project,"Following in the historical footsteps of AI that was developed to play video games, students will review the basics of programming in Python by creating a program that will try to avoid different obstacles a user types in.","Students will:
+- Write functions to solve smaller pieces of a larger problem
+- Use loops to repeat code
+- Use conditional statements to run some lines of code and not others
+- Use Boolean expressions to ask questions with and, or, and not
+- Use variables, lists, and more to store information","Algorithm, Argument, Boolean Expression, Call, Conditional Statement, Function, List, Loop, Parameter, Program, Return, String Method, Variable, for, if-elif-else, input(), lowe(), print(), split(), while","3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23, 3B-AP-14, 3B-AP-20, 3B-AP-21"
+Data Science & AI,1,1.3,Empath,Independent Project,"Following in the historical footsteps of AI that was developed to play video games, students will review the basics of programming in Python by creating a program that will try to avoid different obstacles a user types in.","Students will:
+- Write functions to solve smaller pieces of a larger problem
+- Use loops to repeat code until some condition is true
+- Use conditional statements to run some lines of code and not others
+- Use Boolean expressions to ask true or false questions
+- Use variables, lists, and more to store information","Algorithm, Argument, Boolean Expression, Call, Conditional Statement, Function, List, Loop, Parameter, Program, Return, String Method, Variable, for, if-elif-else, input(), lowe(), print(), split(), while","3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-AP-14, 3B-AP-21"
+Data Science & AI,1,1.4,Passion Project,Independent Project,"In this project, students will create and design a program of their choice. They’ll use the skills they’ve reviewed in this level, and follow any guidance given by their teacher.","Students will:
+- Write functions to solve smaller pieces of a larger problem
+- Use loops to repeat code until some condition is true
+- Use conditional statements to run some lines of code and not others
+- Use Boolean expressions to ask true or false questions
+- Use variables, lists, and more to store information","Algorithm, Argument, Boolean Expression, Call, Conditional Statement, Function, List, Loop, Parameter, Program, Return, String Method, Variable, for, if-elif-else, input(), lowe(), print(), split(), while","3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-AP-14, 3B-AP-21"
+Data Science & AI,2,2.1,Photo Classifier,Guided Project,"In this project, students will write a program that can tell where a photo was taken.","Students will:
+- Read and understand the metadata in the provided files
+- Load file data into your program using with open() and read().splitlines()
+- Divide strings into lists using split()
+- Sort image data by creating and appending to a new list","Data, Data Field, Dataset, Delimiter, File Path, Latitude, Longitude, Metadata, Record, Text File, URL, Grid, Traverse, open(), read(), split(), splitlines(), with, join(), replace()","3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-21"
+Data Science & AI,2,2.2,Rewriter,Guided Project,"In this project, students will create a program that reads a story and decides how easy or hard it is to read.","Students will:
+- Get sentences from a story file and store them in a list
+- Use nested loops and double index to find words in the story
+- Look at a different word by adding to or subtracting from the index
+- Use the replace() method to change or remove symbols in the story","Data, Data Field, Dataset, Delimiter, File Path, Latitude, Longitude, Metadata, Record, Text File, URL, Grid, Traverse, open(), read(), split(), splitlines(), with, join(), replace()","3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-21"
+Data Science & AI,2,2.3,Emoji Diet,Team Project,"In this project, student teams will create a program that depicts the user's daily diet, using emojis and nutritional information.","Students will:
+- Read emoji and nutrition data from a file into lists in your program
+- Search for emojis in the list by converting user input into an index
+- Access different pieces of information in each data row using double index
+- Loop through code until user input is valid using while loops","Data, Data Field, Dataset, Delimiter, File Path, Latitude, Longitude, Metadata, Record, Text File, URL, Grid, Traverse, open(), read(), split(), splitlines(), with, join(), replace()","3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-20, 3B-AP-21"
+Data Science & AI,2,2.4,Dream Team,Independent Project,"In this project, students will rate the best players in one sport. Then students will create the best team based on player statistics.","Students will:
+- Write a program that can classify players from different data files
+- Divide string information into lists using split() with a delimiter
+- Access different pieces of information about each player using double index
+- Sort players into new lists depending on their position","Data, Data Field, Dataset, Delimiter, File Path, Latitude, Longitude, Metadata, Record, Text File, URL, Grid, Traverse, open(), read(), split(), splitlines(), with, join(), replace()","3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-21"
+Data Science & AI,2,2.5,My Name Is...,Independent Project,"In this project, students will create a program to help an older relative pick a popular baby name, based on their preferences.","Students will:
+- Read baby name data from a file into lists in your program
+- Use list index to get specific information about specific baby names
+- Sort baby names by testing multiple columns in a data row
+- Access one letter in a data string using double index","Data, Data Field, Dataset, Delimiter, File Path, Latitude, Longitude, Metadata, Record, Text File, URL, Grid, Traverse, open(), read(), split(), splitlines(), with, join(), replace()","3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-21"
+Data Science & AI,2,2.6,Grid Maze,Independent Project,"In this project, students create a maze game.","Students will:
+- Get a grid of symbols from a data file and store it in a list
+- Use nested loops and double index to move around the grid
+- Move the player in the maze by adding to or subtracting from the index
+- Use a while loop to continue the game until the user wins","Data, Data Field, Dataset, Delimiter, File Path, Latitude, Longitude, Metadata, Record, Text File, URL, Grid, Traverse, open(), read(), split(), splitlines(), with, join(), replace()","3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-21"
+Data Science & AI,3,3.1,Movie Search,Guided Project,"In this project, students will turn a movie dataset into a database that people can search.","Students will:
+- Read CSV data into your program using csv.reader() and list()
+- Separate a header row from a dataset
+- Clean data using filter(), replace(), strip(), and string slicing
+- Use sorted() and itemgetter() to sort a dataset","CSV File, Header Row, abs(), enumerate(), Tuple","3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-21"
+Data Science & AI,3,3.2,Twin Counties,Guided Project,"In this project, students write a program to compare data about where they live with data from another place in the U.S.","Students will:
+- Find the smallest difference in value between two counties' data
+- Clean data using join() and replace()
+- Use enumerate() to work with both the index and value of data in a list
+- Use abs() to evaluate the absolute value","CSV File, Header Row, abs(), enumerate(), Tuple","3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-21"
+Data Science & AI,3,3.3,Get Off the Road!,Team Project,"In this project, student teams will look at car accident data and investigate which U.S. states have the best and worst drivers.","Students will:
+- Compare and analyze data about U.S. states
+- Clean the given data using slice notation or string methods
+- Append relevant data to a new or existing dataset
+- Use sorted() and itemgetter() to find highest or lowest values","CSV File, Header Row, abs(), enumerate(), Tuple","3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-20, 3B-AP-21"
+Data Science & AI,3,3.4,Quote Collector,Independent Project,"In this project, students will create a personalized screen saver using a list of quotes.","Students will:
+- Filter quote data based on keywords
+- Clean the given data using string methods
+- Append relevant quotes to a new dataset
+- Use sorted() and itemgetter() to output quotes in order","CSV File, Header Row, abs(), enumerate(), Tuple","3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-21"
+Data Science & AI,3,3.5,Font Machine,Independent Project,"In this project, students will add new fonts to the console to print messages.","Students will:
+- Clean the given font table using string methods
+- Match a user string with CSV data using the index
+- Use concatenation and repetition in a loop to create new strings","CSV File, Header Row, abs(), enumerate(), Tuple","3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-21"
+Data Science & AI,3,3.6,Disaster!,Independent Project,"In this project, students will use weather data to investigate which U.S. states are most at risk of natural disasters.","Students will:
+- Compare and analyze data about U.S. states
+- Clean the given data using slice notation or string methods
+- Append relevant data to a new or existing dataset
+- Use sorted() and itemgetter() to find highest or lowest values","CSV File, Header Row, abs(), enumerate(), Tuple","3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-21"
+Data Science & AI,Capstone,1,Plagiarism Detector,Case Study,"A case study is an opportunity to reflect on important issues at the intersection of computer science and other fields of study. Students will read about a complex topic, form their own opinion, and build a Python program that incorporates what you learned. Finally, students will develop a response that demonstrates their latest thinking on the topic and how it was reflected in their project. The focus of this case study is on plagiarism and the tools used to detect it. Plagiarism means taking someone else's words or ideas and presenting them as your own. It's considered a form of academic dishonesty, a.k.a. cheating. Many high schools and colleges use online plagiarism detection tools, which scan student essays and look for text from other sources.","Students will:
+- Load Wikipedia articles and a student essay from text files
+- Use split() and join() methods to convert between strings and lists
+- Calculate what percentage of the essay appears to be plagiarized from Wikipedia
+- Decide whether to flag an essay as potentially containing plagiarism",,"3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23, 3A-IC-24, 3A-IC-25, 3A-IC-26, 3B-DA-05, 3B-DA-06, 3B-DA-07, 3B-AP-14, 3B-AP-20, 3B-AP-21, 3B-IC-25, 3B-IC-26"
+Data Science & AI,Capstone,1,Bike Share Planning,Team Challenge,"A case study is an opportunity to reflect on important issues at the intersection of computer science and other fields of study. Students will read about a complex topic, form their own opinion, and build a Python program that incorporates what you learned. Finally, students will develop a response that demonstrates their latest thinking on the topic and how it was reflected in their project. The focus of this team challenge is urban bike sharing. Over the past decade, bike sharing programs have become popular in large cities around the world. Whether you’re a tourist or an everyday commuter, short-term bike rentals can be a great way to get around without a car.","Students will:
+- Load data about a bike share program from a CSV file
+- Use the append() method to add CSV rows to a list of lists
+- Extract data from the dataset using for loops and counter variables
+- Use f-strings to output a report on how a bike share station is being used",,"3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23, 3A-IC-24, 3A-IC-25, 3A-IC-26, 3A-IC-29, 3B-DA-05, 3B-DA-06, 3B-DA-07, 3B-AP-14, 3B-AP-15, 3B-AP-20, 3B-AP-21, 3B-IC-25, 3B-IC-26"
+Data Science & AI,4,4.1,Graduation Goals,Guided Project,"In this project, students will investigate data about graduation and dropout rates from a sample of college students.","Students will:
+- Define functions that perform tasks in their program
+- Return information from called functions, and use the info somewhere else in their code
+- Use the Pandas library to perform data analysis on categorical data
+- Use Pandas and Matplotlib to output plots that summarize their data","Abstraction, Function Definition, Parameter, Scope, Void, Return, Array","3A-DA-11, 3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-16, 3B-AP-21"
+Data Science & AI,4,4.2,TV Show Analyzer,Guided Project,"In this project, students will review audience ratings of TV shows and illustrate them using graphs.","Students will:
+- Import a module
+- Store information in lists
+- Change values using methods
+- Look for information in a list or string
+- Compare number values","Abstraction, Function Definition, Parameter, Scope, Void, Return, Array","3A-DA-11, 3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-16, 3B-AP-21"
+Data Science & AI,4,4.3,Mental Health Monitor,Team Project,"In this project, student teams will investigate mental health in one or more countries. They will choose at least three factors or variables from across different datasets. They will use visualizations to identify possible relationships in the data that could be studied further.","Students will:
+- Use Matplotlib, NumPy, or Pandas to summarize a set of data
+- Illustrate trends or possible relationships using more than one kind of plot
+- Write functions that perform specific tasks in your code and make your code more readable","Abstraction, Function Definition, Parameter, Scope, Void, Return, Array","3A-DA-11, 3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-21, 3A-AP-22, 3A-AP-23, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-16, 3B-AP-20, 3B-AP-21"
+Data Science & AI,4,4.4,Out of This World,Independent Project,"In this project, students will investigate data about the history of UFO encounters in the U.S. They will choose at least three factors or variables from across different datasets. They will use visualizations to identify possible relationships in the data that could be studied further.","Students will:
+- Use Matplotlib, NumPy, or Pandas to summarize a set of data
+- Illustrate trends or possible relationships using more than one kind of plot
+- Write functions that perform specific tasks in your code and make their code more readable","Abstraction, Function Definition, Parameter, Scope, Void, Return, Array","3A-DA-11, 3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-16, 3B-AP-21"
+Data Science & AI,4,4.5,Compromised Data,Independent Project,"In this project, students will  investigate data about data breaches due to hacking and other causes. They will choose at least three factors or variables from across different datasets. They will use visualizations to identify possible relationships in the data that could be studied further.","Students will:
+- Use Matplotlib, NumPy, or Pandas to summarize a set of data
+- Illustrate trends or possible relationships using more than one kind of plot
+- Write functions that perform specific tasks in your code and make their code more readable","Abstraction, Function Definition, Parameter, Scope, Void, Return, Array","3A-DA-11, 3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-16, 3B-AP-21"
+Data Science & AI,4,4.6,COVID Cautious,Independent Project,"In this project, students will investigate data about COVID and vaccines in the U.S. They will choose at least three factors or variables from across different datasets. They will use visualizations to identify possible relationships in the data that could be studied further.","Students will:
+- Use Matplotlib, NumPy, or Pandas to summarize a set of data
+- Illustrate trends or possible relationships using more than one kind of plot
+- Write functions that perform specific tasks in your code and make their code more readable","Abstraction, Function Definition, Parameter, Scope, Void, Return, Array","3A-DA-11, 3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3B-DA-05, 3B-DA-06, 3B-AP-14, 3B-AP-16, 3B-AP-21"
+Data Science & AI,5,5.1,Roll Call,Guided Project,"Students have been selected to use their Python programming knowledge to help their school improve its rostering system! As they learn about an approach to programming called object-oriented programming, they’ll be tasked with redesigning an outdated program to track student enrollment in each grade level.","Students will:
+- Evaluate the design of a program in terms of its extensibility and potential for errors
+- Refactor a program to use an object-oriented design
+- Create a class to represent a real-world entity
+- Add a personal touch to their program by customizing the class they've designed","Attribute, Class, Labeled Data, Markov Chain, Method, Model, N-Gram, Object, Template Matching, Token, Training Data, Instance, Instance Variable","3A-DA-10, 3A-DA-11, 3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3A-AP-20, 3B-DA-05, 3B-DA-06, 3B-DA-07, 3B-AP-08, 3B-AP-09, 3B-AP-14, 3B-AP-16, 3B-AP-21, 3B-IC-27"
+Data Science & AI,5,5.2,Sequel,Guided Project,"Students imagine what might happen to the characters in a sequel to a book of their choice! To do so, students will build their own probabilistic language model and train it on their chosen book. Along the way, they’ll learn about the principles behind modern large language models.","Students will:
+- Build their own Markov language model
+- Implement a Python class to represent their language model
+- Evaluate the limitations of probabilistic language models
+- Understand how training data can alter language model behavior","Attribute, Class, Labeled Data, Markov Chain, Method, Model, N-Gram, Object, Template Matching, Token, Training Data, Instance, Instance Variable","3A-DA-10, 3A-DA-11, 3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3A-AP-20, 3B-DA-05, 3B-DA-06, 3B-DA-07, 3B-AP-08, 3B-AP-09, 3B-AP-10, 3B-AP-11, 3B-AP-14, 3B-AP-16, 3B-AP-21, 3B-IC-27"
+Data Science & AI,5,5.3,Handrwiting Detectives,Team Project,"Inspired by the AI that powers the Apple Pencil and Samsung S Pen, this project challenges student teams to build their own handwriting recognition system. Each team will collect samples of their handwriting and, based on its features, will write a program capable of recognizing new handwritten characters.","Student teams will:
+- Build a labeled dataset of their own handwriting
+- Implement a Python class to represent individual letters in their dataset
+- Use template matching to recognize new handwritten characters
+- Evaluate the strengths and limitations of template-based classification algorithms","Attribute, Class, Labeled Data, Markov Chain, Method, Model, N-Gram, Object, Template Matching, Token, Training Data, Instance, Instance Variable","3A-DA-10, 3A-DA-11, 3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3A-AP-19, 3A-AP-20, 3A-AP-21, 3A-AP-22, 3A-AP-23, 3B-DA-05, 3B-DA-06, 3B-DA-07, 3B-AP-08, 3B-AP-09, 3B-AP-10, 3B-AP-11, 3B-AP-14, 3B-AP-16, 3B-AP-20, 3B-AP-21, 3B-IC-27"
+Data Science & AI,5,5.4,Echoes of the Past,Independent Project,"Students will act as historians, using a probabilistic language model to reconstruct missing fragments of 1700’s diary entries about the founding of the United States. They'll train their model on complete entries written by a diverse range of voices from late 18th-century America.","Students will:
+- Use and train a probabilistic language model to analyze historical texts.
+- Evaluate the ability of probabilistic language models to refine and support historical hypotheses.
+- Understand and predict how AI can and will be applied to interdisciplinary questions.","Attribute, Class, Labeled Data, Markov Chain, Method, Model, N-Gram, Object, Template Matching, Token, Training Data, Instance, Instance Variable","3A-DA-10, 3A-DA-11, 3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3A-AP-20, 3B-DA-05, 3B-DA-06, 3B-DA-07, 3B-AP-08, 3B-AP-09, 3B-AP-10, 3B-AP-11, 3B-AP-14, 3B-AP-16, 3B-AP-21, 3B-IC-27"
+Data Science & AI,5,5.5,Passion Project,Independent Project,"In this project, students will create and design a program of their choice. Students use the skills they’ve learned in this level, and follow any guidance given by their teacher.","Students will:
+- Create a program to model something of their choice from the real world.
+- Use an object-oriented design to write their program.
+- Document their design decisions using comments.
+- Develop a series of tests to ensure their program behaves as they intend.","Attribute, Class, Labeled Data, Markov Chain, Method, Model, N-Gram, Object, Template Matching, Token, Training Data, Instance, Instance Variable","3A-DA-10, 3A-DA-11, 3A-DA-12, 3A-AP-13, 3A-AP-14, 3A-AP-15, 3A-AP-17, 3A-AP-18, 3A-AP-20, 3B-DA-05, 3B-DA-06, 3B-DA-07, 3B-AP-08, 3B-AP-09, 3B-AP-10, 3B-AP-11, 3B-AP-14, 3B-AP-16, 3B-AP-21, 3B-IC-27"
