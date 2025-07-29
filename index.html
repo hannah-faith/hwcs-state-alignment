@@ -157,6 +157,8 @@
       let projects = [];
       let stateValue = "";
       let importedAlignments = new Map();
+      // Track current user selections (seeded from importedAlignments)
+      let selectedAlignments = new Map(importedAlignments);
       document
         .getElementById("stateInput")
         .addEventListener("input", (e) => (stateValue = e.target.value.trim()));
@@ -211,6 +213,11 @@
                   const key = `${idx}::${entry["Course Name"]}`;
                   importedAlignments.set(key, entry["Project Name"] || []);
                 }
+              });
+              // Seed current selections from imported data
+              selectedAlignments = new Map();
+              importedAlignments.forEach((v, k) => {
+                selectedAlignments.set(k, [...v]);
               });
               console.log("✔ Imported alignment JSON:", importedAlignments);
               // re-render to apply imported checks
@@ -304,7 +311,11 @@
               ${headerText}
             </button>
           </h2>
-          <div id="${collapseId}" class="accordion-collapse collapse" aria-labelledby="${headerId}" data-std-index="${std.index}">
+          <div id="${collapseId}"
+               class="accordion-collapse collapse"
+               aria-labelledby="${headerId}"
+               data-bs-parent="#standardsAccordion"
+               data-std-index="${std.index}">
             <div class="accordion-body">
               Grade: ${std.grade}
             </div>
@@ -354,12 +365,23 @@
                   cb.value = labelText;
                   cb.className = "form-check-input me-2";
                   cb.id = `cb-${std.index}-${courseName}-${proj.id}`;
-                  // apply imported alignment if present
-                  const imported =
-                    importedAlignments.get(`${std.index}::${courseName}`) || [];
-                  if (imported.includes(cb.value)) {
-                    cb.checked = true;
-                  }
+                  // apply existing selection if present
+                  const sel =
+                    selectedAlignments.get(`${std.index}::${courseName}`) || [];
+                  if (sel.includes(cb.value)) cb.checked = true;
+
+                  // Update selectedAlignments when user toggles a checkbox
+                  cb.addEventListener("change", () => {
+                    const key = `${std.index}::${courseName}`;
+                    const arr = selectedAlignments.get(key) || [];
+                    if (cb.checked) {
+                      if (!arr.includes(cb.value)) arr.push(cb.value);
+                    } else {
+                      const i = arr.indexOf(cb.value);
+                      if (i >= 0) arr.splice(i, 1);
+                    }
+                    selectedAlignments.set(key, arr);
+                  });
 
                   const label = document.createElement("label");
                   label.className =
@@ -401,45 +423,35 @@
 
       // File inputs already call tryRender on change, no need to add again
 
-      // Phase 4: Collect all standards (even with no selections) and build JSON
+      // Phase 4: Build result from all standard-course combos using selectedAlignments
       document.getElementById("generateJson").addEventListener("click", () => {
-        const map = new Map();
-        // Prepopulate entries for every standard-course combination
+        const result = [];
         standards.forEach((std, sIdx) => {
           const coursesFor = getCoursesForGrade(std.grade);
-          if (!coursesFor.length) return; // skip grades with no courses
+          if (!coursesFor.length) return; // skip grades without courses
           coursesFor.forEach((courseName) => {
             const key = `${sIdx}::${courseName}`;
-            map.set(key, {
+            const projList = selectedAlignments.get(key) || [];
+            result.push({
               State: std.state,
               Grade: std.grade,
               "Standard ID": std.standardId,
               "Standard Text": std.standardText,
               "Course Name": courseName,
-              "Project Name": [],
+              "Project Name": projList,
             });
           });
         });
-        // Now add any checked project alignments
-        document
-          .querySelectorAll('#coursesContainer input[type="checkbox"]:checked')
-          .forEach((cb) => {
-            const key = `${cb.dataset.stdIndex}::${cb.dataset.course}`;
-            if (map.has(key)) {
-              map.get(key)["Project Name"].push(cb.value);
-            }
-          });
-        // Convert to array and output
-        const result = Array.from(map.values());
+
         const jsonStr = JSON.stringify(result, null, 2);
-        // Show JSON in detail pane for user visibility
+        // Show JSON in detail pane
         detailHeader.textContent = "Generated JSON";
         coursesContainer.innerHTML = `<pre style="white-space: pre-wrap; background: #f8f8f8; padding: 1em; border: 1px solid #ddd; max-height: 60vh; overflow-y: auto;">${jsonStr}</pre>`;
 
+        // Trigger download
         const blob = new Blob([jsonStr], { type: "application/json" });
         const a = document.createElement("a");
         a.href = URL.createObjectURL(blob);
-        // Name the file based on the entered state
         const filename = stateValue
           ? `${stateValue} Standards Alignment.json`
           : "alignment.json";
