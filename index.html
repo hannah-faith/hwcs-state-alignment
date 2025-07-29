@@ -473,9 +473,7 @@
         const blob = new Blob([jsonStr], { type: "application/json" });
         const a = document.createElement("a");
         a.href = URL.createObjectURL(blob);
-        const filename = stateValue
-          ? `${stateValue} Standards Alignment.json`
-          : "alignment.json";
+        const filename = stateValue ? `${stateValue}.json` : "alignment.json";
         a.download = filename;
         a.click();
         URL.revokeObjectURL(a.href);
