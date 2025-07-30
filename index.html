@@ -65,6 +65,21 @@
         font-weight: 600;
         color: #0d6efd;
       }
+      /* Style "Select all team projects" option */
+      .select-team-projects {
+        background-color: #eef0fe;
+        padding: 0.5rem;
+        border-radius: 0.25rem;
+        margin-bottom: 0.75rem;
+        margin-left: 1rem;
+      }
+      .select-team-projects .form-check-input {
+        transform: scale(1.1);
+      }
+      .select-team-projects .form-check-label {
+        font-weight: 600;
+        color: #5c71f2;
+      }
     </style>
   </head>
   <body class="bg-light">
@@ -368,6 +383,67 @@
         "Data Science & AI"
       );
 
+      // Team projects per course
+      const teamProjectsByCourse = {
+        "CS Adventures with VR": [
+          "1.2 Find the Fish",
+          "2.2 Halloween Parade",
+          "3.2 Alphabet Town",
+          "4.2 Holiday Fun",
+          "5.2 Dinosaur Safari",
+        ],
+        "CS Breakthroughs with VR": [
+          "1.2 Team Battle",
+          "2.2 Animal Whisperer",
+          "3.2 Carnival Rides",
+          "4.2 Tiny Town",
+          "5.2 Team Exploration",
+        ],
+        "CS Connections with VR": [
+          "1.3 Let's Party!",
+          "2.3 Island Survivors",
+          "C1 A Symbiotic World",
+          "3.3 Clubhouse",
+          "4.3 Portal Puzzle",
+          "C2 Interview an Innovator",
+          "5.3 Search and Rescue",
+        ],
+        "CS Dimensions with VR": [
+          "1.3 Island Survivors",
+          "2.3 Obstacle Course",
+          "C1 Solar System Landing",
+          "3.3 Tower Conquest",
+          "4.3 Lights! Camera! Action!",
+          "5.3 Shopping Spree",
+        ],
+        "Web Development": [
+          "1.3 Optical Illusions",
+          "2.3 Playlist Creator",
+          "3.3 Epic Mission",
+          "4.3 Mystery Mansion",
+          "5.3 Code Corporation",
+        ],
+        "Intro to Python": [
+          "1.3 User Namer",
+          "2.3 The Great Race",
+          "C1 Business Founder",
+          "3.3 Trivia Countdown",
+          "4.3 Horoscope",
+          "C2 Media Recommender",
+          "5.3 Trick Challenge",
+          "6.3 Disco Dancer",
+        ],
+        "Data Science & AI": [
+          "1.2 Obstacle Course",
+          "2.3 Emoji Diet",
+          "3.3 Get Off the Road!",
+          "C1 Plagiarism Detector",
+          "C1 Bike Share Planning",
+          "4.3 Mental Health Monitor",
+          "5.3 Handwriting Detectives",
+        ],
+      };
+
       // Utility to retrieve courses for a given grade
       function getCoursesForGrade(grade) {
         return gradeToCourses[grade] || [];
@@ -469,6 +545,47 @@
                 selectAllDiv.appendChild(selectAllCheckbox);
                 selectAllDiv.appendChild(selectAllLabel);
                 cardBody.appendChild(selectAllDiv);
+
+                // Add "Select all team projects" checkbox
+                const teamDiv = document.createElement("div");
+                teamDiv.className = "form-check mb-2 select-team-projects";
+                const teamCb = document.createElement("input");
+                teamCb.type = "checkbox";
+                teamCb.className = "form-check-input me-2";
+                teamCb.id = `selectTeam-${std.index}-${courseName}`;
+                const teamLabel = document.createElement("label");
+                teamLabel.className = "form-check-label";
+                teamLabel.htmlFor = teamCb.id;
+                teamLabel.textContent = "Select all team projects";
+                teamDiv.appendChild(teamCb);
+                teamDiv.appendChild(teamLabel);
+                cardBody.appendChild(teamDiv);
+
+                teamCb.addEventListener("change", () => {
+                  const key = `${std.index}::${courseName}`;
+                  const names = teamProjectsByCourse[courseName] || [];
+                  if (teamCb.checked) {
+                    // Select all team projects
+                    selectedAlignments.set(key, [...names]);
+                  } else {
+                    // Unselect all team projects
+                    const current = selectedAlignments.get(key) || [];
+                    const filtered = current.filter(
+                      (name) => !names.includes(name)
+                    );
+                    selectedAlignments.set(key, filtered);
+                  }
+                  // Toggle the actual checkboxes
+                  const projectCbs = cardBody.querySelectorAll(
+                    'input.form-check-input[id^="cb-"]'
+                  );
+                  projectCbs.forEach((cb) => {
+                    if (names.includes(cb.value)) {
+                      cb.checked = teamCb.checked;
+                      cb.dispatchEvent(new Event("change"));
+                    }
+                  });
+                });
 
                 selectAllCheckbox.addEventListener("change", () => {
                   const key = `${std.index}::${courseName}`;
