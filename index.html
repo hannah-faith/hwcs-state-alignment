@@ -258,6 +258,36 @@
               console.log("✔ Imported alignment JSON:", importedAlignments);
               // re-render to apply imported checks
               renderStandardsAccordion(searchStandardsInput.value.trim());
+
+              // Expand standards with imported alignments to show pre-checked boxes
+              selectedAlignments.forEach((projects, key) => {
+                if (projects && projects.length) {
+                  const [stdIndex] = key.split("::");
+                  const collapseEl = document.getElementById(
+                    `collapse${stdIndex}`
+                  );
+                  if (collapseEl) {
+                    // Use Bootstrap collapse API to show the panel
+                    const bsCollapse = new bootstrap.Collapse(collapseEl, {
+                      toggle: false,
+                    });
+                    bsCollapse.show();
+                  }
+                }
+              });
+
+              // Pre-check the checkboxes based on importedAlignments
+              selectedAlignments.forEach((projects, key) => {
+                const [stdIndex, courseName] = key.split("::");
+                projects.forEach((labelText) => {
+                  const checkbox = document.querySelector(
+                    `input[type="checkbox"][data-std-index="${stdIndex}"][data-course="${courseName}"][value="${labelText}"]`
+                  );
+                  if (checkbox) {
+                    checkbox.checked = true;
+                  }
+                });
+              });
             } catch (err) {
               console.error("Failed to parse JSON:", err);
             }
@@ -280,7 +310,10 @@
       addMapping(["K-2", "1", "2"], "CS Adventures with VR");
       addMapping(["3-5", "3", "4", "5", "4-6"], "CS Breakthroughs with VR");
       addMapping(["5-8", "6-8", "6", "7", "8", "MS"], "CS Connections with VR");
-      addMapping(["9-12", "9-10", "9", "10", "HS"], "CS Dimensions with VR");
+      addMapping(
+        ["9-12", "9-10", "9", "10", "HS", "HS (L1)"],
+        "CS Dimensions with VR"
+      );
       addMapping(
         [
           "6-10",
@@ -295,15 +328,43 @@
           "MS",
           "HS",
           "10 - Web Design Foundations",
+          "HS (L1)",
+          "HS (L2)",
         ],
         "Web Development"
       );
       addMapping(
-        ["6-8", "9-10", "9-12", "7", "8", "9", "10", "11", "MS", "HS"],
+        [
+          "6-8",
+          "9-10",
+          "9-12",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "MS",
+          "HS",
+          "HS (L1)",
+          "HS (L2)",
+        ],
         "Intro to Python"
       );
       addMapping(
-        ["6-8", "9-10", "9-12", "8", "9", "10", "11", "12", "MS", "HS"],
+        [
+          "6-8",
+          "9-10",
+          "9-12",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "MS",
+          "HS",
+          "HS (L1)",
+          "HS (L2)",
+        ],
         "Data Science & AI"
       );
 
