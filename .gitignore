@@ -1,0 +1,13 @@
+# Ignore node_modules (dependencies)
+node_modules/
+
+# Ignore system files
+.DS_Store
+
+# Ignore log files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Ignore any .env or config files you don't want public
+.env

@@ -1,0 +1,225 @@
+Standard ID,Grade,Strand,Content Cluster,Standard Text
+K.CS.D.1,K,Computing Systems (CS),Devices (D),"With teacher guidance, select and operate an appropriate device to perform a task. "
+K.CS.HS.1,K,Computing Systems (CS),Hardware and Software (HS),Use appropriate terminology in identifying and describing the function of common physical components of computing systems. 
+K.CS.T.1,K,Computing Systems (CS),Troubleshooting (T),Discuss basic hardware and software problems. 
+K.NI.C.1,K,Networks and the Internet (NI),Cybersecurity (C),Explain that a password helps protect the privacy of information. 
+K.NI.NCO.1,K,Networks and the Internet (NI),"Network, Communication, and Organization (NCO)","With teacher guidance, students define computer networks and how they can be used to connect people to other people, places, information, and ideas. "
+K.DA.CVT.1,K,Data and Analysis (DA),"Collection, Visualization and Transformation (CVT)","With teacher guidance, collect and transform data using digital devices; Display data for communication in various visual formats. "
+K.DA.S.1,K,Data and Analysis (DA),Storage (S),Recognize that data can be collected and stored on different computing devices over time and retrieved later. 
+K.DA.IM.1,K,Data and Analysis (DA),Inference and Models (IM),Discuss patterns in data to make inferences or predictions. 
+K.AP.A.1,K,Algorithms and Programming (AP,Algorithms (A),"With teacher assistance, model daily processes by following algorithms (sets of step-by-step instructions) to complete tasks. "
+K.AP.V.1,K,Algorithms and Programming (AP,Variables (V),"With teacher assistance, model the way programs store and manipulate data by using numbers or other symbols to represent information. "
+K.AP.C.1,K,Algorithms and Programming (AP,Control (C),"With teacher assistance, identify programs with sequences and simple loops, to express ideas or address a problem. "
+K.AP.M.1,K,Algorithms and Programming (AP,Modularity (M),"With teacher assistance, solve a problem by breaking it down into smaller parts. "
+K.AP.PD.1,K,Algorithms and Programming (AP,Program Development (PD,"With teacher assistance, develop plans that describe a program’s sequence of events, goals, and expected outcomes. "
+K.AP.PD.2,K,Algorithms and Programming (AP,Program Development (PD,"With teacher assistance, identify attribution (credit) when using the ideas and creations of others while developing programs. "
+K.AP.PD.3,K,Algorithms and Programming (AP,Program Development (PD,"With teacher assistance, debug (identify and fix) errors in an algorithm or program that includes sequences and simple loops. "
+K.AP.PD.4,K,Algorithms and Programming (AP,Program Development (PD,"With teacher assistance, using correct terminology, describe steps taken and choices made during program development. "
+K.IC.C.1,K,Impacts of Computing (IC),Culture (C),Discuss how people lived and worked before and after the implementation or adoption of new computing technology. 
+K.IC.SI.1,K,Impacts of Computing (IC),Social Interactions (SI),Work respectfully and responsibly with others online. 
+K.IC.SLE.1,K,Impacts of Computing (IC),"Safety, Law, and Ethics (SLE)","Keep login information private, and log off of devices appropriately. "
+1.CS.D.1,1,Computing Systems (CS) ,Devices (D),"With teacher guidance, select and operate appropriate devices and software to perform a task. "
+1.CS.HS.1,1,Computing Systems (CS) ,Hardware and Software (HS),Use appropriate terminology in identifying and describing the function of common physical components of computing systems.
+1.CS.T.1,1,Computing Systems (CS) ,Troubleshooting (T),Identify basic hardware and software problems using accurate terminology. Problems with computing systems have different causes. 
+1.CS.T.2,1,Computing Systems (CS) ,Troubleshooting (T),"With teacher guidance, begin to use basic troubleshooting strategies. "
+1.NI.C.1,1,Networks and the Internet (NI),Cybersecurity (C),"Explain what passwords are and why we use them to protect personal information (e.g., name, location, phone number, home address) and keep it private. "
+1.NI.NCO.1,1,Networks and the Internet (NI),"Network, Communication, and Organization (NCO)","With teacher guidance, students discuss how computer networks can be used to connect people to other people, places, information, and ideas. "
+1.DA.CVT.1,1,Data and Analysis (DA),"Collection, Visualization and Transformation (CVT)","With teacher guidance, collect and transform data using digital devices; Display data for communication in various visual formats. "
+1.DA.S.1,1,Data and Analysis (DA),Storage (S),"Explain that a variety of data (e.g., music, video, images, and text) can be stored in and retrieved from a computing device. "
+1.DA.IM .1,1,Data and Analysis (DA),Inference and Models (IM),Identify patterns in data to make inferences or predictions. 
+1.AP.A.1,1,Algorithms and Programming (AP,Algorithms (A),Model daily processes by following algorithms (sets of step-by-step instructions) to complete tasks.
+1.AP.V.1,1,Algorithms and Programming (AP,Variables (V),Model the way programs store and manipulate data by using numbers or other symbols to represent information. 
+1.AP.C.1,1,Algorithms and Programming (AP,Control (C),"Identify programs with sequences and simple loops, to express ideas or address a problem."
+1.AP.M.1,1,Algorithms and Programming (AP,Modularity (M),Solve a problem by breaking it down into smaller parts. 
+1.AP.PD.1,1,Algorithms and Programming (AP,Program Development (PD,"With teacher assistance identify plans that describe a program’s sequence of events, goals, and expected outcomes. "
+1.AP.PD.2,1,Algorithms and Programming (AP,Program Development (PD,"With teacher assistance, give attribution (credit) when using the ideas and creations of others while developing programs."
+1.AP.PD.3,1,Algorithms and Programming (AP,Program Development (PD,"With teacher assistance, debug (identify and fix) errors in an algorithm or program that includes sequences and simple loops."
+1.AP.PD.4 ,1,Algorithms and Programming (AP,Program Development (PD,"Using correct terminology, describe steps taken and choices made during program development."
+1.IC.C.1,1,Impacts of Computing (IC),Culture (C),Discuss how people live and work before and after the implementation or adoption of new computing technology. 
+1.IC.SI.1,1,Impacts of Computing (IC),Social Interactions (SI),Work respectfully and responsibly with others online. 
+1.IC.SLE.1,1,Impacts of Computing (IC),"Safety, Law, and Ethics (SLE)","Keep login information private, and log off devices appropriately."
+2.CS.D.1,2,Computing Systems (CS),Devices (D),Recognize that users have different needs and preferences for technology they used by selecting and operating appropriate devices. 
+2.CS.HS.1,2,Computing Systems (CS),Hardware and Software (HS),Understand how computing systems use both hardware (device) and software (program/app) to process information.
+2.CS.T.1,2,Computing Systems (CS),Troubleshooting (T),Explain basic hardware (device) and software (program/app) problems using accurate terminology. 
+2.CS.T.2,2,Computing Systems (CS),Troubleshooting (T),"With teacher guidance, use basic troubleshooting strategies. "
+2.NI.C.1,2,Networks and the Internet (NI),Cybersecurity (C),"Explain what passwords are and why we use them, and use strong passwords to protect devices and information from unauthorized access. "
+2.NI. NCO.1,2,Networks and the Internet (NI),"Network, Communication, and Organization (NCO)","Students can discuss how computer networks can be used to connect people to other people, places, information, and ideas. "
+2.DA.CVT.1,2,Data and Analysis (DA),"Collection, Visualization and Transformation (CVT)",Collect and transform data using digital devices; Display data for communication in various visual formats.
+2.DA.S.1,2,Data and Analysis (DA),Storage (S),"Store, copy, search, retrieve, modify, and delete information using a computing device and define the information stored as data."
+2.DA.IM.1,2,Data and Analysis (DA),Inference and Models (IM),Describe patterns in data to make inferences or predictions. 
+2.AP.A.1,2,Algorithms and Programming (AP,Algorithms (A),Model daily processes by creating and following algorithms (sets of step-by-step instructions to complete tasks.
+2.AP.V.1,2,Algorithms and Programming (AP,Variables (V),Model the way programs store and manipulate data by using numbers or other symbols to represent information. 
+2.AP.C.1,2,Algorithms and Programming (AP,Control (C),"Develop programs with sequences and simple loops, to express ideas or address a problem."
+2.AP.M.1,2,Algorithms and Programming (AP,Modularity (M),Decompose (break down) the steps needed to solve a problem into a precise sequence of instructions. 
+2.AP.PD.1 ,2,Algorithms and Programming (AP,Program Development (PD,"Develop plans that describe a program’s sequence of events, goals, and expected outcomes."
+2.AP.PD.2,2,Algorithms and Programming (AP,Program Development (PD,Give attribution (credit) when using the ideas and creations of others while developing programs.
+2.AP.PD.3,2,Algorithms and Programming (AP,Program Development (PD,Debug (identify and fix) errors in an algorithm or program that includes sequences and simple loops.
+2.AP.PD.4,2,Algorithms and Programming (AP,Program Development (PD,"Using correct terminology, describe steps taken and choices made during the iterative process of program (procedure) development."
+2.IC.C.1,2,Impacts of Computing (IC),Culture (C),Compare how people live and work before and after the implementation or adoption of new computing technology. 
+2.IC.SI.1,2,Impacts of Computing (IC),Social Interactions (SI),Work respectfully and responsibly with others online. 
+2.IC. SLE.1,2,Impacts of Computing (IC),"Safety, Law, and Ethics (SLE)","Keep login information private, and log off of devices appropriately."
+3.CS.D.1,3,Computing System (CS),Devices (D),Identify how internal and external parts of computing devices function to form a system within a single device and hardware that connects to the device to extend capability. 
+3.CS.HS.1,3,Computing System (CS),Hardware and Software (HS),Recognize that hardware (devices) and software (programs/apps) communicate in a special language that the computing system can understand.
+3.CS.HS.2,3,Computing System (CS),Hardware and Software (HS),Recognize that hardware (devices) can only accomplish the specific tasks the software (programs/apps) is designed to accomplish.
+3.CS.T.1,3,Computing System (CS),Troubleshooting (T),Identify and use common troubleshooting strategies to solve simple hardware and software problems. 
+3.NI.C.1,3,Networks and the Internet (NI),Cybersecurity (C),Identify real-world cybersecurity problems and how personal information can be protected.
+3.NI.NCO.1,3,Networks and the Internet (NI),"Network, Communication, and Organization (NCO)",Model how information flows in a physical or wireless path to travel to be sent and received is sent and received through a physical or wireless path. 
+3.DA.CVT.1,3,Data and Analysis (DA),"Collection, Visualization and Transformation (CVT)","Select tools from a specified list to collect, organize, and present data visually to highlight relationships and support a claim."
+3.DA.S.1,3,Data and Analysis (DA),Storage (S),Recognize different file extensions. 
+3.DA.IM.1,3,Data and Analysis (DA),Inference and Models (IM),"Use a computational tool to draw conclusions, make predictions, and answer questions utilizing a specified data set."
+3.AP.A.1,3,Algorithms and Programming (AP,Algorithms (A),Recognize and compare multiple algorithms for the same task and determine which are effective.
+3.AP.V.1,3,Algorithms and Programming (AP,Variables (V),Create programs that use variables to store and modify data.
+3.AP.C.1,3,Algorithms and Programming (AP,Control (C),"Create programs that include sequences, events, loops, and/or conditionals. "
+3.AP.M.1,3,Algorithms and Programming (AP,Modularity (M),"Decompose problems into smaller, manageable subproblems to facilitate the program development process."
+3.AP.PD.1,3,Algorithms and Programming (AP,Program Development (PD,"With teacher guidance, use an iterative process to plan the development of a program by including others' perspectives and considering user preferences."
+3.AP.PD.2,3,Algorithms and Programming (AP,Program Development (PD,Observe intellectual property rights and give appropriate attribution when creating or remixing programs. 
+3.AP.PD.3,3,Algorithms and Programming (AP,Program Development (PD,Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended. 
+3.AP.PD.4,3,Algorithms and Programming (AP,Program Development (PD,"With teacher guidance, students take on varying roles, when collaborating with peers during the design, implementation, and review stages of program development."
+3.AP.PD.5,3,Algorithms and Programming (AP,Program Development (PD,"Describe choices made during program (procedure) development using code comments, presentations, and/or demonstrations. "
+3.IC.C.1,3,Impacts of Computing (IC),Culture (C),Identify computing technologies that have changed the world. 
+3.IC.C.2,3,Impacts of Computing (IC),Culture (C),"With teacher guidance, brainstorm ways to improve the accessibility and usability of technology products for the diverse needs and wants of users."
+3.IC.SI.1,3,Impacts of Computing (IC),Social Interactions (SI),Seek opportunities for local collaboration to facilitate communication and innovation. 
+3.IC.SLE.1,3,Impacts of Computing (IC),"Safety, Law, and Ethics (SLE)",Use material that is publicly available and/or permissible to use.
+4.CS.D.1,4,Computing Systems (CS),Devices (D),"With teacher guidance, model how internal and external parts of computing connect multiple devices in a computing system. "
+4.CS.HS.1,4,Computing Systems (CS),Hardware and Software (HS),Recognize that bits serve as the basic unit of data in computing systems and can represent a variety of information.
+4.CS.HS.2,4,Computing Systems (CS),Hardware and Software (HS),Recognize that a single piece of hardware can accomplish different tasks depending on its software.
+4.CS.T.1,4,Computing Systems (CS),Troubleshooting (T),Develop and apply simple troubleshooting strategies to solve simple hardware and software problems. 
+4.NI.C.1,4,Networks and the Internet (NI),Cybersecurity (C),Discuss real-world cybersecurity problems and how personal information can be protected.
+4.NI.NCO.1,4,Networks and the Internet (NI),"Network, Communication, and Organization (NCO)","Model how information is decomposed, transmitted as packets through multiple devices over networks and reassembled at the destination. "
+4.DA.CVT.1,4,Data and Analysis (DA),"Collection, Visualization and Transformation (CVT)","Select tools to collect, organize, and present data visually to highlight relationships and support a claim."
+4.DA.S.1,4,Data and Analysis (DA),Storage (S),Recognize different file extensions and the different amounts of storage required for each type. 
+4.DA.IM.1,4,Data and Analysis (DA),Inference and Models (IM),"Use a computational tool to manipulate data to draw conclusions, make predictions, and answer questions. "
+4.AP.A.1,4,Algorithms and Programming (AP,Algorithms (A),Compare and refine multiple algorithms for the same task and determine which is the most effective.
+4.AP.V.1,4,Algorithms and Programming (AP,Variables (V),Create programs that use variables to store and modify data
+4.AP.C.1,4,Algorithms and Programming (AP,Control (C),"Create programs that include sequences, events, loops, and/or conditionals."
+4.AP.M.1,4,Algorithms and Programming (AP,Modularity (M),"Decompose problems into smaller, manageable subproblems to facilitate the program development process. "
+4.AP.M.2,4,Algorithms and Programming (AP,Modularity (M),"Modify, remix, or incorporate portions of an existing program into one's own work to add more advanced features. "
+4.AP.PD.1,4,Algorithms and Programming (AP,Program Development (PD,Use an iterative process to plan the development of a program by including others' perspectives and considering user preferences.
+4.AP.PD.2,4,Algorithms and Programming (AP,Program Development (PD,Observe intellectual property rights and give appropriate attribution when creating or remixing programs.
+4.AP.PD.3,4,Algorithms and Programming (AP,Program Development (PD,Test and debug (identify and fix errors) a program/app or algorithm to ensure it runs as intended.
+4.AP.PD.4,4,Algorithms and Programming (AP,Program Development (PD,"With teacher guidance, students take on varying roles when collaborating with peers during the design, implementation, and review stages of program development."
+4.AP.PD.5,4,Algorithms and Programming (AP,Program Development (PD,"Describe choices made during program development using code comments, presentations, and/or demonstrations."
+4.IC.C.1,4,Impacts of Computing (IC),Culture (C),Identify and discuss computing technologies that have changed the world. 
+4.IC.C.2,4,Impacts of Computing (IC),Culture (C),Brainstorm ways to improve the accessibility and usability of technology products for the diverse needs and wants of users.
+4.IC.SI.1,4,Impacts of Computing (IC),Social Interactions (SI),Seek opportunities for local and nationally collaboration to facilitate communication and innovation.
+4.IC.SLE. 1,4,Impacts of Computing (IC),"Safety, Law, and Ethics (SLE)",Use material that is publicly available and/or permissible to use.
+5.CS.D.1,5,Computing Systems (CS),Devices (D),Analyze and model how internal and external parts of computing devices communicate as a system. 
+5.CS.D.2,5,Computing Systems (CS),Devices (D),Explain how computing devices affect humans in positive and negative ways. 
+5.CS.HS.1,5,Computing Systems (CS),Hardware and Software (HS),Model how information is transformed into binary digits to be stored or processed.
+5.CS.HS.2,5,Computing Systems (CS),Hardware and Software (HS),Demonstrate and explain how hardware can accomplish different tasks depending on the software.
+5.CS.T.1,5,Computing Systems (CS),Troubleshooting (T),Apply potential solutions and solve simple hardware and software problems using common troubleshooting strategies
+5.NI.C.1,5,Networks and the Internet (NI),Cybersecurity (C),Identify solutions to real-world cybersecurity problems and how personal information can be protected.
+5.NI.NCO.1,5,Networks and the Internet (NI),"Network, Communication, and Organization (NCO)",Analyze the advantages and disadvantages of various network types
+5.DA.CVT.1,5,Data and Analysis (DA),"Collection, Visualization and Transformation (CVT)","Select tools to collect, organize, manipulate, and present data visually through multiple representations to highlight relationships and support a claim."
+5.DA.S.1,5,Data and Analysis (DA),Storage (S),Discuss different file extensions and how they are stored and retrieved on a computing device.
+5.DA.IM.1,5,Data and Analysis (DA),Inference and Models (IM),"Use data to propose cause-and-effect relationships, predict outcomes, or communicate an idea."
+5.AP.A.1,5,Algorithms and Programming (AP,Algorithms (A),"Compare, test, and refine multiple algorithms for the same task and determine which is the most effective."
+5.AP.V.1,5,Algorithms and Programming (AP,Variables (V),Recognizing that the data type determines the values that can be stored and the operations that can be performed on the data.
+5.AP.C.1,5,Algorithms and Programming (AP,Control (C),"Create programs that include sequences, events, loops, and conditionals."
+5.AP.M.1,5,Algorithms and Programming (AP,Modularity (M),Decompose problems into manageable subproblems to facilitate the program development process.
+5.AP.M.2,5,Algorithms and Programming (AP,Modularity (M),"Modify, remix, or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features."
+5.AP.PD.1,5,Algorithms and Programming (AP,Program Development (PD,Use an iterative process to plan the development of a program by including others' perspectives and considering user preferences.
+5.AP.PD.2,5,Algorithms and Programming (AP,Program Development (PD,Observe intellectual property rights and give appropriate attribution when creating or remixing programs.
+5.AP.PD.3,5,Algorithms and Programming (AP,Program Development (PD,Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+5.AP.PD.4,5,Algorithms and Programming (AP,Program Development (PD,"Take on varying roles when collaborating with peers during the design, implementation, and review stages of program development."
+5.AP.PD.5,5,Algorithms and Programming (AP,Program Development (PD,"Describe choices made during program development using code comments, presentations, and demonstrations."
+5.IC.C.1,5,Impacts of Computing (IC),Culture (C),Discuss computing technologies that have changed the world.
+5.IC.C.2,5,Impacts of Computing (IC),Culture (C),Design ways to improve the accessibility and usability of technology products for the diverse needs and wants of users.
+5.IC.SI.1,5,Impacts of Computing (IC),Social Interactions (SI),Seek opportunities for local and global collaboration to facilitate communication and innovation.
+5.IC. SLE.1,5,Impacts of Computing (IC),"Safety, Law, and Ethics (SLE)","Use public domain or creative commons media, and refrain from copying or using material created by others without permission."
+6.CS.D.1,6,Computing Systems (CS),Devices (D),Compare computing device designs based on how humans interact with them.
+6.CS.HS.1,6,Computing Systems (CS),Hardware and Software (HS),Explain how hardware and software can be used to collect and exchange data.
+6.CS.T.1,6,Computing Systems (CS),Troubleshooting (T),Identify problems that can occur in computing devices and their components within a system.
+6.NI.C.1,6,Networks and the Internet (NI),Cybersecurity (C),Identify multiple methods of encryption to secure the transmission of information.
+6.NI.C.2,6,Networks and the Internet (NI),Cybersecurity (C),Identify different physical and digital security measures that protect electronic information.
+6.NI.NCO.1,6,Networks and the Internet (NI),"Network, Communication, and Organization (NCO)",Discuss how protocols are used in transmitting data across networks and the Internet.
+6.DA.CVT.1,6,Data and Analysis (DA),"Collection, Visualization and Transformation (CVT)","Compare different computational tools used to collect, analyze and present data that is meaningful and useful."
+6.DA.S.1,6,Data and Analysis (DA),Storage (S),"Identify multiple encoding schemes used to represent data, including binary and ASCII."
+6.DA.IM.1,6,Data and Analysis (DA),Inference and Models (IM),Discuss the validity of a computational model based on the reliability of the data.
+6.AP.A.1,6,Algorithms and Programming (AP,Algorithms (A),"Identify planning strategies such as flowcharts or pseudocode, to simulate algorithms that solve problems."
+6.AP.V.1,6,Algorithms and Programming (AP,Variables (V),Identify variables that represent different data types and perform operations on their values.
+6.AP.C.1,6,Algorithms and Programming (AP,Control (C),"Design programs that combine control structures, including nested loops and compound conditionals."
+6.AP.M.1,6,Algorithms and Programming (AP,Modularity (M),"Decompose problems into parts to facilitate the design, implementation, and review of programs."
+6.AP.M.2,6,Algorithms and Programming (AP,Modularity (M),Use procedures to organize code and make it easier to reuse.
+6.AP.PD.1,6,Algorithms and Programming (AP,Program Development (PD,Seek and incorporate feedback from team members and users to refine a solution that meets user needs.
+6.AP.PD.2,6,Algorithms and Programming (AP,Program Development (PD,Incorporate existing code into programs and give attribution.
+6.AP.PD.3,6,Algorithms and Programming (AP,Program Development (PD,Test programs using a range of inputs and identify expected outputs.
+6.AP.PD.4,6,Algorithms and Programming (AP,Program Development (PD,Maintain a timeline with specific tasks while collaboratively developing computational artifacts.
+6.AP.PD.5,6,Algorithms and Programming (AP,Program Development (PD,"Document programs in order to make them easier to follow, test, and debug."
+6.IC.C.1,6,Impacts of Computing (IC),Culture (C),Identify some of the tradeoffs associated with computing technologies that can affect people's everyday activities and career options.
+6.IC.C.2,6,Impacts of Computing (IC),Culture (C),Identify issues of bias and accessibility in the design of existing technologies.
+6.IC.SI.1,6,Impacts of Computing (IC),Social Interactions (SI),Identify the advantages of creating a computational product by collaborating with others using digital technologies.
+6.IC.SLE.1,6,Impacts of Computing (IC),"Safety, Law, and Ethics (SLE)",Describe how some digital information can be public or can be kept private and secure.
+7.CS.D.1,7,Computing Systems (CS),Devices (D),"Identify some advantages, disadvantages, and consequences with the design of computer devices based on an analysis of how users interact with devices."
+7.CS.HS.1,7,Computing Systems (CS),Hardware and Software (HS),Design projects that combine hardware and software to collect and exchange data.
+7.CS.T.1,7,Computing Systems (CS),Troubleshooting (T),Evaluate strategies to fix problems with computing devices and their components within a system.
+7.NI.C.1,7,Networks and the Internet (NI),Cybersecurity (C),Evaluate multiple methods of encryption for the secure transmission of information. Encryption can be as simple as letter substitution or as complicated as modern methods used
+7.NI.C.2,7,Networks and the Internet (NI),Cybersecurity (C),Explain how physical and digital security measures protect electronic information.
+7.NI.NCO.1,7,Networks and the Internet (NI),"Network, Communication, and Organization (NCO)",Compare and contrast models to understand the many protocols used for data transmission.
+7.DA.CVT.1,7,Data and Analysis (DA),"Collection, Visualization and Transformation (CVT)",Collect and analyze data using computational tools to create models that are meaningful and useful.
+7.DA.S.1,7,Data and Analysis (DA),Storage (S),"Use multiple encoding schemes to represent data, including binary and ASCII."
+7.DA.IM.1,7,Data and Analysis (DA),Inference and Models (IM),Use computational models and determine the reliability and validity of data they generate.
+7.AP.A.1,7,Algorithms and Programming (AP,Algorithms (A),"Use planning strategies, such as flowcharts or pseudocode, to develop algorithms to address complex problems."
+7.AP.V.1,7,Algorithms and Programming (AP,Variables (V),Compare and contrast variables that represent different data types and perform operations on their values.
+7.AP.C.1,7,Algorithms and Programming (AP,Control (C),"Design and develop programs that combine control structures, including nested loops and compound conditionals."
+7.AP.M.1,7,Algorithms and Programming (AP,Modularity (M),"Decompose problems into parts to facilitate the design, implementation, and review of programs."
+7.AP.M.2,7,Algorithms and Programming (AP,Modularity (M),Use procedures with parameters to organize code and make it easier to reuse.
+7.AP.PD.1,7,Algorithms and Programming (AP,Program Development (PD,Seek and incorporate feedback from team members and users to refine a solution that meets user needs.
+7.AP.PD.2,7,Algorithms and Programming (AP,Program Development (PD,"Incorporate existing code and media into programs, and give attribution."
+7.AP.PD.3,7,Algorithms and Programming (AP,Program Development (PD,Systematically test and refine programs using a range of possible inputs.
+7.AP.PD.4,7,Algorithms and Programming (AP,Program Development (PD,Distribute and execute tasks while maintaining a project timeline when collaboratively developing computational artifacts.
+7.AP.PD.5,7,Algorithms and Programming (AP,Program Development (PD,"Document programs to make them easier to follow, test, and debug."
+7.IC.C.1,7,Impacts of Computing (IC),Culture (C),Explain how some of the tradeoffs associated with computing technologies can affect people's everyday activities and career options.
+7.IC.C.2,7,Impacts of Computing (IC),Culture (C),Discuss how bias and accessibility issues can impact the functionality of existing technologies
+7.IC.SI.1,7,Impacts of Computing (IC),Social Interactions (SI),Describe the process for creating a computational product by collaborating with others using digital technologies.
+7.IC.SLE.1,7,Impacts of Computing (IC),"Safety, Law, and Ethics (SLE)",Identify the benefits and risks associated with sharing information digitally.
+8.CS.D.1,8,Computing Systems (CS),Devices (D),"Improve the design of computing devices based on an analysis of how users interact them, and consider unintended consequences."
+8.CS.HS.1,8,Computing Systems (CS),Hardware and Software (HS),Design and evaluate projects that combine hardware and software components to collect and exchange data.
+8.CS.T.1,8,Computing Systems (CS),Troubleshooting (T),Systematically identify and develop strategies to fix problems with computing devices and their components.
+8.NI.C.1,8,Networks and the Internet (NI),Cybersecurity (C),Apply multiple methods of encryption to model the secure transmission of information.
+8.NI.C.2,8,Networks and the Internet (NI),Cybersecurity (C),Evaluate how various physical and digital security measures protect electronic information and how a lack of such measures could lead to vulnerabilities.
+8.NI.NCO.1,8,Networks and the Internet (NI),"Network, Communication, and Organization (NCO)",Develop models to illustrate the role of protocols in transmitting data across networks and the Internet.
+8.DA.CVT.1,8,Data and Analysis (DA),"Collection, Visualization and Transformation (CVT)",Collect data using computational tools and transform the data to make it more meaningful and useful.
+8.DA.S.1,8,Data and Analysis (DA),Storage (S),Represent data using multiple encoding schemes including binary and ASCII.
+8.DA.IM.1,8,Data and Analysis (DA),Inference and Models (IM),Design computational models and evaluate them based on the reliability and validity of the data they generate.
+8.AP.A.1,8,Algorithms and Programming (AP,Algorithms (A),"Develop planning strategies, such as flowcharts or pseudocode, to develop algorithms to address complex problems"
+8.AP.V.1,8,Algorithms and Programming (AP,Variables (V),Create named variables that represent different data types and perform operations on their values.
+8.AP.C.1,8,Algorithms and Programming (AP,Control (C),"Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals."
+8.AP.M.1,8,Algorithms and Programming (AP,Modularity (M),"Decompose problems into parts to facilitate the design, implementation, and review of programs."
+8.AP.M.2,8,Algorithms and Programming (AP,Modularity (M),Create procedures with parameters to organize code and make it easier to reuse.
+8.AP.PD.1,8,Algorithms and Programming (AP,Program Development (PD,Seek and incorporate feedback from team members and users to refine a solution that meets user needs.
+8.AP.PD.2,8,Algorithms and Programming (AP,Program Development (PD,"Incorporate existing code, media, and libraries into original programs, and give attribution."
+8.AP.PD.3,8,Algorithms and Programming (AP,Program Development (PD,Systematically test and refine programs using a range of possible inputs.
+8.AP.PD.4,8,Algorithms and Programming (AP,Program Development (PD,Distribute and execute tasks while maintaining a project timeline when collaboratively developing computational artifacts.
+8.AP.PD.5,8,Algorithms and Programming (AP,Program Development (PD,"Document programs to make them easier to follow, test, and debug."
+8.IC.C.1,8,Impacts of Computing (IC),Culture (C),Compare and contrast tradeoffs associated with computing technologies that affect people's everyday activities and career options.
+8.IC.C.2,8,Impacts of Computing (IC),Culture (C),Develop a solution to address an issue of bias or accessibility in the design of existing technologies.
+8.IC.SI.1,8,Impacts of Computing (IC),Social Interactions (SI),Collaborate with contributors by using digital technologies when creating a computational product.
+8.IC.SLE.1,8,Impacts of Computing (IC),"Safety, Law, and Ethics (SLE)",Evaluate the benefits and risks associated with sharing information digitally.
+HS.CS.D.1,HS,Computing Systems (CS),Devices (D),Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects.
+HS.CS.HS.1,HS,Computing Systems (CS),Hardware and Software (HS),"Describe levels of abstraction and interactions between application software, system software, and hardware layers."
+HS.CS.T.1,HS,Computing Systems (CS),Troubleshooting (T),Develop guidelines that convey systematic troubleshooting strategies that others can use to identify and fix errors.
+HS.NI.C.1,HS,Networks and the Internet (NI),Cybersecurity (C),Describe how sensitive data can be affected by malware and other attacks.
+HS.NI.C.2,HS,Networks and the Internet (NI),Cybersecurity (C),"Recommend security measures to address various scenarios based on factors such as efficiency, feasibility, and ethical impacts."
+HS.NI.C.3,HS,Networks and the Internet (NI),Cybersecurity (C),"Compare various security measures, considering tradeoffs between the usability and security of a computing system."
+HS.NI.NCO.1,HS,Networks and the Internet (NI),"Network, Communication, and Organization (NCO)","Evaluate the scalability and reliability of networks, by describing the relationship between routers, switches, servers, topology, and addressing."
+HG.DA.CVT.1,HS,Data and Analysis (DA),"Collection, Visualization and Transformation (CVT)",Create interactive data visualizations using software tools to help others better understand real-world phenomena.
+HS.DA.S.1,HS,Data and Analysis (DA),Storage (S),"Translate between different bit representations of real-world phenomena, such as characters, numbers, and images."
+HS.DA.S.2,HS,Data and Analysis (DA),Storage (S),Evaluate the tradeoffs in how and where data is stored
+HS.DA.IM.1,HS,Data and Analysis (DA),Inference and Models (IM),Analyze computational models to better understand real-world phenomena.
+HS.AP.A.1,HS,Algorithms and Programming (AP,Algorithms (A),"Create prototypes that use algorithms for practical intent, personal expression, or to address a societal issue."
+HS.AP.V.1,HS,Algorithms and Programming (AP,Variables (V),"Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables."
+HS.AP.C.1,HS,Algorithms and Programming (AP,Control (C),"Justify the selection of specific control structures and explain the benefits and drawbacks of choices made, when tradeoffs involve readability and program performance."
+HS.AP.C.2,HS,Algorithms and Programming (AP,Control (C),Use events that initiate instructions to design and iteratively develop computational artifacts.
+HS.AP.M. 1,HS,Algorithms and Programming (AP,Modularity (M),"Decompose problems into smaller components using constructs such as procedures, modules, and/or objects."
+HS.AP.M. 2,HS,Algorithms and Programming (AP,Modularity (M),"Use procedures within a program, combinations of data and procedures, or independent but interrelated programs to design and iteratively develop computational artifacts."
+HS.AP.PD.1,HS,Algorithms and Programming (AP,Program Development (PD,Evaluate and refine computational artifacts to make them more usable and accessible.
+HS.AP.PD.2,HS,Algorithms and Programming (AP,Program Development (PD,Use team roles and collaborative tools to design and iteratively develop computational artifacts.
+HS.AP.PD.3,HS,Algorithms and Programming (AP,Program Development (PD,"Document design decisions using text, graphics, presentations, and/or demonstrations in the development of complex programs."
+HS.IC.C.1,HS,Impacts of Computing (IC),Culture (C),"Evaluate the ways access to computing impacts personal, ethical, social, economic, and cultural practices."
+HS.IC.C.2,HS,Impacts of Computing (IC),Culture (C),Test and refine computational artifacts to reduce bias and equity deficits.
+HS.IC.C.3,HS,Impacts of Computing (IC),Culture (C),Demonstrate ways a given algorithm applies to problems across disciplines.
+HS.IC.SI.1,HS,Impacts of Computing (IC),Social Interactions (SI),Analyze the impact of collaborative tools and methods that increase social connectivity.
+HS.IC.SLE.1,HS,Impacts of Computing (IC),"Safety, Law, and Ethics (SLE)",Explain the beneficial and harmful effects that intellectual property laws can have on innovation.
+HS.IC.SLE.2,HS,Impacts of Computing (IC),"Safety, Law, and Ethics (SLE)",Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.
+HS.IC.SLE.3,HS,Impacts of Computing (IC),"Safety, Law, and Ethics (SLE)","Evaluate the social and economic implications of privacy in the context of safety, law, or ethics."

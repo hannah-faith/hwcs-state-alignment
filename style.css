@@ -1,0 +1,115 @@
+/* Pane scrolling */
+#standardsPane,
+#detailPane {
+    height: calc(100vh - 4rem);
+    overflow-y: auto;
+}
+
+Navbar label styling .navbar .input-group-text {
+    background-color: #e2e6ea;
+    font-weight: 600;
+    border-color: #ced4da;
+    margin-right: -1px;
+}
+
+/* Dropdown caret styling */
+#stateInput {
+    width: max-content;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" width="10" height="6"><path fill="%236c757d" d="M0 0l5 6 5-6z"/></svg>');
+    background-repeat: no-repeat;
+    background-position: calc(100% - 0.5rem) center;
+    background-size: 10px 6px;
+    padding-right: 1.5rem;
+}
+
+/* Select-all styling */
+
+.select-all-projects {
+    background-color: #e9f7fe;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    margin-bottom: 0.75rem;
+    margin-left: 1rem;
+}
+
+.select-all-projects .form-check-input {
+    transform: scale(1.1);
+}
+
+.select-all-projects .form-check-label {
+    font-weight: 600;
+    color: #0d6efd;
+}
+
+/* Team-projects styling */
+.select-team-projects {
+    background-color: #eef0fe;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    margin-bottom: 0.75rem;
+    margin-left: 1rem;
+}
+
+.select-team-projects .form-check-input {
+    transform: scale(1.1);
+}
+
+.select-team-projects .form-check-label {
+    font-weight: 600;
+    color: #5c71f2;
+}
+
+/* Sticky detail header */
+#detailHeader {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 10;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+}
+
+/* Sidebar headers & items */
+.grade-header {
+    padding-left: 0.5rem;
+    font-size: 1rem;
+    color: #5c71f2;
+}
+
+.standard-item {
+    display: block;
+    padding: 0.5rem;
+    margin-bottom: 0.25rem;
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+    background-color: #fff;
+    text-align: left;
+    cursor: pointer;
+    width: 100%;
+}
+
+.standard-item:hover {
+    background-color: #f8f9fa;
+}
+
+.standard-item.active {
+    border-color: #5c71f2;
+    background-color: #eaf0f6;
+}
+
+/* Sticky search bar in sidebar */
+#standardsPane .mb-3 {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 20;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}

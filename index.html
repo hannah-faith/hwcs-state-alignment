@@ -14,73 +14,7 @@
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
       rel="stylesheet"
     />
-    <style>
-      /* Floating FAB */
-      #generateJson {
-        position: fixed;
-        bottom: 2rem;
-        right: 2rem;
-        z-index: 1000;
-        border-radius: 50%;
-        width: 3.5rem;
-        height: 3.5rem;
-        padding: 0;
-        font-size: 1.25rem;
-      }
-      /* Pane scrolling */
-      #standardsPane,
-      #detailPane {
-        height: calc(100vh - 4rem);
-        overflow-y: auto;
-      }
-      /* Distinct styling for toolbar labels vs. buttons */
-      .navbar .input-group-text {
-        background-color: #e2e6ea;
-        font-weight: 600;
-        border-color: #ced4da;
-        margin-right: -1px;
-      }
-      .navbar .form-control[type="file"] {
-        background-color: #fff;
-        border-left: none;
-      }
-      /* Visually indicate disabled inputs */
-      .form-control:disabled {
-        opacity: 0.6;
-        cursor: not-allowed;
-        background-color: #e9ecef;
-      }
-      /* Style "Select all projects" option */
-      .select-all-projects {
-        background-color: #e9f7fe;
-        padding: 0.5rem;
-        border-radius: 0.25rem;
-        margin-bottom: 0.75rem;
-        margin-left: 1rem;
-      }
-      .select-all-projects .form-check-input {
-        transform: scale(1.1);
-      }
-      .select-all-projects .form-check-label {
-        font-weight: 600;
-        color: #0d6efd;
-      }
-      /* Style "Select all team projects" option */
-      .select-team-projects {
-        background-color: #eef0fe;
-        padding: 0.5rem;
-        border-radius: 0.25rem;
-        margin-bottom: 0.75rem;
-        margin-left: 1rem;
-      }
-      .select-team-projects .form-check-input {
-        transform: scale(1.1);
-      }
-      .select-team-projects .form-check-label {
-        font-weight: 600;
-        color: #5c71f2;
-      }
-    </style>
+    <link href="style.css" rel="stylesheet" />
   </head>
   <body class="bg-light">
     <!-- Top toolbar -->
@@ -88,34 +22,63 @@
       <div class="container-fluid">
         <span class="navbar-brand">HWCS State Standards Alignment</span>
         <div class="d-flex align-items-center">
+          <!-- State selector -->
           <div class="input-group input-group-sm me-2">
             <span class="input-group-text">State</span>
-            <input
-              type="text"
-              id="stateInput"
-              class="form-control"
-              placeholder="Enter state"
-            />
-          </div>
-          <div class="input-group input-group-sm me-2">
-            <span class="input-group-text">Standards CSV</span>
-            <input
-              type="file"
-              id="standardsFile"
-              class="form-control"
-              accept=".csv"
-            />
-          </div>
-          <div class="input-group input-group-sm me-2">
-            <span class="input-group-text">Import JSON</span>
-            <input
-              type="file"
-              id="importJsonFile"
-              class="form-control"
-              accept=".json"
-              title="Import existing alignment JSON"
-              disabled
-            />
+            <select id="stateInput" class="form-control">
+              <option value="">Select a state</option>
+              <option>CSTA</option>
+              <option>Alabama</option>
+              <option>Alaska</option>
+              <option>Arizona</option>
+              <option>Arkansas</option>
+              <option>California</option>
+              <option>Colorado</option>
+              <option>Connecticut</option>
+              <option>Delaware</option>
+              <option>Florida</option>
+              <option>Georgia</option>
+              <option>Hawaii</option>
+              <option>Idaho</option>
+              <option>Illinois</option>
+              <option>Indiana</option>
+              <option>Iowa</option>
+              <option>Kansas</option>
+              <option>Kentucky</option>
+              <option>Louisiana</option>
+              <option>Maine</option>
+              <option>Maryland</option>
+              <option>Massachusetts</option>
+              <option>Michigan</option>
+              <option>Minnesota</option>
+              <option>Mississippi</option>
+              <option>Missouri</option>
+              <option>Montana</option>
+              <option>Nebraska</option>
+              <option>Nevada</option>
+              <option>New Hampshire</option>
+              <option>New Jersey</option>
+              <option>New Mexico</option>
+              <option>New York</option>
+              <option>North Carolina</option>
+              <option>North Dakota</option>
+              <option>Ohio</option>
+              <option>Oklahoma</option>
+              <option>Oregon</option>
+              <option>Pennsylvania</option>
+              <option>Rhode Island</option>
+              <option>South Carolina</option>
+              <option>South Dakota</option>
+              <option>Tennessee</option>
+              <option>Texas</option>
+              <option>Utah</option>
+              <option>Vermont</option>
+              <option>Virginia</option>
+              <option>Washington</option>
+              <option>West Virginia</option>
+              <option>Wisconsin</option>
+              <option>Wyoming</option>
+            </select>
           </div>
         </div>
       </div>
@@ -124,7 +87,7 @@
     <!-- Two-pane layout -->
     <div class="container-fluid">
       <div class="row g-0">
-        <!-- Left pane: standards list -->
+        <!-- Sidebar -->
         <div id="standardsPane" class="col-3 bg-white p-3">
           <div class="mb-3">
             <input
@@ -134,12 +97,10 @@
               placeholder="Search standards"
             />
           </div>
-          <div class="accordion" id="standardsAccordion">
-            <!-- Dynamic standard items go here -->
-          </div>
+          <div id="standardsAccordion"></div>
         </div>
 
-        <!-- Right pane: projects details -->
+        <!-- Detail pane -->
         <div id="detailPane" class="col-9 p-3">
           <h3 id="detailHeader">Select a standard</h3>
           <div id="coursesContainer"></div>
@@ -147,7 +108,7 @@
       </div>
     </div>
 
-    <!-- Floating Generate JSON button -->
+    <!-- Manual JSON Download FAB (optional) -->
     <button
       id="generateJson"
       class="btn btn-primary shadow"
@@ -160,157 +121,31 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <!-- PapaParse CDN -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
-
     <script>
-      // Auto-load Scope & Sequence CSV from local file
-      fetch("Scope_Sequence.csv")
-        .then((response) => response.text())
-        .then((csvText) => {
-          Papa.parse(csvText, {
-            header: true,
-            skipEmptyLines: true,
-            complete(results) {
-              projects = results.data.map((row) => ({
-                id: row["ID"],
-                name: row["Project Name"],
-                course: row["Course"],
-              }));
-              console.log(
-                "✅ Projects loaded from Scope_Sequence.csv:",
-                projects
-              );
-              tryRender();
-            },
-          });
-        })
-        .catch((err) =>
-          console.error("Failed to load Scope_Sequence.csv:", err)
-        );
-    </script>
-
-    <!-- Application Script: insert your existing JS below -->
-    <script>
-      let standards = [];
-      function updateImportInput() {
-        const importInput = document.getElementById("importJsonFile");
-        importInput.disabled = !(stateValue && standards.length > 0);
-      }
+      // Load project definitions
       let projects = [];
-      let stateValue = "";
-      let importedAlignments = new Map();
-      // Track current user selections (seeded from importedAlignments)
-      let selectedAlignments = new Map(importedAlignments);
-      document.getElementById("stateInput").addEventListener("input", (e) => {
-        stateValue = e.target.value.trim();
-        updateImportInput();
-      });
-
-      const standardsAccordion = document.getElementById("standardsAccordion");
-      const detailHeader = document.getElementById("detailHeader");
-      const coursesContainer = document.getElementById("coursesContainer");
-      const searchStandardsInput = document.getElementById("searchStandards");
-
-      // Parse Standards CSV → standards[]
-      document
-        .getElementById("standardsFile")
-        .addEventListener("change", (e) => {
-          const file = e.target.files[0];
-          if (!file) return;
-          Papa.parse(file, {
+      fetch("Scope_Sequence.csv")
+        .then((r) => r.text())
+        .then((txt) =>
+          Papa.parse(txt, {
             header: true,
             skipEmptyLines: true,
             complete(results) {
-              standards = results.data.map((row) => ({
-                state: stateValue,
-                grade: row["Grade"],
-                standardId: row["Standard ID"],
-                standardText: row["Standard Text"],
+              projects = results.data.map((r) => ({
+                id: r["ID"],
+                name: r["Project Name"],
+                course: r["Course"],
               }));
-              console.log("✅ Standards loaded:", standards);
-              updateImportInput();
               tryRender();
             },
-          });
-        });
+          })
+        );
 
-      // Import existing JSON to pre-check boxes
-      document
-        .getElementById("importJsonFile")
-        .addEventListener("change", (e) => {
-          const importInput = document.getElementById("importJsonFile");
-          if (importInput.disabled) {
-            alert(
-              "Please enter a state and upload standards before importing JSON."
-            );
-            importInput.value = "";
-            return;
-          }
-          const file = e.target.files[0];
-          if (!file) return;
-          const reader = new FileReader();
-          reader.onload = () => {
-            try {
-              const arr = JSON.parse(reader.result);
-              importedAlignments.clear();
-              arr.forEach((entry) => {
-                // find matching standard index
-                const idx = standards.findIndex(
-                  (s) =>
-                    s.standardId === entry["Standard ID"] &&
-                    s.grade === entry["Grade"] &&
-                    s.state === entry["State"]
-                );
-                if (idx >= 0) {
-                  const key = `${idx}::${entry["Course Name"]}`;
-                  importedAlignments.set(key, entry["Project Name"] || []);
-                }
-              });
-              // Seed current selections from imported data
-              selectedAlignments = new Map();
-              importedAlignments.forEach((v, k) => {
-                selectedAlignments.set(k, [...v]);
-              });
-              console.log("✔ Imported alignment JSON:", importedAlignments);
-              // re-render to apply imported checks
-              renderStandardsAccordion(searchStandardsInput.value.trim());
+      // State, standards, and alignment state
+      let standards = [];
+      let selectedAlignments = new Map();
 
-              // Expand standards with imported alignments to show pre-checked boxes
-              selectedAlignments.forEach((projects, key) => {
-                if (projects && projects.length) {
-                  const [stdIndex] = key.split("::");
-                  const collapseEl = document.getElementById(
-                    `collapse${stdIndex}`
-                  );
-                  if (collapseEl) {
-                    // Use Bootstrap collapse API to show the panel
-                    const bsCollapse = new bootstrap.Collapse(collapseEl, {
-                      toggle: false,
-                    });
-                    bsCollapse.show();
-                  }
-                }
-              });
-
-              // Pre-check the checkboxes based on importedAlignments
-              selectedAlignments.forEach((projects, key) => {
-                const [stdIndex, courseName] = key.split("::");
-                projects.forEach((labelText) => {
-                  const checkbox = document.querySelector(
-                    `input[type="checkbox"][data-std-index="${stdIndex}"][data-course="${courseName}"][value="${labelText}"]`
-                  );
-                  if (checkbox) {
-                    checkbox.checked = true;
-                  }
-                });
-              });
-            } catch (err) {
-              console.error("Failed to parse JSON:", err);
-            }
-          };
-          reader.readAsText(file);
-        });
-
-      // Phase 2: Grade → Courses mapping
+      // Grade → courses mapping
       const gradeToCourses = {};
       function addMapping(grades, course) {
         grades.forEach((g) => {
@@ -320,8 +155,7 @@
           }
         });
       }
-
-      // Define mappings per spec
+      // Define your grade‐to‐course mappings here...
       addMapping(["K-2", "1", "2"], "CS Adventures with VR");
       addMapping(["3-5", "3", "4", "5", "4-6"], "CS Breakthroughs with VR");
       addMapping(["5-8", "6-8", "6", "7", "8", "MS"], "CS Connections with VR");
@@ -370,6 +204,7 @@
           "6-8",
           "9-10",
           "9-12",
+          "11-12",
           "8",
           "9",
           "10",
@@ -383,345 +218,312 @@
         "Data Science & AI"
       );
 
-      // Team projects per course
+      // Team projects by course
       const teamProjectsByCourse = {
-        "CS Adventures with VR": [
-          "1.2 Find the Fish",
-          "2.2 Halloween Parade",
-          "3.2 Alphabet Town",
-          "4.2 Holiday Fun",
-          "5.2 Dinosaur Safari",
-        ],
-        "CS Breakthroughs with VR": [
-          "1.2 Team Battle",
-          "2.2 Animal Whisperer",
-          "3.2 Carnival Rides",
-          "4.2 Tiny Town",
-          "5.2 Team Exploration",
-        ],
-        "CS Connections with VR": [
-          "1.3 Let's Party!",
-          "2.3 Island Survivors",
-          "C1 A Symbiotic World",
-          "3.3 Clubhouse",
-          "4.3 Portal Puzzle",
-          "C2 Interview an Innovator",
-          "5.3 Search and Rescue",
-        ],
-        "CS Dimensions with VR": [
-          "1.3 Island Survivors",
-          "2.3 Obstacle Course",
-          "C1 Solar System Landing",
-          "3.3 Tower Conquest",
-          "4.3 Lights! Camera! Action!",
-          "5.3 Shopping Spree",
-        ],
-        "Web Development": [
-          "1.3 Optical Illusions",
-          "2.3 Playlist Creator",
-          "3.3 Epic Mission",
-          "4.3 Mystery Mansion",
-          "5.3 Code Corporation",
-        ],
-        "Intro to Python": [
-          "1.3 User Namer",
-          "2.3 The Great Race",
-          "C1 Business Founder",
-          "3.3 Trivia Countdown",
-          "4.3 Horoscope",
-          "C2 Media Recommender",
-          "5.3 Trick Challenge",
-          "6.3 Disco Dancer",
-        ],
-        "Data Science & AI": [
-          "1.2 Obstacle Course",
-          "2.3 Emoji Diet",
-          "3.3 Get Off the Road!",
-          "C1 Plagiarism Detector",
-          "C1 Bike Share Planning",
-          "4.3 Mental Health Monitor",
-          "5.3 Handwriting Detectives",
-        ],
+        /* … your mapping object … */
       };
 
-      // Utility to retrieve courses for a given grade
+      // DOM refs
+      const stateInput = document.getElementById("stateInput");
+      const standardsAccordion = document.getElementById("standardsAccordion");
+      const detailHeader = document.getElementById("detailHeader");
+      const coursesContainer = document.getElementById("coursesContainer");
+      const searchStandardsInput = document.getElementById("searchStandards");
+
+      // When the user picks a state, load its CSV and JSON
+      stateInput.addEventListener("change", async () => {
+        const state = stateInput.value;
+        if (!state) return;
+
+        // 1) Load and parse standards CSV
+        const csvText = await fetch(`State Standards/${state}.csv`).then((r) =>
+          r.text()
+        );
+        await new Promise((resolve) => {
+          Papa.parse(csvText, {
+            header: true,
+            skipEmptyLines: true,
+            complete(results) {
+              standards = results.data.map((row, i) => ({
+                standardId: row["Standard ID"],
+                standardText: row["Standard Text"],
+                grade: row["Grade"],
+                index: i,
+              }));
+              resolve();
+            },
+          });
+        });
+
+        // 2) Load existing JSON alignments
+        const arr = await fetch(`State JSON Files/${state}.json`).then((r) =>
+          r.json()
+        );
+        selectedAlignments.clear();
+        arr.forEach((entry) => {
+          const idx = standards.findIndex(
+            (s) =>
+              s.standardId === entry["Standard ID"] &&
+              s.grade === entry["Grade"] &&
+              s.standardText === entry["Standard Text"]
+          );
+          if (idx >= 0) {
+            const key = `${idx}::${entry["Course Name"]}`;
+            const names = Array.isArray(entry["Project Name"])
+              ? entry["Project Name"]
+              : [entry["Project Name"]];
+            names.forEach((name) => {
+              if (name == null || name === "") return;
+              if (!selectedAlignments.has(key)) selectedAlignments.set(key, []);
+              const arr = selectedAlignments.get(key);
+              if (!arr.includes(name)) arr.push(name);
+            });
+          }
+        });
+
+        // 3) Render with pre-checked boxes
+        renderStandardsAccordion();
+      });
+
+      // Helper to get courses for a grade
       function getCoursesForGrade(grade) {
         return gradeToCourses[grade] || [];
       }
 
-      // Render the standards list in the accordion
+      // Render sidebar
       function renderStandardsAccordion(filterText = "") {
-        standardsAccordion.innerHTML = ""; // clear previous
-        const filteredStandards = standards
-          .map((std, index) => ({ ...std, index }))
-          .filter((std) => {
+        standardsAccordion.innerHTML = "";
+        // filter → group → sort → render
+        const filtered = standards
+          .map((s) => s)
+          .filter((s) => {
             if (!filterText) return true;
-            const search = filterText.toLowerCase();
+            const f = filterText.toLowerCase();
             return (
-              (std.standardId &&
-                std.standardId.toLowerCase().includes(search)) ||
-              (std.standardText &&
-                std.standardText.toLowerCase().includes(search)) ||
-              (std.grade && std.grade.toLowerCase().includes(search))
+              s.standardId.toLowerCase().includes(f) ||
+              s.standardText.toLowerCase().includes(f)
             );
           });
-
-        filteredStandards.forEach((std) => {
-          const headerId = `heading${std.index}`;
-          const collapseId = `collapse${std.index}`;
-          // Sanitize heading text
-          const headerText = `${std.standardId} - ${std.standardText}`
-            .replace(/\u00A0/g, " ")
-            .replace(/\s+/g, " ")
-            .trim();
-
-          const accordionItem = document.createElement("div");
-          accordionItem.className = "accordion-item";
-
-          accordionItem.innerHTML = `
-          <h2 class="accordion-header" id="${headerId}">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#${collapseId}" aria-expanded="false" aria-controls="${collapseId}">
-              ${headerText}
-            </button>
-          </h2>
-          <div id="${collapseId}"
-               class="accordion-collapse collapse"
-               aria-labelledby="${headerId}"
-               data-bs-parent="#standardsAccordion"
-               data-std-index="${std.index}">
-            <div class="accordion-body">
-              Grade: ${std.grade}
-            </div>
-          </div>
-        `;
-
-          standardsAccordion.appendChild(accordionItem);
-
-          // Add event listener for when this accordion item is shown
-          const collapseEl = accordionItem.querySelector(`#${collapseId}`);
-          collapseEl.addEventListener("shown.bs.collapse", () => {
-            // Update detail pane header
-            detailHeader.textContent = headerText;
-            // Clear previous courses container
-            coursesContainer.innerHTML = "";
-            // Get courses for this standard's grade
-            const coursesFor = getCoursesForGrade(std.grade);
-            if (!coursesFor.length) {
-              coursesContainer.innerHTML = `<p class="text-muted">No courses found for grade "${std.grade}".</p>`;
-              return;
-            }
-
-            coursesFor.forEach((courseName) => {
-              const courseProjects = projects.filter(
-                (p) => p.course === courseName
-              );
-              if (courseProjects.length) {
-                // Create a card for each course
-                const card = document.createElement("div");
-                card.className = "card mb-3";
-                const cardBody = document.createElement("div");
-                cardBody.className = "card-body";
-                const cardTitle = document.createElement("h5");
-                cardTitle.className = "card-title";
-                cardTitle.textContent = courseName;
-                cardBody.appendChild(cardTitle);
-                // Add "Select all" checkbox for this course
-                const labelValues = courseProjects.map((proj) =>
-                  `${proj.id} ${proj.name}`
-                    .replace(/\u00A0/g, " ")
-                    .replace(/\s+/g, " ")
-                    .trim()
-                );
-                const selectAllDiv = document.createElement("div");
-                selectAllDiv.className = "form-check mb-2 select-all-projects";
-                const selectAllCheckbox = document.createElement("input");
-                selectAllCheckbox.type = "checkbox";
-                selectAllCheckbox.className = "form-check-input me-2";
-                selectAllCheckbox.id = `selectAll-${std.index}-${courseName}`;
-                const selectAllLabel = document.createElement("label");
-                selectAllLabel.className = "form-check-label";
-                selectAllLabel.htmlFor = selectAllCheckbox.id;
-                selectAllLabel.textContent = "Select all projects";
-                selectAllDiv.appendChild(selectAllCheckbox);
-                selectAllDiv.appendChild(selectAllLabel);
-                cardBody.appendChild(selectAllDiv);
-
-                // Add "Select all team projects" checkbox
-                const teamDiv = document.createElement("div");
-                teamDiv.className = "form-check mb-2 select-team-projects";
-                const teamCb = document.createElement("input");
-                teamCb.type = "checkbox";
-                teamCb.className = "form-check-input me-2";
-                teamCb.id = `selectTeam-${std.index}-${courseName}`;
-                const teamLabel = document.createElement("label");
-                teamLabel.className = "form-check-label";
-                teamLabel.htmlFor = teamCb.id;
-                teamLabel.textContent = "Select all team projects";
-                teamDiv.appendChild(teamCb);
-                teamDiv.appendChild(teamLabel);
-                cardBody.appendChild(teamDiv);
-
-                teamCb.addEventListener("change", () => {
-                  const key = `${std.index}::${courseName}`;
-                  const names = teamProjectsByCourse[courseName] || [];
-                  if (teamCb.checked) {
-                    // Select all team projects
-                    selectedAlignments.set(key, [...names]);
-                  } else {
-                    // Unselect all team projects
-                    const current = selectedAlignments.get(key) || [];
-                    const filtered = current.filter(
-                      (name) => !names.includes(name)
-                    );
-                    selectedAlignments.set(key, filtered);
-                  }
-                  // Toggle the actual checkboxes
-                  const projectCbs = cardBody.querySelectorAll(
-                    'input.form-check-input[id^="cb-"]'
-                  );
-                  projectCbs.forEach((cb) => {
-                    if (names.includes(cb.value)) {
-                      cb.checked = teamCb.checked;
-                      cb.dispatchEvent(new Event("change"));
-                    }
-                  });
+        const groups = {};
+        filtered.forEach((s) => {
+          (groups[s.grade] = groups[s.grade] || []).push(s);
+        });
+        // Custom grade sorting: "K" or "K-2" sorts before numeric grades.
+        const parseGrade = (g) => {
+          if (/^k\b/i.test(g)) return 0;
+          const nums = g.match(/\d+/g);
+          return nums ? parseInt(nums[0]) : 999;
+        };
+        Object.keys(groups)
+          .sort((a, b) => {
+            const pa = parseGrade(a);
+            const pb = parseGrade(b);
+            if (pa !== pb) return pa - pb;
+            return a.localeCompare(b);
+          })
+          .forEach((grade) => {
+            // Grade header
+            const hdr = document.createElement("div");
+            hdr.className = "grade-header fw-bold mt-3 mb-1";
+            hdr.textContent = `Grade ${grade}`;
+            standardsAccordion.append(hdr);
+            // Standards list
+            groups[grade].forEach((std) => {
+              const btn = document.createElement("button");
+              btn.type = "button";
+              btn.className = "standard-item";
+              btn.textContent = std.standardId;
+              btn.dataset.stdIndex = std.index;
+              btn.addEventListener("click", () => {
+                // highlight
+                standardsAccordion
+                  .querySelectorAll(".standard-item")
+                  .forEach((i) => i.classList.remove("active"));
+                btn.classList.add("active");
+                // show detail
+                detailHeader.textContent = `${std.standardId} - ${std.standardText}`;
+                coursesContainer.innerHTML = "";
+                getCoursesForGrade(std.grade).forEach((course) => {
+                  const projs = projects.filter((p) => p.course === course);
+                  if (projs.length) renderCourseCard(std.index, course, projs);
                 });
-
-                selectAllCheckbox.addEventListener("change", () => {
-                  const key = `${std.index}::${courseName}`;
-                  if (selectAllCheckbox.checked) {
-                    selectedAlignments.set(key, [...labelValues]);
-                  } else {
-                    selectedAlignments.set(key, []);
-                  }
-                  // Toggle individual project checkboxes
-                  const projectCbs = cardBody.querySelectorAll(
-                    `input.form-check-input:not(#${selectAllCheckbox.id})`
-                  );
-                  projectCbs.forEach((cb) => {
-                    cb.checked = selectAllCheckbox.checked;
-                  });
-                });
-
-                courseProjects.forEach((proj) => {
-                  const labelText = `${proj.id} ${proj.name}`
-                    .replace(/\u00A0/g, " ")
-                    .replace(/\s+/g, " ")
-                    .trim();
-                  const cb = document.createElement("input");
-                  cb.type = "checkbox";
-                  cb.dataset.stdIndex = std.index;
-                  cb.dataset.course = courseName;
-                  cb.value = labelText;
-                  cb.className = "form-check-input me-2";
-                  cb.id = `cb-${std.index}-${courseName}-${proj.id}`;
-                  // apply existing selection if present
-                  const sel =
-                    selectedAlignments.get(`${std.index}::${courseName}`) || [];
-                  if (sel.includes(cb.value)) cb.checked = true;
-
-                  // Update selectedAlignments when user toggles a checkbox
-                  cb.addEventListener("change", () => {
-                    const key = `${std.index}::${courseName}`;
-                    const arr = selectedAlignments.get(key) || [];
-                    if (cb.checked) {
-                      if (!arr.includes(cb.value)) arr.push(cb.value);
-                    } else {
-                      const i = arr.indexOf(cb.value);
-                      if (i >= 0) arr.splice(i, 1);
-                    }
-                    selectedAlignments.set(key, arr);
-                  });
-                  // On double-click, check this and all following project checkboxes
-                  cb.addEventListener("dblclick", () => {
-                    const projectCbs = cardBody.querySelectorAll(
-                      'input.form-check-input[id^="cb-"]'
-                    );
-                    let startIndex = Array.from(projectCbs).indexOf(cb);
-                    projectCbs.forEach((box, idx) => {
-                      if (idx >= startIndex) {
-                        if (!box.checked) {
-                          box.checked = true;
-                          box.dispatchEvent(new Event("change"));
-                        }
-                      }
-                    });
-                  });
-
-                  const label = document.createElement("label");
-                  label.className =
-                    "form-check-label d-flex align-items-center";
-                  label.htmlFor = cb.id;
-                  label.appendChild(cb);
-                  label.appendChild(document.createTextNode(labelText));
-
-                  const div = document.createElement("div");
-                  div.className = "form-check";
-                  div.appendChild(label);
-
-                  cardBody.appendChild(div);
-                });
-                card.appendChild(cardBody);
-                coursesContainer.appendChild(card);
-              }
+              });
+              standardsAccordion.append(btn);
             });
           });
-        });
-
-        // If any accordion item is expanded, collapse it and reset detail pane
         detailHeader.textContent = "Select a standard";
         coursesContainer.innerHTML = "";
       }
 
-      // Call render once both files have been parsed
+      // Render each course card and hook saveMappings on change
+      function renderCourseCard(stdIndex, courseName, courseProjects) {
+        const card = document.createElement("div");
+        card.className = "card mb-3";
+        const body = document.createElement("div");
+        body.className = "card-body";
+        // Title
+        const h5 = document.createElement("h5");
+        h5.className = "card-title";
+        h5.textContent = courseName;
+        body.append(h5);
+
+        // Select-all checkbox
+        const labels = courseProjects.map((p) => `${p.id} ${p.name}`.trim());
+        const divAll = document.createElement("div");
+        divAll.className = "form-check mb-2 select-all-projects";
+        const inAll = document.createElement("input");
+        inAll.type = "checkbox";
+        inAll.className = "form-check-input me-2";
+        inAll.id = `selectAll-${stdIndex}-${courseName}`;
+        const lbAll = document.createElement("label");
+        lbAll.className = "form-check-label";
+        lbAll.htmlFor = inAll.id;
+        lbAll.textContent = "Select all projects";
+        divAll.append(inAll, lbAll);
+        body.append(divAll);
+        inAll.addEventListener("change", () => {
+          const key = `${stdIndex}::${courseName}`;
+          if (inAll.checked) selectedAlignments.set(key, [...labels]);
+          else selectedAlignments.set(key, []);
+          body
+            .querySelectorAll(`input.form-check-input[id^="cb-"]`)
+            .forEach((cb) => {
+              cb.checked = inAll.checked;
+              cb.dispatchEvent(new Event("change"));
+            });
+        });
+
+        // Team-projects checkbox
+        const divTeam = document.createElement("div");
+        divTeam.className = "form-check mb-2 select-team-projects";
+        const inTeam = document.createElement("input");
+        inTeam.type = "checkbox";
+        inTeam.className = "form-check-input me-2";
+        inTeam.id = `selectTeam-${stdIndex}-${courseName}`;
+        const lbTeam = document.createElement("label");
+        lbTeam.className = "form-check-label";
+        lbTeam.htmlFor = inTeam.id;
+        lbTeam.textContent = "Select all team projects";
+        divTeam.append(inTeam, lbTeam);
+        body.append(divTeam);
+        inTeam.addEventListener("change", () => {
+          const key = `${stdIndex}::${courseName}`;
+          const teamNames = teamProjectsByCourse[courseName] || [];
+          if (inTeam.checked) selectedAlignments.set(key, [...teamNames]);
+          else {
+            const cur = selectedAlignments.get(key) || [];
+            selectedAlignments.set(
+              key,
+              cur.filter((n) => !teamNames.includes(n))
+            );
+          }
+          body
+            .querySelectorAll(`input.form-check-input[id^="cb-"]`)
+            .forEach((cb) => {
+              if (teamNames.includes(cb.value)) {
+                cb.checked = inTeam.checked;
+                cb.dispatchEvent(new Event("change"));
+              }
+            });
+        });
+
+        // Individual checkboxes
+        courseProjects.forEach((p) => {
+          const txt = `${p.id} ${p.name}`.trim();
+          const cb = document.createElement("input");
+          cb.type = "checkbox";
+          cb.className = "form-check-input me-2";
+          cb.id = `cb-${stdIndex}-${courseName}-${p.id}`;
+          cb.value = txt;
+          // preload checked?
+          const key = `${stdIndex}::${courseName}`;
+          const sel = selectedAlignments.get(key) || [];
+          if (sel.includes(txt)) cb.checked = true;
+          cb.addEventListener("change", () => {
+            let arr = selectedAlignments.get(key) || [];
+            if (cb.checked && !arr.includes(txt)) arr.push(txt);
+            if (!cb.checked) arr = arr.filter((x) => x !== txt);
+            selectedAlignments.set(key, arr);
+            saveMappings();
+          });
+          // double-click fill subsequent
+          cb.addEventListener("dblclick", () => {
+            const allCbs = Array.from(
+              body.querySelectorAll(`input.form-check-input[id^="cb-"]`)
+            );
+            const start = allCbs.indexOf(cb);
+            allCbs.forEach((box, i) => {
+              if (i >= start) {
+                box.checked = true;
+                box.dispatchEvent(new Event("change"));
+              }
+            });
+          });
+          const lbl = document.createElement("label");
+          lbl.className = "form-check-label d-flex align-items-center";
+          lbl.htmlFor = cb.id;
+          lbl.append(cb, document.createTextNode(txt));
+          body.append(lbl);
+        });
+
+        card.append(body);
+        coursesContainer.append(card);
+      }
+
+      // Only render when both projects & standards are ready
       function tryRender() {
-        if (standards.length && projects.length) {
+        if (projects.length && standards.length) {
           renderStandardsAccordion();
         }
       }
 
-      // Search standards input handler
+      // Live search
       searchStandardsInput.addEventListener("input", (e) => {
-        const val = e.target.value.trim();
-        renderStandardsAccordion(val);
+        renderStandardsAccordion(e.target.value.trim());
       });
 
-      // File inputs already call tryRender on change, no need to add again
+      // Manual JSON download (optional)
+      generateJson.addEventListener("click", () => {
+        saveMappings();
+      });
 
-      // Phase 4: Build result from all standard-course combos using selectedAlignments
-      document.getElementById("generateJson").addEventListener("click", () => {
-        const result = [];
-        standards.forEach((std, sIdx) => {
-          const coursesFor = getCoursesForGrade(std.grade);
-          if (!coursesFor.length) return; // skip grades without courses
-          coursesFor.forEach((courseName) => {
-            const key = `${sIdx}::${courseName}`;
-            const projList = selectedAlignments.get(key) || [];
-            result.push({
-              State: std.state,
-              Grade: std.grade,
-              "Standard ID": std.standardId,
-              "Standard Text": std.standardText,
-              "Course Name": courseName,
-              "Project Name": projList,
-            });
-          });
+      // Persist current mappings to backend for saving
+      function saveMappings() {
+        const state = stateInput.value;
+        const grouped = {};
+
+        selectedAlignments.forEach((projects, key) => {
+          const [sIdx, course] = key.split("::");
+          const st = standards[sIdx];
+
+          const objKey = `${state}|${st.grade}|${st.standardId}|${st.standardText}|${course}`;
+          if (!grouped[objKey]) {
+            grouped[objKey] = {
+              State: state,
+              Grade: st.grade,
+              "Standard ID": st.standardId,
+              "Standard Text": st.standardText,
+              "Course Name": course,
+              "Project Name": [],
+            };
+          }
+
+          grouped[objKey]["Project Name"].push(...projects);
         });
+        const out = Object.values(grouped);
 
-        const jsonStr = JSON.stringify(result, null, 2);
-        // Show JSON in detail pane
-        detailHeader.textContent = "Generated JSON";
-        coursesContainer.innerHTML = `<pre style="white-space: pre-wrap; background: #f8f8f8; padding: 1em; border: 1px solid #ddd; max-height: 60vh; overflow-y: auto;">${jsonStr}</pre>`;
-
-        // Trigger download
-        const blob = new Blob([jsonStr], { type: "application/json" });
-        const a = document.createElement("a");
-        a.href = URL.createObjectURL(blob);
-        const filename = stateValue ? `${stateValue}.json` : "alignment.json";
-        a.download = filename;
-        a.click();
-        URL.revokeObjectURL(a.href);
-      });
+        fetch(`/save-json/${state}`, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(out, null, 2),
+        }).then((res) => {
+          if (!res.ok) {
+            console.error("Failed to save JSON");
+          }
+        });
+      }
     </script>
   </body>
 </html>

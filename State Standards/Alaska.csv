@@ -1,0 +1,215 @@
+Standard ID,Grade,Strand,Content Cluster,Standard Text
+1.CS.D.01,1,Computing Systems,Devices,"With guidance, select and use a computing device to perform a variety of tasks for an intended outcome."
+1.CS.HS.01,1,Computing Systems,Hardware and Software,"Use accurate terminology in naming and describing the function of common computing devices and components (e.g., laptop, tablet, mouse)."
+1.CS.T.01,1,Computing Systems,Troubleshooting,"Identify simple hardware and software problems that may occur during use (e.g., app or program is not working as expected; no sound is coming from the device; caps lock turned on)."
+1.NI.NCO.01,1,Network and the Internet,Network Communication and Organization,"Recognize that by connecting computing devices together they can share information (e.g., remote storage, printing, the internet)."
+1.NI.C.01,1,Network and the Internet,Cybersecurity,"Identify what passwords are; explain why they are not shared; and discuss what makes a password strong. Independently, use passwords to access technological devices, apps etc."
+1.DA.S.01,1,Data Analysis,Storage,"With guidance, locate, open, modify and save an existing file with a computing device."
+1.DA.CVT.01,1,Data Analysis,"Collection, Visualization and Transformation","With guidance, collect data and present it two different ways."
+1.DA.IM.01,1,Data Analysis,Inference and Models,"With guidance, interpret data from a chart or graph (visualization) in order to make a prediction, with or without a computing device."
+1.AP.A.01,1,Algorithms and Programming,Algorithms,"With guidance, model daily processes and follow algorithms (sets of step‐by‐step instructions) to complete tasks verbally, kinesthetically, with robot devices, or a programing language"
+1.AP.V.01,1,Algorithms and Programming,Variables,"With guidance, model and represent grade level appropriate data (e.g., print, numbers, kinesthetic movement, symbols and robot manipulatives)."
+1.AP.C.01,1,Algorithms and Programming,Control,"With guidance, create programs to accomplish tasks as a means of creative expression or problem solving using a programming language, robot device or unplugged activity, either independently or collaboratively including sequencing and repetition"
+1.AP.M.01,1,Algorithms and Programming,Modularity,Decompose (break down) the steps needed to solve a problem into a precise sequence of instructions.
+1.AP.PD.01,1,Algorithms and Programming,Program Development,"Independently or with guidance, create a grade level appropriate document to illustrate thoughts, ideas, and stories in a sequential (step‐by‐ step) manner (e.g., story map, storyboard, and sequential graphic organizer)."
+1.AP.PD.02,1,Algorithms and Programming,Program Development,"Independently or with guidance give credit to ideas, creations and solutions of others while writing and/or developing programs."
+1.AP.PD.03,1,Algorithms and Programming,Program Development,"Independently and collaboratively, debug programs, which include sequencing and repetition to accomplish tasks as a means of creative expression or problem solving using a programming language and/or unplugged activities."
+1.AP.PD.04,1,Algorithms and Programming,Program Development,"Use correct terminology (beginning, middle, end...), and explain the choices made in the development of an algorithm and/or program to solve a simple problem."
+1.CGEI.CC.01,1,"Community, Global and Ethical Impacts",Culture,Identify how people use many types of technologies in their daily work and personal lives
+1.CGEI.SI.01,1,"Community, Global and Ethical Impacts",Social Interactions,"With guidance, identify appropriate and inappropriate behavior. Act responsibly while participating in an online community and know how and who to report concerns."
+1.CGEI.SLE.01,1,"Community, Global and Ethical Impacts","Safety, Law and Ethics","Keep log in information private, and log off of devices appropriately."
+2.CS.D.01,2,Computing Systems,Devices,Select and use a computing device to perform a variety of tasks for an intended outcome.
+2.CS.HS.01,2,Computing Systems,Hardware and Software,"Identify computer system components and peripherals, and their basic use (e.g., hard drive, memory, processor)."
+2.CS.T.01,2,Computing Systems,Troubleshooting,"Identify simple hardware and software problems that may occur during use and discuss problems with peers and adults (e.g., app or program is not working as expected; no sound is coming from the device; caps lock turned on)."
+2.NI.NCO.01,2,Network and the Internet,Network Communication and Organization,"Recognize that computing devices can be connected at various scales (e.g., Bluetooth, Wi‐Fi). "
+2.NI.C.01,2,Network and the Internet,Cybersecurity,"Explain what passwords are; why we use them, and write and design strong passwords to protect devices and information from unauthorized access. Identify other forms of authentication (biometrics)."
+2.DA.S.01,2,Data Analysis,Storage,"With guidance, create, copy, locate, modify, and delete a file on a computing device and define the information stored as data."
+2.DA.CVT.01,2,Data Analysis,"Collection, Visualization and Transformation","With guidance, collect and present the same data in various visual formats."
+2.DA.IM.01,2,Data Analysis,Inference and Models,"With guidance, construct and interpret data and present it in a chart or graph (visualization) in order to make a prediction, with or without a computing device."
+2.AP.A.01,2,Algorithms and Programming,Algorithms,"With guidance, model daily processes by creating and following algorithms (sets of step‐by‐ step instructions) to complete tasks verbally, kinesthetically, with robot devices, or a programing language"
+2.AP.V.01,2,Algorithms and Programming,Variables,"Model the way a computer program manipulates grade level appropriate data (e.g., print, numbers, kinesthetic movement, symbols and robot manipulatives)."
+2.AP.C.01,2,Algorithms and Programming,Control,"With guidance, create programs using a programming language, robot device or unplugged activity that utilize sequencing and repetition to solve a problem or express ideas both independently and collaboratively"
+2.AP.M.01,2,Algorithms and Programming,Modularity,Decompose (break down) and explain the steps needed to solve a problem into a precise sequence of instructions.
+2.AP.PD.01,2,Algorithms and Programming,Program Development,"Independently or with guidance, create a grade level appropriate document to illustrate thoughts, ideas, and stories in a sequential (step‐by‐ step) manner (e.g., story map, storyboard, and sequential graphic organizer)."
+2.AP.PD.02,2,Algorithms and Programming,Program Development,"Independently or with guidance give credit to ideas, creations and solutions of others while writing and/or developing programs."
+2.AP.PD.03,2,Algorithms and Programming,Program Development,"Independently and collaboratively, create and debug programs, which include sequencing and repetition to accomplish tasks as a means of creative expression or problem solving using a programming language and/or unplugged activities."
+2.AP.PD.04,2,Algorithms and Programming,Program Development,"Use correct terminology (debug, program input/output, code ...) to explain the development of an algorithm to solve a problem in an unplugged activity, hands on manipulatives or a programming language."
+2.CGEI.CC.01,2,"Community, Global and Ethical Impacts",Culture,"List different technology tools, and describe how people use them in their daily work and personal lives"
+2.CGEI.SI.01,2,"Community, Global and Ethical Impacts",Social Interactions,"Develop a code of conduct, explain, and practice grade‐level appropriate behavior and responsibilities while participating in a digital community. Identify and report inappropriate behavior."
+2.CGEI.SLE.01,2,"Community, Global and Ethical Impacts","Safety, Law and Ethics","Be able to explain the reasoning of keeping login information private. Keep log in information private, and log off of devices appropriately"
+3.CS.D.01,3,Computing Systems,Devices,"Define how computer hardware and software work together as a system to accomplish tasks (e.g., input, output, processor, sensors, and storage)."
+3.CS.HS.01,3,Computing Systems,Hardware and Software,"Define binary, and how that relates to computers transmitting information. Review Binary's relationship to off and on."
+3.CS.T.01,3,Computing Systems,Troubleshooting,Identify and discuss simple hardware and software problems that may occur during everyday use. 
+3.NI.NCO.01,3,Network and the Internet,Network Communication and Organization,Recognize that information is sent and received over both physical or wireless paths
+3.NI.C.01,3,Network and the Internet,Cybersecurity,Discuss basic issues related to responsible use of technology and information and describe personal consequences of inappropriate use
+3.DA.S.01,3,Data Analysis,Storage,"Recognize that different applications work with different types of files (e.g., images, documents)."
+3.DA.CVT.01,3,Data Analysis,"Collection, Visualization and Transformation",Collect and organize data in a spreadsheet.
+3.DA.IM.01,3,Data Analysis,Inference and Models,"With guidance, utilize data to make predictions and discuss whether there is adequate data to make reliable predictions."
+3.AP.A.01,3,Algorithms and Programming,Algorithms,Create and follow algorithms to accomplish a simple task or solve a simple problem
+3.AP.V.01,3,Algorithms and Programming,Variables,Create programs that use variables to store and modify grade level appropriate data.
+3.AP.M.01,3,Algorithms and Programming,Modularity,"Modify, remix, or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features."
+3.AP.PD.01,3,Algorithms and Programming,Program Development,"Outline problems and potential solutions using a sequence of steps and conditional logic (e.g., if‐then‐else statements)."
+3.AP.PD.02,3,Algorithms and Programming,Program Development,Observe intellectual property rights and give appropriate credit when creating or remixing programs.
+3.CGEI.CC.01,3,"Community, Global and Ethical Impacts",Culture,Brainstorm ways to improve the accessibility and usability of technology product for the diverse needs and wants of users.
+3.CGEI.SI.01,3,"Community, Global and Ethical Impacts",Social Interactions,"Develop a code of conduct, explain, and practice grade‐level appropriate behavior and responsibilities while participating in an online community. Identify and report inappropriate behavior"
+3.CGEI.SI.02,3,"Community, Global and Ethical Impacts",Social Interactions,"Identify how computational products may be, or have been, improved to incorporate diverse perspectives. Seek diverse perspectives for the purpose of improving computational artifacts"
+3.CGEI.SLE.01,3,"Community, Global and Ethical Impacts","Safety, Law and Ethics",Identify types of digital data that may have intellectual property rights that prevent copying or require attribution.
+4.CS.D.01,4,Computing Systems,Devices,"Define and discuss how computer hardware and software work together as a system to accomplish tasks (e.g., input, output, processor, sensors, and storage)."
+4.CS.HS.01,4,Computing Systems,Hardware and Software,Define and discuss how information flows through hardware and software to accomplish tasks using binary.
+4.CS.T.01,4,Computing Systems,Troubleshooting,Identify and research simple hardware and software problems that may occur during everyday use.
+4.NI.NCO.01,4,Network and the Internet,Network Communication and Organization,Recognize and explain how information is sent and received over both physical and wireless paths
+4.NI.C.01,4,Network and the Internet,Cybersecurity,Define cybersecurity and discuss real‐world cybersecurity problems and how physical and digital personal information can be protected.
+4.DA.S.01,4,Data Analysis,Storage,"Explain how many kilobytes make one megabyte, and how many megabytes make one gigabyte."
+4.DA.CVT.01,4,Data Analysis,"Collection, Visualization and Transformation",Collect and organize data to highlight and display relationships.
+4.DA.IM.01,4,Data Analysis,Inference and Models,Determine the accuracy of conclusions and how they are influenced by the amount of data collected.
+4.AP.A.01,4,Algorithms and Programming,Algorithms,"Create, compare & refine multiple algorithms for the same task."
+4.AP.V.01,4,Algorithms and Programming,Variables,Create programs that use variables to store and modify grade level appropriate data.
+4.AP.M.01,4,Algorithms and Programming,Modularity,"Modify, remix, or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features."
+4.AP.PD.01,4,Algorithms and Programming,Program Development,"Create and debug programs using variables, loops, functions that intake, store, and display data."
+4.AP.PD.02,4,Algorithms and Programming,Program Development,Observe intellectual property rights and give appropriate credit when creating or remixing programs.
+4.CGEI.CC.01,4,"Community, Global and Ethical Impacts",Culture,"Discuss ongoing trends in technologies that have changed the world, and express how those trends influence and are influenced by cultural practices."
+4.CGEI.SI.01,4,"Community, Global and Ethical Impacts",Social Interactions,"Develop a code of conduct, explain, and practice grade‐level appropriate behavior and responsibilities while participating in an online community. Identify and report inappropriate behavior"
+4.CGEI.SI.02,4,"Community, Global and Ethical Impacts",Social Interactions,"As a collaborative team, consider and leverage each other’s diverse perspectives on improving a computational product"
+4.CGEI.SLE.01,4,"Community, Global and Ethical Impacts","Safety, Law and Ethics","Discuss the social impact of violating intellectual property rights. Use public domain or creative commons media, and refrain from copying or using material created by others without permission"
+5.CS.D.01,5,Computing Systems,Devices,"Define, discuss, and model how computer hardware and software work together as a system to accomplish tasks (e.g., input, output, processor, sensors, and storage)."
+5.CS.HS.01,5,Computing Systems,Hardware and Software,"Define, discuss, and model how information flows through hardware and software to accomplish tasks such as converting a word to binary"
+5.CS.T.01,5,Computing Systems,Troubleshooting,"Identify, discuss, and apply strategies for solving simple hardware and software problems that may occur using everyday use (e.g., rebooting the device; checking the power; force shut down of an application)."
+5.NI.NCO.01,5,Network and the Internet,Network Communication and Organization,"Recognize, explain, and model how information is broken down into packets (smaller pieces), transmitted between devices, and reassembled."
+5.NI.C.01,5,Network and the Internet,Cybersecurity,Discuss real‐world cybersecurity problems and how personal information can be protected. Discussion topics could be based on current events related to cybersecurity or topics that are applicable to students.
+5.DA.S.01,5,Data Analysis,Storage,"Using correct terminology explain why various types of files differ in size (e.g., video, images and documents). "
+5.DA.CVT.01,5,Data Analysis,"Collection, Visualization and Transformation","Collect, organize, interpret, and display data to highlight relationships and support a claim"
+5.DA.IM.01,5,Data Analysis,Inference and Models,"Use data to highlight or propose cause and effect relationships, predict outcomes, or communicate an idea."
+5.AP.A.01,5,Algorithms and Programming,Algorithms,Compare and refine multiple algorithms for the same task and determine which is the most appropriate. 
+5.AP.V.01,5,Algorithms and Programming,Variables,Create programs that use variables to store and modify grade level appropriate data
+5.AP.M.01,5,Algorithms and Programming,Modularity,"Modify, remix, or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features."
+5.AP.PD.01,5,Algorithms and Programming,Program Development,Define the concept of abstraction and create increasingly complex programs.
+5.AP.PD.02,5,Algorithms and Programming,Program Development,Observe intellectual property rights and give appropriate credit when creating or remixing programs. 
+5.CGEI.CC.01,5,"Community, Global and Ethical Impacts",Culture,"Discuss ongoing trends in technologies that have changed the world, and express how those trends influence and are influenced by cultural practices."
+5.CGEI.CC.02,5,"Community, Global and Ethical Impacts",Culture,Brainstorm ways to improve the accessibility and usability of technology products for the diverse needs and wants of users
+5.CGEI.SI.01,5,"Community, Global and Ethical Impacts",Social Interactions,"Develop a code of conduct, explain, and practice grade‐level appropriate behavior and responsibilities while participating in an online community. Identify and report inappropriate behavior"
+5.CGEI.SI.02,5,"Community, Global and Ethical Impacts",Social Interactions,"As a team, collaborate with outside resources (other grade levels, online collaborative spaces) to include diverse perspectives to improve computational products."
+5.CGEI.SLE.01,5,"Community, Global and Ethical Impacts","Safety, Law and Ethics","Observe intellectual property rights, give appropriate credit when using resources and consider the licenses on computational artifacts while using resources"
+6.CS.D.01,6,Computing Systems,Devices,Review and analyze device(s) based on personal use and recommend improvements to the device
+6.CS.HS.01,6,Computing Systems,Hardware and Software,Identify ways that hardware and software (User Interface) design are combined to collect and exchange data.
+6.CS.T.01,6,Computing Systems,Troubleshooting,Identify and discuss increasingly complex software and hardware problems with computing devices and their components
+6.NI.NCO.01,6,Network and the Internet,Network Communication and Organization,Model a simple protocol for transferring information using packets.
+6.NI.C.01,6,Network and the Internet,Cybersecurity,Identify existing cybersecurity concerns with the Internet and systems it uses. 
+6.NI.C.02,6,Network and the Internet,Cybersecurity,Explain the importance of secured websites and describe how one method of encryption works.
+6.DA.S.01,6,Data Analysis,Storage,Identify how the same data can be represented in multiple ways.
+6.DA.CVT.01,6,Data Analysis,"Collection, Visualization and Transformation","Collect data using computational tools and transform the data to make it more useful (e.g., spreadsheet formulas) "
+6.DA.IM.01,6,Data Analysis,Inference and Models,"Use models and simulations to formulate, refine, and test hypotheses."
+6.AP.A.01,6,Algorithms and Programming,Algorithms,Use an existing algorithm in natural language or pseudocode to solve complex problems
+6.AP.V.01,6,Algorithms and Programming,Variables,"Develop programs that utilize combinations of repetition, conditionals, functions, and the manipulation of variables representing different data types."
+6.AP.M.01,6,Algorithms and Programming,Modularity,"Decompose (break down) problems into abstraction layers to facilitate the design, implementation, and review of programs."
+6.AP.PD.01,6,Algorithms and Programming,Program Development,Seek and incorporate feedback from team members to refine a solution to a problem
+6.AP.PD.02,6,Algorithms and Programming,Program Development,"Incorporate existing code, media, and libraries into original programs and give attribution. "
+6.AP.PD.03,6,Algorithms and Programming,Program Development,Test and refine programs using teacher provided inputs.
+6.AP.PD.04,6,Algorithms and Programming,Program Development,Break down tasks and follow an individual timeline when developing a computational artifact.
+6.CGEI.CC.01,6,"Community, Global and Ethical Impacts",Culture,Explain how computing impacts people's' everyday activities and explore carriers related to the field of computer science.
+6.CGEI.CC.02,6,"Community, Global and Ethical Impacts",Culture,"Identify and discuss the technology proficiencies needed in the classroom and the workplace, and how to meet the needs of diverse users. "
+6.CGEI.SI.01,6,"Community, Global and Ethical Impacts",Social Interactions,"Individually and collaboratively develop and conduct an online survey that seeks input from a broad audience. Describe and use safe, appropriate, and responsible practices (netiquette) when participating in online communities (e.g., discussion groups, blogs, social networking sites)."
+6.CGEI.SLE.01,6,"Community, Global and Ethical Impacts","Safety, Law and Ethics","Differentiate between appropriate and inappropriate content on the Internet, and identify unethical and illegal online behavior"
+6.CGEI.SLE.02,6,"Community, Global and Ethical Impacts","Safety, Law and Ethics","Identify what distinguishes humans from machines focusing on human intelligence versus machine intelligence (e.g., robot motion; speech and language understanding; computer vision)"
+7.CS.D.01,7,Computing Systems,Devices,"Review, analyze, and evaluate device(s) and how other users interact with devices and recommend improvements to design."
+7.CS.HS.01,7,Computing Systems,Hardware and Software,Evaluate and recommend improvements to hardware and software (User Interface) design to collect and exchange data.
+7.CS.T.01,7,Computing Systems,Troubleshooting,Identify and fix increasingly complex software and hardware problems with computing devices and their components.
+7.NI.NCO.01,7,Network and the Internet,Network Communication and Organization,Explain how a system recovers when a packet is lost and the effect it has on the transferred information.
+7.NI.C.01,7,Network and the Internet,Cybersecurity,"Explain how to protect electronic information, both physical and digital, identify cybersecurity concerns and options to address issues with the Internet and the systems it uses"
+7.NI.C.02,7,Network and the Internet,Cybersecurity,Identify and explain two or more methods of encryption used to ensure and secure the transmission of information.
+7.DA.S.01,7,Data Analysis,Storage,Create multiple representations of data.
+7.DA.CVT.01,7,Data Analysis,"Collection, Visualization and Transformation",Collect data using computational tools and transform the data to make it more useful and reliable.
+7.DA.IM.01,7,Data Analysis,Inference and Models,Discuss the correctness of a model representing a system by comparing the model’s generated results with observed data from the modeled system.
+7.AP.A.01,7,Algorithms and Programming,Algorithms,Select and modify an existing algorithm in natural language or pseudocode to solve complex problems
+7.AP.V.01,7,Algorithms and Programming,Variables,"Develop programs that utilize combinations of repetition, compound conditionals, functions, and the manipulation of variables representing different data types."
+7.AP.M.01,7,Algorithms and Programming,Modularity,"Decompose (break down) problems into abstraction layers to facilitate the design, implementation, and review of increasingly complex programs."
+7.AP.PD.01,7,Algorithms and Programming,Program Development,Seek and incorporate feedback from team members and users to refine a solution to a problem.
+7.AP.PD.02,7,Algorithms and Programming,Program Development,"Incorporate existing code, media, and libraries into original programs of increasing complexity and give attribution. "
+7.AP.PD.03,7,Algorithms and Programming,Program Development,Test and refine programs using a variety of student created inputs.
+7.AP.PD.04,7,Algorithms and Programming,Program Development,Distribute tasks and maintain a project timeline when collaboratively developing computational artifacts.
+7.AP.PD.05,7,Algorithms and Programming,Program Development,"Document block‐based or text‐based programs of increasing complexity in order to make them easier to follow, test, and debug."
+7.CGEI.CC.01,7,"Community, Global and Ethical Impacts",Culture,Explain how computing impacts innovation in other fields and explore carriers related to the field of computer science.
+7.CGEI.CC.02,7,"Community, Global and Ethical Impacts",Culture,"Relate the distribution of computing resources in a global society to issues of equity, access, andpower."
+7.CGEI.SI.01,7,"Community, Global and Ethical Impacts",Social Interactions,"Individually and collaboratively use advanced tools to design and create online content (e.g., digital portfolio, multimedia, blog, web page). Describe and use safe, appropriate, and responsible practices (netiquette) when participating in online communities (e.g., discussion groups, blogs, social networking sites)."
+7.CGEI.SLE.01,7,"Community, Global and Ethical Impacts","Safety, Law and Ethics","Explain the connection between the longevity of data on the Internet, personal online identity, and personal privacy."
+7.CGEI.SLE.02,7,"Community, Global and Ethical Impacts","Safety, Law and Ethics","Describe ways in which computers use models of intelligent behavior (e.g., robot motion; speech and language understanding; computer vision)"
+8.CS.D.01,8,Computing Systems,Devices,Develop and implement a process to evaluate existing computing devices and recommend impro
+8.CS.HS.01,8,Computing Systems,Hardware and Software,"Design and refine projects that combine hardware and software (User Interface) to collect and exchange data. L1.CS.HS.01 Explain the interactions between application software, system software, and hardware"
+8.CS.T.01,8,Computing Systems,Troubleshooting,"Systematically identify, fix, and document increasingly complex software and hardware problems with computing devices and their components."
+8.NI.NCO.01,8,Network and the Internet,Network Communication and Organization,Explain protocols and their importance to data transmission; model how packets are broken down into smaller pieces and how they are delivered.
+8.NI.C.01,8,Network and the Internet,Cybersecurity,"Evaluate physical and digital procedures that could be implemented to protect electronic data/information. Explain the impacts of malware (e.g., hacking, ransomware)"
+8.NI.C.02,8,Network and the Internet,Cybersecurity,Compare the advantages and disadvantages of multiple methods of encryption to model the secure transmission of information.
+8.DA.S.01,8,Data Analysis,Storage,Analyze multiple methods of representing data and choose the most appropriate method for representing data
+8.DA.CVT.01,8,Data Analysis,"Collection, Visualization and Transformation","Develop, implement, and refine a process that utilizes computational tools to collect and transform data to make it more useful and reliable"
+8.DA.IM.01,8,Data Analysis,Inference and Models,Refine computational models based on the data generated by the models.
+8.AP.A.01,8,Algorithms and Programming,Algorithms,"Design algorithms in natural language, flow and control diagrams, comments within code, and/or pseudocode to solve complex problems"
+8.AP.V.01,8,Algorithms and Programming,Variables,"Develop programs that utilize combinations of nested repetition, compound conditionals, functions, and the manipulation of variables representing different data types."
+8.AP.M.01,8,Algorithms and Programming,Modularity,"Decompose (break down) problems and sub‐problems into abstraction layers to facilitate the design, implementation, and review of complex programs."
+8.AP.PD.01,8,Algorithms and Programming,Program Development,Seek and incorporate feedback from team members and users to refine a solution to a problem that meets the needs of diverse users. 
+8.AP.PD.02,8,Algorithms and Programming,Program Development,"Incorporate existing code, media, and libraries into original programs of increasing complexity and give attribution."
+8.AP.PD.03,8,Algorithms and Programming,Program Development,Systematically test and refine programs using a range of student created inputs.
+8.AP.PD.04,8,Algorithms and Programming,Program Development,Explain how effective communication between participants is required for successful collaboration when developing computational artifacts.
+8.CGEI.CC.01,8,"Community, Global and Ethical Impacts",Culture,"Describe the trade‐offs associated with computing technologies, explaining their effects on economies and global societies, and explore community and global careers related to the field of computer science (e.g., automation)."
+8.CGEI.CC.02,8,"Community, Global and Ethical Impacts",Culture,"Evaluate and improve the design of existing technologies to meet the needs of diverse users and increase accessibility and usability. Evaluate how technology can be used to distort, exaggerate, and misrepresent information."
+8.CGEI.SI.01,8,"Community, Global and Ethical Impacts",Social Interactions,"Communicate and publish key ideas and details individually or collaboratively in a way that informs, persuades, and/or entertains using a variety of digital tools and media‐rich resources. Describe and use safe, appropriate, and responsible practices (netiquette) when participating in online communities (e.g., discussion groups, blogs, social networking sites)"
+8.CGEI.SLE.01,8,"Community, Global and Ethical Impacts","Safety, Law and Ethics","Discuss the social impacts and ethical considerations associated with cybersecurity, including the positive and malicious purposes of hacking."
+8.CGEI.SLE.02,8,"Community, Global and Ethical Impacts","Safety, Law and Ethics","Compare and contrast human intelligence and computer intelligence (e.g., emotional decision making versus logical decisions; common sense; literal versus abstract)."
+L1.CS.D.01,HS (L1),Computing Systems,Devices,Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects.
+L1.CS.T.01,HS (L1),Computing Systems,Troubleshooting,Develop and apply criteria for systematic discovery of errors and strategies for correction in computing systems.
+L1.NI.NCO.01,HS (L1),Network and the Internet,Network Communication and Organization,"Evaluate the scalability and reliability of networks by identifying and illustrating the basic components of computer networks and network protocols (e.g., routers, switches, servers, IP, DNS)."
+L1.NI.C.01,HS (L1),Network and the Internet,Cybersecurity,Compare various security measures by evaluating tradeoffs between the usability and security of a computing system.
+L1.NI.C.02,HS (L1),Network and the Internet,Cybersecurity,Illustrate how sensitive data can be affected by attacks.
+L1.NI.C.03,HS (L1),Network and the Internet,Cybersecurity,Recommend security measures to address various scenarios based on the principles of information security.
+L1.NI.C.04,HS (L1),Network and the Internet,Cybersecurity,"Explain tradeoffs when selecting and implementing cybersecurity recommendations from multiple perspectives such as the user, enterprise, and government."
+L1.DA.S.01,HS (L1),Data Analysis,Storage,"Translate and compare different bit representations of real‐world phenomena, such as characters, numbers, and images."
+L1.DA.S.02,HS (L1),Data Analysis,Storage,Review different database types.
+L1.DA.CVT.01,HS (L1),Data Analysis,"Collection, Visualization and Transformation","Use tools and techniques to locate, collect and create visualizations of small and large‐scale data sets (e.g., paper surveys, online data sets, etc.)."
+L1.DA.IM.01,HS (L1),Data Analysis,Inference and Models,"Use computational models such as data analysis, pattern recognition, and/or simulations to show the relationships between collected data elements."
+L1.AP.A.01,HS (L1),Algorithms and Programming,Algorithms,"Use algorithms (e.g., sequencing, selection, iteration, recursion, etc.) to create a prototype to provide a possible solution for a common problem"
+L1.AP.V.01,HS (L1),Algorithms and Programming,Variables,Demonstrate the use of lists to simplify solutions and to generalize computation problems instead of repeatedly using simple variables.
+L1.AP.C.01,HS (L1),Algorithms and Programming,Control,"Justify the selection of specific control structures when trade‐offs involve implementation, readability, and program performance."
+L1.AP.C.02,HS (L1),Algorithms and Programming,Control,"Develop an event‐based program that will solve a practical problem, or allow self‐expression."
+L1.AP.M.01,HS (L1),Algorithms and Programming,Modularity,"Using systematic analysis and design, break down a solution into basic elements such as procedures, functions, or methods"
+L1.AP.M.02,HS (L1),Algorithms and Programming,Modularity,"Create computational artifacts by using common structures to organize, manipulate and/or process data."
+L1.AP.PD.01,HS (L1),Algorithms and Programming,Program Development,"Create software by analyzing a problem and/or process, developing a solution, testing outcomes, debug, documenting, and adapting the program for a variety of users."
+L1.AP.PD.02,HS (L1),Algorithms and Programming,Program Development,"Classify and define a variety of software licensing schemes and discuss the advantages and disadvantages of the different schemes in software development (e.g. open source, freeware, commercial)."
+L1.AP.PD.03,HS (L1),Algorithms and Programming,Program Development,"Evaluate and refine computational artifacts to make them more user‐friendly, efficient and/or accessible. "
+L1.AP.PD.04,HS (L1),Algorithms and Programming,Program Development,Design and develop a computational artifact while working in a team.
+L1.AP.PD.05,HS (L1),Algorithms and Programming,Program Development,"Using visual aids and documentation, illustrate the design elements and data flow of the development of a complex program (e.g. flowcharts, pseudocode, etc.)."
+L1.CGEI.CC.01,HS (L1),"Community, Global and Ethical Impacts",Culture,Test and refine computational artifacts to reduce bias and equity deficits.
+L1.CGEI.CC.02,HS (L1),"Community, Global and Ethical Impacts",Culture,Demonstrate how a given algorithm applies to problems across disciplines.
+L1.CGEI.SI.01,HS (L1),"Community, Global and Ethical Impacts",Social Interactions,Demonstrate how computing increases connectivity to people in various cultures.
+L1.CGEI.SLE.01,HS (L1),"Community, Global and Ethical Impacts","Safety, Law and Ethics",Explain the beneficial and harmful effects that intellectual property laws can have on innovation.
+L1.CGEI.SLE.02,HS (L1),"Community, Global and Ethical Impacts","Safety, Law and Ethics","Explain the privacy concerns related to the collection and large scale analysis of information about individuals that may not be evident to users (e.g., how businesses, social media, and the government collects and uses data)."
+L1.CGEI.SLE.03,HS (L1),"Community, Global and Ethical Impacts","Safety, Law and Ethics","Evaluate the social and economic implications as related to privacy, data, property, information, and identity in the context of safety, law, or ethics."
+L1.CGEI.SLE.04,HS (L1),"Community, Global and Ethical Impacts","Safety, Law and Ethics","Describe the beneficial and intrusive aspects of advancing and emerging technologies (e.g., artificial intelligent agents, IoT, robotics)."
+L1.CGEI.SLE.05,HS (L1),"Community, Global and Ethical Impacts","Safety, Law and Ethics",Discuss diverse careers that are influenced by computer science and its availability to all regardless of background.
+L2.CS.HS.01,HS (L2),Computing Systems,Hardware and Software,Identify the interactions of an operating system between software and hardware.
+L2.NI.NCO.01,HS (L2),Network and the Internet,Network Communication and Organization,"Describe the issues that impact network functionality (e.g., bandwidth, load, delay, topology)."
+L2.NI.C.01,HS (L2),Network and the Internet,Cybersecurity,Compare and refine ways in which software developers protect devices and information from unauthorized access.
+L2.NI.C.02,HS (L2),Network and the Internet,Cybersecurity,Learn detection and prevention methods to respond to attacks on sensitive data. Develop a response plan that enables recovery from such attacks.
+L2.DA.S.01,HS (L2),Data Analysis,Storage,"Evaluate and explain the various types of databases, with their specific benefits and limitation"
+L2.DA.CVT.01,HS (L2),Data Analysis,"Collection, Visualization and Transformation",Use data analysis tools and techniques to identify patterns from complex real‐ world phenomena.
+L2.DA.CVT.02,HS (L2),Data Analysis,"Collection, Visualization and Transformation",Generate data sets that support a claim or communicates information using a variety of data collection tools and analysis techniques.
+L2.DA.IM.01,HS (L2),Data Analysis,Inference and Models,"Use models and simulations to help formulate, refine, and test scientific hypotheses."
+L2.AP.A.01,HS (L2),Algorithms and Programming,Algorithms,"Describe how artificial intelligence drives many software and physical systems (e.g., autonomous robots, computer vision, pattern recognition, text analysis)."
+L2.AP.A.02,HS (L2),Algorithms and Programming,Algorithms,Develop an artificial intelligence algorithm to play a game against a human opponent or solve a common problem. 
+L2.AP.A.03,HS (L2),Algorithms and Programming,Algorithms,"Critically examine and adapt classic algorithms (e.g. selection sort, insertion sort, etc.)."
+L2.AP.A.04,HS (L2),Algorithms and Programming,Algorithms,"Evaluate algorithms (e.g., sorting, searching) in terms of their efficiency, correctness, and clarity"
+L2.AP.V.01,HS (L2),Algorithms and Programming,Variables,"Compare and contrast simple data structures and their uses (e.g., arrays, lists, stacks, queues, maps, trees, graphs, and databases)."
+L2.AP.C.01,HS (L2),Algorithms and Programming,Control,"Trace the execution of recursive algorithms, illustrating output and changes in values of named variables."
+L2.AP.M.01,HS (L2),Algorithms and Programming,Modularity,"Construct solutions to problems using student‐created components, such as functions, procedures, modules, and/or objects."
+L2.AP.M.02,HS (L2),Algorithms and Programming,Modularity,Analyze a large‐scale computational problem and identify generalizable patterns that can be applied to a solution.
+L2.AP.M.02,HS (L2),Algorithms and Programming,Modularity,"Create programming solutions using code reuse and applied technique with appropriate attribution (e.g., libraries, APIs, collaboration software, and versioning software)."
+L2.AP.PD.01,HS (L2),Algorithms and Programming,Program Development,Compare multiple programming languages and discuss features that make them useful for solving problems and developing systems. 
+L2.AP.PD.02,HS (L2),Algorithms and Programming,Program Development,"Using the software life cycle process, create software that will provide solutions for a variety of users."
+L2.AP.PD.03,HS (L2),Algorithms and Programming,Program Development,"Design software in a project team environment using Agile Development methods (e.g., versioning and collaboration systems)."
+L2.AP.PD.04,HS (L2),Algorithms and Programming,Program Development,Explain security issues that might lead to compromised computer programs.
+L2.AP.PD.05,HS (L2),Algorithms and Programming,Program Development,Develop programs for multiple computing platforms. 
+L2.AP.PD.06,HS (L2),Algorithms and Programming,Program Development,Develop and use a series of test cases to verify that a program performs according to its design specifications.
+L2.AP.PD.07,HS (L2),Algorithms and Programming,Program Development,"Through peer review systematically check code for correctness, usability, readability, efficiency, portability, and scalability (e.g. code review)."
+L2.AP.PD.08,HS (L2),Algorithms and Programming,Program Development,Modify an existing program to add additional functionality and discuss intended and unintended implications with appropriate attribution.
+L2.CGEI.CC.01,HS (L2),"Community, Global and Ethical Impacts",Culture,"Evaluate the impact of equity, access, and influence on the distribution of computing resources in a global society."
+L2.CGEI.CC.02,HS (L2),"Community, Global and Ethical Impacts",Culture,"Based on research, evaluate how computing has revolutionized an aspect of our culture and predict how it might evolve (e.g., education, healthcare, art/entertainment, and energy)."
+L2.CGEI.SLE.01,HS (L2),"Community, Global and Ethical Impacts","Safety, Law and Ethics",Debate laws and regulations that impact the development and use of software.
+L2.CGEI.SLE.02,HS (L2),"Community, Global and Ethical Impacts","Safety, Law and Ethics","Identify the ethical and moral implications encountered in managing and curating knowledge (e.g., harvesting; information overload; knowledge management; reposting; sharing; summarizing)."
+L2.CG.EI.SLE.03,HS (L2),"Community, Global and Ethical Impacts","Safety, Law and Ethics","Explain how cutting‐edge technology may affect the way business is conducted in the future (e.g., eCommerce, entrepreneurship, payment methods, business responsibilities)."
