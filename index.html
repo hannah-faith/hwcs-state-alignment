@@ -515,6 +515,21 @@
                     }
                     selectedAlignments.set(key, arr);
                   });
+                  // On double-click, check this and all following project checkboxes
+                  cb.addEventListener("dblclick", () => {
+                    const projectCbs = cardBody.querySelectorAll(
+                      'input.form-check-input[id^="cb-"]'
+                    );
+                    let startIndex = Array.from(projectCbs).indexOf(cb);
+                    projectCbs.forEach((box, idx) => {
+                      if (idx >= startIndex) {
+                        if (!box.checked) {
+                          box.checked = true;
+                          box.dispatchEvent(new Event("change"));
+                        }
+                      }
+                    });
+                  });
 
                   const label = document.createElement("label");
                   label.className =
