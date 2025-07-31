@@ -5,10 +5,7 @@
     "Standard ID": "1A-CS-01",
     "Standard Text": "Select and operate appropriate software to perform a variety of tasks, and recognize that users have different needs and preferences for the technology they use.",
     "Course Name": "CS Adventures with VR",
-    "Project Name": [
-      "0.9 Google Slides Playground",
-      "0.10 Scavenger Hunt"
-    ]
+    "Project Name": ["0.9 Google Slides Playground", "0.10 Scavenger Hunt"]
   },
   {
     "State": "CSTA",
@@ -67,10 +64,7 @@
     "Standard ID": "1A-NI-04",
     "Standard Text": "Explain what passwords are and why we use them, and use strong passwords to protect devices and information from unauthorized access.",
     "Course Name": "CS Adventures with VR",
-    "Project Name": [
-      "0.4 Screen Smarties",
-      "0.5 Click Clever"
-    ]
+    "Project Name": ["0.4 Screen Smarties", "0.5 Click Clever"]
   },
   {
     "State": "CSTA",
@@ -78,10 +72,7 @@
     "Standard ID": "1A-DA-05",
     "Standard Text": "Store, copy, search, retrieve, modify, and delete information using a computing device and define the information stored as data.",
     "Course Name": "CS Adventures with VR",
-    "Project Name": [
-      "0.9 Google Slides Playground",
-      "0.10 Scavenger Hunt"
-    ]
+    "Project Name": ["0.9 Google Slides Playground", "0.10 Scavenger Hunt"]
   },
   {
     "State": "CSTA",
@@ -89,9 +80,7 @@
     "Standard ID": "1A-DA-06",
     "Standard Text": "Collect and present the same data in various visual formats.",
     "Course Name": "CS Adventures with VR",
-    "Project Name": [
-      "0.8 Data Discovery"
-    ]
+    "Project Name": ["0.8 Data Discovery"]
   },
   {
     "State": "CSTA",
@@ -99,9 +88,7 @@
     "Standard ID": "1A-DA-07",
     "Standard Text": "Identify and describe patterns in data visualizations, such as charts or graphs, to make predictions.",
     "Course Name": "CS Adventures with VR",
-    "Project Name": [
-      "0.8 Data Discovery"
-    ]
+    "Project Name": ["0.8 Data Discovery"]
   },
   {
     "State": "CSTA",
@@ -309,9 +296,7 @@
     "Standard ID": "1B-CS-01",
     "Standard Text": "Describe how internal and external parts of computing devices function to form a system.",
     "Course Name": "CS Breakthroughs with VR",
-    "Project Name": [
-      "0.3 Journey Through Computer Systems"
-    ]
+    "Project Name": ["0.3 Journey Through Computer Systems"]
   },
   {
     "State": "CSTA",
@@ -319,9 +304,7 @@
     "Standard ID": "1B-CS-02",
     "Standard Text": "Model how computer hardware and software work together as a system to accomplish tasks.",
     "Course Name": "CS Breakthroughs with VR",
-    "Project Name": [
-      "0.3 Journey Through Computer Systems"
-    ]
+    "Project Name": ["0.3 Journey Through Computer Systems"]
   },
   {
     "State": "CSTA",
@@ -358,9 +341,7 @@
     "Standard ID": "1B-NI-04",
     "Standard Text": "Model how information is broken down into smaller pieces, transmitted as packets through multiple devices over networks and the Internet, and reassembled at the destination.",
     "Course Name": "CS Breakthroughs with VR",
-    "Project Name": [
-      "0.3 Journey Through Computer Systems"
-    ]
+    "Project Name": ["0.3 Journey Through Computer Systems"]
   },
   {
     "State": "CSTA",
@@ -381,9 +362,7 @@
     "Standard ID": "1B-DA-06",
     "Standard Text": "Organize and present collected data visually to highlight relationships and support a claim.",
     "Course Name": "CS Breakthroughs with VR",
-    "Project Name": [
-      "0.6 Data Detectives"
-    ]
+    "Project Name": ["0.6 Data Detectives"]
   },
   {
     "State": "CSTA",
@@ -391,9 +370,7 @@
     "Standard ID": "1B-DA-07",
     "Standard Text": "Use data to highlight or propose cause-and-effect relationships, predict outcomes, or communicate an idea.",
     "Course Name": "CS Breakthroughs with VR",
-    "Project Name": [
-      "0.6 Data Detectives"
-    ]
+    "Project Name": ["0.6 Data Detectives"]
   },
   {
     "State": "CSTA",
@@ -615,9 +592,7 @@
     "Standard ID": "1B-IC-18",
     "Standard Text": "Discuss computing technologies that have changed the world, and express how those technologies influence, and are influenced by, cultural practices.",
     "Course Name": "CS Breakthroughs with VR",
-    "Project Name": [
-      "0.4 Technology Transformations"
-    ]
+    "Project Name": ["0.4 Technology Transformations"]
   },
   {
     "State": "CSTA",
@@ -625,9 +600,7 @@
     "Standard ID": "1B-IC-19",
     "Standard Text": "Brainstorm ways to improve the accessibility and usability of technology products for the diverse needs and wants of users.",
     "Course Name": "CS Breakthroughs with VR",
-    "Project Name": [
-      "0.4 Technology Transformations"
-    ]
+    "Project Name": ["0.4 Technology Transformations"]
   },
   {
     "State": "CSTA",
@@ -732,9 +705,7 @@
     "Standard ID": "2-CS-02",
     "Standard Text": "Design projects that combine hardware and software components to collect and exchange data.",
     "Course Name": "CS Connections with VR",
-    "Project Name": [
-      "0.4 Digital Device Design"
-    ]
+    "Project Name": ["0.4 Digital Device Design"]
   },
   {
     "State": "CSTA",
@@ -742,9 +713,7 @@
     "Standard ID": "2-CS-03",
     "Standard Text": "Systematically identify and fix problems with computing devices and their components.",
     "Course Name": "CS Connections with VR",
-    "Project Name": [
-      "0.7 VR Tutorial"
-    ]
+    "Project Name": ["0.7 VR Tutorial"]
   },
   {
     "State": "CSTA",
@@ -752,9 +721,7 @@
     "Standard ID": "2-NI-04",
     "Standard Text": "Model the role of protocols in transmitting data across networks and the Internet.",
     "Course Name": "CS Connections with VR",
-    "Project Name": [
-      "0.3 The Internet & You"
-    ]
+    "Project Name": ["0.3 The Internet & You"]
   },
   {
     "State": "CSTA",
@@ -762,9 +729,7 @@
     "Standard ID": "2-NI-05",
     "Standard Text": "Explain how physical and digital security measures protect electronic information.",
     "Course Name": "CS Connections with VR",
-    "Project Name": [
-      "0.3 The Internet & You"
-    ]
+    "Project Name": ["0.3 The Internet & You"]
   },
   {
     "State": "CSTA",
@@ -772,9 +737,7 @@
     "Standard ID": "2-NI-06",
     "Standard Text": "Apply multiple methods of encryption to model the secure transmission of information.",
     "Course Name": "CS Connections with VR",
-    "Project Name": [
-      "0.3 The Internet & You"
-    ]
+    "Project Name": ["0.3 The Internet & You"]
   },
   {
     "State": "CSTA",
@@ -782,9 +745,7 @@
     "Standard ID": "2-DA-07",
     "Standard Text": "Represent data using multiple encoding schemes.",
     "Course Name": "CS Connections with VR",
-    "Project Name": [
-      "0.2 Data on the Move!"
-    ]
+    "Project Name": ["0.2 Data on the Move!"]
   },
   {
     "State": "CSTA",
@@ -792,9 +753,7 @@
     "Standard ID": "2-DA-08",
     "Standard Text": "Collect data using computational tools and transform the data to make it more useful and reliable.",
     "Course Name": "CS Connections with VR",
-    "Project Name": [
-      "0.6 Data Comes to Life"
-    ]
+    "Project Name": ["0.6 Data Comes to Life"]
   },
   {
     "State": "CSTA",
@@ -802,9 +761,7 @@
     "Standard ID": "2-DA-09",
     "Standard Text": "Refine computational models based on the data they have generated.",
     "Course Name": "CS Connections with VR",
-    "Project Name": [
-      "0.6 Data Comes to Life"
-    ]
+    "Project Name": ["0.6 Data Comes to Life"]
   },
   {
     "State": "CSTA",
@@ -835,10 +792,7 @@
     "Standard ID": "2-AP-10",
     "Standard Text": "Use flowcharts and/or pseudocode to address complex problems as algorithms.",
     "Course Name": "Web Development",
-    "Project Name": [
-      "5.3 Code Corporation",
-      "4.3 Mystery Mansion"
-    ]
+    "Project Name": ["5.3 Code Corporation", "4.3 Mystery Mansion"]
   },
   {
     "State": "CSTA",
@@ -1534,9 +1488,7 @@
     "Standard ID": "2-IC-20",
     "Standard Text": "Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options.",
     "Course Name": "CS Connections with VR",
-    "Project Name": [
-      "0.5 Coding Superheroes"
-    ]
+    "Project Name": ["0.5 Coding Superheroes"]
   },
   {
     "State": "CSTA",
@@ -1544,9 +1496,7 @@
     "Standard ID": "2-IC-21",
     "Standard Text": "Discuss issues of bias and accessibility in the design of existing technologies.",
     "Course Name": "CS Connections with VR",
-    "Project Name": [
-      "0.8 Underwater"
-    ]
+    "Project Name": ["0.8 Underwater"]
   },
   {
     "State": "CSTA",
@@ -1554,10 +1504,7 @@
     "Standard ID": "2-IC-22",
     "Standard Text": "Collaborate with many contributors through strategies such as crowdsourcing or surveys when creating a computational artifact.",
     "Course Name": "CS Connections with VR",
-    "Project Name": [
-      "0.1 Fantastic Features",
-      "0.6 Data Comes to Life"
-    ]
+    "Project Name": ["0.1 Fantastic Features", "0.6 Data Comes to Life"]
   },
   {
     "State": "CSTA",
@@ -1565,9 +1512,7 @@
     "Standard ID": "2-IC-23",
     "Standard Text": "Describe tradeoffs between allowing information to be public and keeping information private and secure.",
     "Course Name": "CS Connections with VR",
-    "Project Name": [
-      "0.3 The Internet & You"
-    ]
+    "Project Name": ["0.3 The Internet & You"]
   },
   {
     "State": "CSTA",
@@ -1617,9 +1562,7 @@
     "Standard ID": "3A-CS-02",
     "Standard Text": "Compare levels of abstraction and interactions between application software, system software, and hardware layers.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.2 Inside Your Computer"
-    ]
+    "Project Name": ["0.2 Inside Your Computer"]
   },
   {
     "State": "CSTA",
@@ -1668,9 +1611,7 @@
     "Standard ID": "3A-NI-04",
     "Standard Text": "Evaluate the scalability and reliability of networks, by describing the relationship between routers, switches, servers, topology, and addressing.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.5 Computer Networks"
-    ]
+    "Project Name": ["0.5 Computer Networks"]
   },
   {
     "State": "CSTA",
@@ -1678,9 +1619,7 @@
     "Standard ID": "3A-NI-05",
     "Standard Text": "Give examples to illustrate how sensitive data can be affected by malware and other attacks.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.5 Computer Networks"
-    ]
+    "Project Name": ["0.5 Computer Networks"]
   },
   {
     "State": "CSTA",
@@ -1688,9 +1627,7 @@
     "Standard ID": "3A-NI-06",
     "Standard Text": "Recommend security measures to address various scenarios based on factors such as efficiency, feasibility, and ethical impacts.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.5 Computer Networks"
-    ]
+    "Project Name": ["0.5 Computer Networks"]
   },
   {
     "State": "CSTA",
@@ -1698,9 +1635,7 @@
     "Standard ID": "3A-NI-07",
     "Standard Text": "Compare various security measures, considering tradeoffs between the usability and security of a computing system.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.5 Computer Networks"
-    ]
+    "Project Name": ["0.5 Computer Networks"]
   },
   {
     "State": "CSTA",
@@ -1708,9 +1643,7 @@
     "Standard ID": "3A-NI-08",
     "Standard Text": "Explain tradeoffs when selecting and implementing cybersecurity recommendations.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.5 Computer Networks"
-    ]
+    "Project Name": ["0.5 Computer Networks"]
   },
   {
     "State": "CSTA",
@@ -1718,9 +1651,7 @@
     "Standard ID": "3A-DA-09",
     "Standard Text": "Translate between different bit representations of real-world phenomena, such as characters, numbers, and images.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.3 Coded Messages"
-    ]
+    "Project Name": ["0.3 Coded Messages"]
   },
   {
     "State": "CSTA",
@@ -1728,9 +1659,7 @@
     "Standard ID": "3A-DA-10",
     "Standard Text": "Evaluate the tradeoffs in how data elements are organized and where data is stored.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.6 Data Story"
-    ]
+    "Project Name": ["0.6 Data Story"]
   },
   {
     "State": "CSTA",
@@ -1738,9 +1667,7 @@
     "Standard ID": "3A-DA-11",
     "Standard Text": "Create interactive data visualizations using software tools to help others better understand real-world phenomena.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.6 Data Story"
-    ]
+    "Project Name": ["0.6 Data Story"]
   },
   {
     "State": "CSTA",
@@ -1748,9 +1675,7 @@
     "Standard ID": "3A-DA-12",
     "Standard Text": "Create computational models that represent the relationships among different elements of data collected from a phenomenon or process.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.6 Data Story"
-    ]
+    "Project Name": ["0.6 Data Story"]
   },
   {
     "State": "CSTA",
@@ -1890,7 +1815,7 @@
       "4.6 COVID Cautious",
       "5.1 Roll Call",
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
@@ -1982,7 +1907,7 @@
       "4.6 COVID Cautious",
       "5.1 Roll Call",
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
@@ -2087,7 +2012,7 @@
       "4.6 COVID Cautious",
       "5.1 Roll Call",
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
@@ -2271,7 +2196,7 @@
       "4.6 COVID Cautious",
       "5.1 Roll Call",
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
@@ -2356,7 +2281,7 @@
       "4.6 COVID Cautious",
       "5.1 Roll Call",
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
@@ -2502,7 +2427,7 @@
     "Project Name": [
       "5.1 Roll Call",
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
@@ -2625,10 +2550,7 @@
     "Standard ID": "3A-AP-22",
     "Standard Text": "Design and develop computational artifacts working in team roles using collaborative tools.",
     "Course Name": "Web Development",
-    "Project Name": [
-      "4.3 Mystery Mansion",
-      "5.3 Code Corporation"
-    ]
+    "Project Name": ["4.3 Mystery Mansion", "5.3 Code Corporation"]
   },
   {
     "State": "CSTA",
@@ -2748,9 +2670,7 @@
     "Standard ID": "3A-IC-24",
     "Standard Text": "Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.1 Prototyping Our Future"
-    ]
+    "Project Name": ["0.1 Prototyping Our Future"]
   },
   {
     "State": "CSTA",
@@ -2758,10 +2678,7 @@
     "Standard ID": "3A-IC-24",
     "Standard Text": "Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.",
     "Course Name": "Data Science & AI",
-    "Project Name": [
-      "C1 Plagiarism Detector",
-      "C1 Bike Share Planning"
-    ]
+    "Project Name": ["C1 Plagiarism Detector", "C1 Bike Share Planning"]
   },
   {
     "State": "CSTA",
@@ -2769,9 +2686,7 @@
     "Standard ID": "3A-IC-25",
     "Standard Text": "Test and refine computational artifacts to reduce bias and equity deficits.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "1.2 City Builder"
-    ]
+    "Project Name": ["1.2 City Builder"]
   },
   {
     "State": "CSTA",
@@ -2779,10 +2694,7 @@
     "Standard ID": "3A-IC-25",
     "Standard Text": "Test and refine computational artifacts to reduce bias and equity deficits.",
     "Course Name": "Data Science & AI",
-    "Project Name": [
-      "C1 Plagiarism Detector",
-      "C1 Bike Share Planning"
-    ]
+    "Project Name": ["C1 Plagiarism Detector", "C1 Bike Share Planning"]
   },
   {
     "State": "CSTA",
@@ -2790,9 +2702,7 @@
     "Standard ID": "3A-IC-26",
     "Standard Text": "Demonstrate ways a given algorithm applies to problems across disciplines.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.8 Leaders in Technology"
-    ]
+    "Project Name": ["0.8 Leaders in Technology"]
   },
   {
     "State": "CSTA",
@@ -2800,10 +2710,7 @@
     "Standard ID": "3A-IC-26",
     "Standard Text": "Demonstrate ways a given algorithm applies to problems across disciplines.",
     "Course Name": "Data Science & AI",
-    "Project Name": [
-      "C1 Plagiarism Detector",
-      "C1 Bike Share Planning"
-    ]
+    "Project Name": ["C1 Plagiarism Detector", "C1 Bike Share Planning"]
   },
   {
     "State": "CSTA",
@@ -2811,9 +2718,7 @@
     "Standard ID": "3A-IC-28",
     "Standard Text": "Explain the beneficial and harmful effects that intellectual property laws can have on innovation.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.8 Leaders in Technology"
-    ]
+    "Project Name": ["0.8 Leaders in Technology"]
   },
   {
     "State": "CSTA",
@@ -2821,9 +2726,7 @@
     "Standard ID": "3A-IC-29",
     "Standard Text": "Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.8 Leaders in Technology"
-    ]
+    "Project Name": ["0.8 Leaders in Technology"]
   },
   {
     "State": "CSTA",
@@ -2831,9 +2734,7 @@
     "Standard ID": "3A-IC-29",
     "Standard Text": "Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.",
     "Course Name": "Data Science & AI",
-    "Project Name": [
-      "C1 Bike Share Planning"
-    ]
+    "Project Name": ["C1 Bike Share Planning"]
   },
   {
     "State": "CSTA",
@@ -2841,9 +2742,7 @@
     "Standard ID": "3A-IC-30",
     "Standard Text": "Evaluate the social and economic implications of privacy in the context of safety, law, or ethics.",
     "Course Name": "CS Dimensions with VR",
-    "Project Name": [
-      "0.8 Leaders in Technology"
-    ]
+    "Project Name": ["0.8 Leaders in Technology"]
   },
   {
     "State": "CSTA",
@@ -2911,7 +2810,7 @@
       "1.1 Autocorrect",
       "5.1 Roll Call",
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
@@ -2925,7 +2824,7 @@
     "Project Name": [
       "5.1 Roll Call",
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
@@ -2938,7 +2837,7 @@
     "Course Name": "Data Science & AI",
     "Project Name": [
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
@@ -2951,7 +2850,7 @@
     "Course Name": "Data Science & AI",
     "Project Name": [
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
@@ -3005,7 +2904,7 @@
       "4.6 COVID Cautious",
       "5.1 Roll Call",
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
@@ -3016,9 +2915,7 @@
     "Standard ID": "3B-AP-15",
     "Standard Text": "Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution.",
     "Course Name": "Data Science & AI",
-    "Project Name": [
-      "C1 Bike Share Planning"
-    ]
+    "Project Name": ["C1 Bike Share Planning"]
   },
   {
     "State": "CSTA",
@@ -3035,7 +2932,7 @@
       "4.6 COVID Cautious",
       "5.1 Roll Call",
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
@@ -3077,7 +2974,7 @@
       "C1 Plagiarism Detector",
       "C1 Bike Share Planning",
       "4.3 Mental Health Monitor",
-      "5.3 Handrwiting Detectives"
+      "5.3 Handwriting Detectives"
     ]
   },
   {
@@ -3113,7 +3010,7 @@
       "4.6 COVID Cautious",
       "5.1 Roll Call",
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
@@ -3148,10 +3045,7 @@
     "Standard ID": "3B-IC-25",
     "Standard Text": "Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society.",
     "Course Name": "Data Science & AI",
-    "Project Name": [
-      "C1 Plagiarism Detector",
-      "C1 Bike Share Planning"
-    ]
+    "Project Name": ["C1 Plagiarism Detector", "C1 Bike Share Planning"]
   },
   {
     "State": "CSTA",
@@ -3159,10 +3053,7 @@
     "Standard ID": "3B-IC-26",
     "Standard Text": "Evaluate the impact of equity, access, and influence on the distribution of computing resources in a global society.",
     "Course Name": "Data Science & AI",
-    "Project Name": [
-      "C1 Plagiarism Detector",
-      "C1 Bike Share Planning"
-    ]
+    "Project Name": ["C1 Plagiarism Detector", "C1 Bike Share Planning"]
   },
   {
     "State": "CSTA",
@@ -3173,7 +3064,7 @@
     "Project Name": [
       "5.1 Roll Call",
       "5.2 Sequel",
-      "5.3 Handrwiting Detectives",
+      "5.3 Handwriting Detectives",
       "5.4 Echoes of the Past",
       "5.5 Passion Project"
     ]
